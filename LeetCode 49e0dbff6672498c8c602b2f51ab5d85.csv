@@ -1,0 +1,1189 @@
+﻿#,Name,Difficult,Priority,Status,Tags,link,source,practicedTimes
+1,Two Sum,Easy,Pass,,"2pt_DiffDir, Hash",https://leetcode.com/problems/two-sum/,"HuaHua, LC_Top_Interview_150, jiuzhang, 算初TwoPointers",1
+3,Longest Substring Without Repeating Characters,Medium,Medium,,"2pt_SameDir_maxWin_chkValidBfrR, Hash, Sliding Window",https://leetcode.com/problems/longest-substring-without-repeating-characters/,"HuaHua, LC_Top_Interview_150, jiuzhang, 算高TwoPointers&PQ",1
+4,Median of Two Sorted Arrays,Hard,High,,"BS_Idx, kth",https://leetcode.com/problems/median-of-two-sorted-arrays/,"HuaHua, LC_Top_Interview_150, jiuzhang, 算初LinkedList&Array, 算初Tree Divide&Conquer",1
+6,[lint] Merge Two Sorted Arrays,Easy,Pass,,"Array, Merge",https://www.lintcode.com/problem/6/,"jiuzhang, 算初LinkedList&Array",1
+8,[lint] Rotate String,Easy,Low,,3 Step Rotate,https://www.lintcode.com/problem/rotate-string,"jiuzhang, 算初BS, 算初TwoPointers",1
+11,[lint] Search Range in Binary Search Tree,Medium,High,,"DFS, Tree",https://www.lintcode.com/problem/11/,"jiuzhang, 算初Tree Divide&Conquer",1
+12,Integer to Roman,Medium,Pass,,"Hash, string",https://leetcode.com/problems/integer-to-roman/,"LC_Top_Interview_150, googleFreq",1
+13,Roman to Integer,Easy,Pass,,"Hash, Math, string",https://leetcode.com/problems/roman-to-integer/,"HuaHua, LC_Top_Interview_150, googleFreq",1
+15,3Sum,Medium,Pass,,"2pt, 2pt_DiffDir, Hash",https://leetcode.com/problems/3sum/,"HuaHua, LC_Top_Interview_150, jiuzhang, wisdompeak, 算初TwoPointers",1
+16,3Sum Closest,Medium,Pass,,"2pt, 2pt_DiffDir",https://leetcode.com/problems/3sum-closest/,"HuaHua, jiuzhang, wisdompeak, 算初TwoPointers",1
+17,Letter Combinations of a Phone Number,Medium,Low,,"BackTracking, search",https://leetcode.com/problems/letter-combinations-of-a-phone-number/,"HuaHua, LC_75, LC_Top_Interview_150, googleFreq, leetcode_daily",
+18,4Sum,Medium,Pass,,"2pt, 2pt_DiffDir",https://leetcode.com/problems/4sum/,"jiuzhang, wisdompeak, 算初TwoPointers",1
+19,Remove Nth Node From End of List,Medium,Pass,,"2pt_SameDir_sameSpeed, LinkedList",https://leetcode.com/problems/remove-nth-node-from-end-of-list/,"LC_Top_Interview_150, jiuzhang, 算高TwoPointers&PQ",1
+20,Valid Parentheses,Easy,Pass,,stack,https://leetcode.com/problems/valid-parentheses/,"LC_Top_Interview_150, googleFreq",1
+21,Merge Two Sorted Lists,Easy,Pass,,"LinkedList, mergeList",https://leetcode.com/problems/merge-two-sorted-lists,"HuaHua, LC_Top_Interview_150, jiuzhang, 算初LinkedList&Array",1
+22,[lint] Flatten List,Easy,Pass,,stack,https://www.lintcode.com/problem/22/,"jiuzhang, 算高FollowUp",1
+23,Merge k Sorted Lists,Hard,Medium,,"Divide and Conquer, LinkedList, MergeSort, PQ",https://leetcode.com/problems/merge-k-sorted-lists/,"HuaHua, LC_Top_Interview_150, jiuzhang, ticktokFreq, 算初Tree Divide&Conquer",1
+25,Reverse Nodes in k-Group,Hard,Low,,"LinkedList, reversePartial",https://leetcode.com/problems/reverse-nodes-in-k-group/,"LC_Top_Interview_150, jiuzhang, 算初LinkedList&Array",1
+29,Divide Two Integers,Medium,Low,,"Bit Manipulation, Math",https://leetcode.com/problems/divide-two-integers/,"jiuzhang, 算初BS",
+31,[lint] Partition Array,Medium,Low,Dig More,"2pt_DiffDir, Partition",https://www.lintcode.com/problem/31/,"jiuzhang, 算初TwoPointers",1
+33,Search in Rotated Sorted Array,Medium,Low,,BS_Idx,https://leetcode.com/problems/search-in-rotated-sorted-array/,"HuaHua, LC_Top_Interview_150, jiuzhang, leetcode_daily, 算初BS",1
+38,[lint] Search a 2D Matrix II,Medium,Low,,BS_Idx,https://www.lintcode.com/problem/38/,"jiuzhang, 算初BS",1
+39,[lint] Recover Rotated Sorted Array,Easy,Low,,3 Step Rotate,https://www.lintcode.com/problem/recover-rotated-sorted-array,"jiuzhang, 算初BS, 算初TwoPointers",1
+39,Combination Sum,Medium,Low,,"BackTracking, Combination, search",https://leetcode.com/problems/combination-sum/,"LC_Top_Interview_150, jiuzhang, 算初DFS",1
+40,Combination Sum II,Medium,Low,,"BackTracking, Combination, search",https://leetcode.com/problems/combination-sum-ii/,"jiuzhang, 算初DFS",1
+42,Trapping Rain Water,Hard,Medium,,"2pt_DiffDir, Array, DP, Prefix, monotonic, stack",https://leetcode.com/problems/trapping-rain-water/,"HuaHua, LC_Top_Interview_150, jiuzhang, 算高Heap&Stack",1
+45,Jump Game II,Medium,Medium,More Solution,"Array, DP, GoForth, Greedy, buildFutureResults",https://leetcode.com/problems/jump-game-ii,"HuaHua, LC_Top_Interview_150, jiuzhang, ticktokFreq, 算初DP",1
+46,Permutations,Medium,Low,,"BackTracking, Permutation",https://leetcode.com/problems/permutations/,"LC_Top_Interview_150, jiuzhang, 算初DFS",1
+47,Permutations II,Medium,Low,,"BackTracking, Permutation",https://leetcode.com/problems/permutations-ii/,"jiuzhang, 算初DFS",1
+49,[lint] Sort Letters by Case,Medium,Pass,,Partition,https://www.lintcode.com/problem/49/,"jiuzhang, 算初TwoPointers",1
+49,Group Anagrams,Medium,Medium,,"Anagram, Hash",https://leetcode.com/problems/group-anagrams/,"LC_Top_Interview_150, jiuzhang, 算初Hash&Heap",1
+51,N-Queens,Hard,Low,,"BackTracking, Permutation, search",https://leetcode.com/problems/n-queens/,"HuaHua, jiuzhang, 算初DFS",1
+53,Maximum Subarray,Medium,Low,,"Array, Contribution>0, DP, Kadane, Prefix",https://leetcode.com/problems/maximum-subarray/,"HuaHua, LC_Top_Interview_150, jiuzhang, 算初DP, 算初LinkedList&Array, 算高FollowUp",1
+55,Jump Game,Medium,Medium,More Solution,"Array, DP, GoForth, Greedy, buildFutureResults",https://leetcode.com/problems/jump-game/,"HuaHua, LC_Top_Interview_150, jiuzhang, 算初DP",1
+56,Merge Intervals,Medium,Pass,,"Array, Geometry, Interval, Sort",https://leetcode.com/problems/merge-intervals/,"AmazonFreq, HuaHua, LC_Top_Interview_150, googleFreq, ticktokFreq",1
+57,Insert Interval,Medium,High,"Dig More, toSummarize","Array, BS_lower_upper_bound, Geometry, Interval",https://leetcode.com/problems/insert-interval/,"HuaHua, LC_Top_Interview_150, googleFreq",
+61,[lint] Search for a Range,Medium,Pass,,BS_Idx,https://www.lintcode.com/problem/61/,"jiuzhang, 算初BS",1
+61,Rotate List,Medium,Low,,LinkedList,https://leetcode.com/problems/rotate-list/description/,"HuaHua, LC_Top_Interview_150, jiuzhang, 算初LinkedList&Array",1
+62,Unique Paths,Medium,Pass,,"DP, GoForth, Matrix",https://leetcode.com/problems/unique-paths,"HuaHua, LC_75, jiuzhang, 算初DP, 算高DP上",1
+64,Minimum Path Sum,Medium,Pass,,"DP, GoForth, Matrix",https://leetcode.com/problems/minimum-path-sum/,"HuaHua, LC_Top_Interview_150, jiuzhang, 算初DP, 算高DP上",1
+68,Text Justification,Hard,Medium,checkBetterSolution,string,https://leetcode.com/problems/text-justification/,LC_Top_Interview_150,
+69,Sqrt(x),Easy,Low,,"BS_Idx, Math",https://leetcode.com/problems/sqrtx/,"LC_Top_Interview_150, jiuzhang, 算高BS&SwipeLine",1
+70,Climbing Stairs,Easy,Pass,,"Array, DP, GoForth",https://leetcode.com/problems/climbing-stairs,"HuaHua, LC_Top_Interview_150, jiuzhang, 算初DP, 算高DP上",1
+72,Edit Distance,Hard,High,,"DP, Matrix, StringMatchToMatrix, dp-TwoSeq, string",https://leetcode.com/problems/edit-distance/,"HuaHua, LC_75, LC_Top_Interview_150, jiuzhang, wp动归套路, 算高DP上, 算高DP下",1
+74,Search a 2D Matrix,Medium,Low,,BS_Idx,https://leetcode.com/problems/search-a-2d-matrix/,"LC_Top_Interview_150, jiuzhang, 算初BS",1
+75,Sort Colors,Medium,High,No Idea At First,"2pt, 2pt_SameDir_diffSpeed, Sort, swap_put_keep_sequence",https://leetcode.com/problems/sort-colors/,"jiuzhang, wisdompeak, 算初TwoPointers",1
+76,Minimum Window Substring,Hard,Medium,,"2pt_SameDir_minWin_chkValidAftR, Sliding Window",https://leetcode.com/problems/minimum-window-substring/,"LC_Top_Interview_150, jiuzhang, 算高TwoPointers&PQ",1
+78,Subsets,Medium,Low,More Solution,"BackTracking, BitMask, Combination, search",https://leetcode.com/problems/subsets,"HuaHua, jiuzhang, 算初DFS",1
+79,[lint] Longest Common Substring,Medium,Medium,,"DP, StringMatchToMatrix",https://www.lintcode.com/problem/longest-common-substring,"jiuzhang, 算高DP下",1
+80,[lint] Median,Easy,Medium,,"QuickSelect, kth",https://www.lintcode.com/problem/80/,"jiuzhang, 算初Tree Divide&Conquer",1
+84,Largest Rectangle in Histogram,Hard,High,,"monotonic, stack",https://leetcode.com/problems/largest-rectangle-in-histogram/,"jiuzhang, 算高Heap&Stack",1
+85,[lint] Insert Node in a Binary Search Tree,Easy,Low,,"1Path, Tree",https://www.lintcode.com/problem/85/,"jiuzhang, 算初Tree Divide&Conquer",1
+85,Maximal Rectangle,Hard,High,More Solution,"DP, Matrix, monotonic, stack",https://leetcode.com/problems/maximal-rectangle/,"jiuzhang, 算高DP上, 算高Heap&Stack",1
+86,Partition List,Medium,Low,,LinkedList,https://leetcode.com/problems/partition-list/,"LC_Top_Interview_150, jiuzhang, 算初LinkedList&Array",1
+87,Scramble String,Hard,Low,More Solution,"DFS, DP, string",https://leetcode.com/problems/scramble-string/,"HuaHua, jiuzhang, 算高DP下",
+88,Merge Sorted Array,Easy,Low,,"2pt, Array, Merge",https://leetcode.com/problems/merge-sorted-array/,"LC_Top_Interview_150, jiuzhang, wisdompeak, 算初LinkedList&Array",1
+89,[lint] k Sum,Hard,Medium,,"DP, dp-backpack",https://www.lintcode.com/problem/89/,"jiuzhang, 算高DP下",
+90,Subsets II,Medium,Low,,"BackTracking, Combination",https://leetcode.com/problems/subsets-ii/,"jiuzhang, 算初DFS",1
+91,[lint] Minimum Adjustment Cost,Medium,Low,,DP,https://www.lintcode.com/problem/minimum-adjustment-cost/,"jiuzhang, 算高DP下",
+91,Decode Ways,Medium,Low,,"Bottom_Up, DP",https://leetcode.com/problems/decode-ways/,"HuaHua, googleFreq",
+92,Reverse Linked List II,Medium,Low,,"LinkedList, reversePartial",https://leetcode.com/problems/reverse-linked-list-ii/,"LC_Top_Interview_150, jiuzhang, 算初LinkedList&Array",1
+92,[lint] Backpack,Medium,Low,,"DP, dp-backpack",https://www.lintcode.com/problem/92/,"jiuzhang, 算高DP下",
+94,Binary Tree Inorder Traversal,Easy,Low,,"Iterate, Tree",https://leetcode.com/problems/binary-tree-inorder-traversal/,"HuaHua, jiuzhang, 算初Tree Divide&Conquer",1
+97,Interleaving String,Medium,Medium,More Solution,"DP, StringMatchToMatrix, TopSorting, dp-TwoSeq",https://leetcode.com/problems/interleaving-string/,"HuaHua, LC_Top_Interview_150, jiuzhang, wp动归套路, 算高DP下",1
+98,Validate Binary Search Tree,Medium,Low,,"Iterate, Tree",https://leetcode.com/problems/validate-binary-search-tree/,"HuaHua, LC_Top_Interview_150, jiuzhang, 算初Tree Divide&Conquer",1
+100,Same Tree,Easy,Pass,,Tree,https://leetcode.com/problems/same-tree,"HuaHua, LC_Top_Interview_150, jiuzhang, 算初Tree Divide&Conquer",1
+102,Binary Tree Level Order Traversal,Medium,Low,,"BFS, Tree, tbfs_preChkNull_wSz",https://leetcode.com/problems/binary-tree-level-order-traversal/,"HuaHua, LC_Top_Interview_150, jiuzhang, ticktokFreq, 算初BFS, 算初Tree Divide&Conquer",1
+103,Binary Tree Zigzag Level Order Traversal,Medium,Pass,,"BFS, Tree",https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/,"LC_Top_Interview_150, jiuzhang, 算初BFS",1
+104,Maximum Depth of Binary Tree,Easy,Pass,,"DFS, Divide and Conquer, Tree, toNull",https://leetcode.com/problems/maximum-depth-of-binary-tree/,"HuaHua, LC_75, LC_Top_Interview_150, jiuzhang, 算初Tree Divide&Conquer",1
+105,Construct Binary Tree from Preorder and Inorder Traversal,Medium,Low,,Tree,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/,"LC_Top_Interview_150, jiuzhang, 算初Tree Divide&Conquer",1
+107,Binary Tree Level Order Traversal II,Medium,Pass,,"BFS, Tree",https://leetcode.com/problems/binary-tree-level-order-traversal-ii/,"HuaHua, jiuzhang, 算初BFS",1
+109,Convert Sorted List to Binary Search Tree,Medium,Medium,,"Divide and Conquer, LinkedList, Tree",https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/,"jiuzhang, 算初LinkedList&Array",1
+110,Balanced Binary Tree,Easy,Low,,"Divide and Conquer, Tree, toNull",https://leetcode.com/problems/balanced-binary-tree,"HuaHua, jiuzhang, 算初Tree Divide&Conquer",1
+111,Minimum Depth of Binary Tree,Easy,Low,,"Divide and Conquer, Tree, toLeaf",https://leetcode.com/problems/minimum-depth-of-binary-tree,"HuaHua, jiuzhang, 算初Tree Divide&Conquer",1
+114,Flatten Binary Tree to Linked List,Medium,High,,"Iterate, Tree, changeAffectIteration",https://leetcode.com/problems/flatten-binary-tree-to-linked-list/,"LC_Top_Interview_150, jiuzhang, 算初Tree Divide&Conquer",1
+115,Distinct Subsequences,Hard,Medium,,"DP, StringMatchToMatrix, dp-TwoSeq",https://leetcode.com/problems/distinct-subsequences/,"HuaHua, jiuzhang, wp动归套路, 算高DP下",
+120,Triangle,Medium,High,,"BFS, Bottom_Up, DP, Triangle",https://leetcode.com/problems/triangle,"HuaHua, LC_Top_Interview_150, jiuzhang, 算初DP",1
+121,[lint] Word Ladder II,Hard,Medium,Next Up,"BFS, DFS",https://www.lintcode.com/problem/121/,"jiuzhang, 算初DFS",1
+121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,Pass,More Solution,"Array, Greedy, dp-TimeSeqFromLastOne-Power, stateMachine",https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,"HuaHua, LC_Top_Interview_150",
+122,Best Time to Buy and Sell Stock II,Medium,Pass,,"Array, DP, Greedy",https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,"HuaHua, LC_Top_Interview_150",
+123,Best Time to Buy and Sell Stock III,Hard,Medium,,"DP, Game, dp-TimeSeqFromLastOne-Power, stateMachine",https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/,"LC_Top_Interview_150, wp动归套路",
+124,Binary Tree Maximum Path Sum,Hard,Medium,,"Divide and Conquer, Tree",https://leetcode.com/problems/binary-tree-maximum-path-sum/,"HuaHua, LC_Top_Interview_150, jiuzhang, ticktokFreq, 算初Tree Divide&Conquer",1
+125,Valid Palindrome,Easy,Pass,,2pt_DiffDir,https://leetcode.com/problems/valid-palindrome/,"HuaHua, LC_Top_Interview_150, jiuzhang, 算初TwoPointers",1
+125,[lint] Backpack II,Medium,Low,,"DP, dp-backpack",https://www.lintcode.com/problem/125/,"jiuzhang, 算高DP下",
+127,[lint] Topological Sorting,Medium,Low,,TopSorting,https://www.lintcode.com/problem/127/,"jiuzhang, 算初BFS",1
+127,Word Ladder,Hard,Medium,,"BFS, Graph, gbfs_preChkVisited_wSz, search, string",https://leetcode.com/problems/word-ladder/,"HuaHua, LC_Top_Interview_150, jiuzhang, 算初BFS, 算初DFS",1
+128,Longest Consecutive Sequence,Medium,Medium,More Solution,"Hash, Union Find",https://leetcode.com/problems/longest-consecutive-sequence/,"HuaHua, LC_Top_Interview_150, jiuzhang, 算初DP, 算初Hash&Heap",1
+129,[lint] Rehashing,Medium,Pass,,Hash,https://www.lintcode.com/problem/rehashing,"jiuzhang, 算初Hash&Heap",1
+130,[lint] Heapify,Medium,High,"Dig More, No Idea At First, toRevisit","Heap, PQ",https://www.lintcode.com/problem/130/,"jiuzhang, 算初Hash&Heap",1
+130,Surrounded Regions,Medium,Low,More Solution,"BFS, DFS, Graph, Union Find, search",https://leetcode.com/problems/surrounded-regions/,"HuaHua, LC_Top_Interview_150, jiuzhang, 算高UnionFind&Trie",1
+131,Palindrome Partitioning,Medium,Medium,More Solution,"BackTracking, Combination, DFS, DP",https://leetcode.com/problems/palindrome-partitioning/,"jiuzhang, 算初DFS, 算初DP",1
+133,Clone Graph,Medium,Medium,Next Up,"BFS, DFS, Graph, Hash, gbfs_preChkVisited_woSz",https://leetcode.com/problems/clone-graph/,"HuaHua, LC_Top_Interview_150, jiuzhang, 算初BFS",1
+138,https://leetcode.com/problems/copy-list-with-random-pointer/,Medium,Low,,"Graph, Hash, LinkedList",https://leetcode.com/problems/copy-list-with-random-pointer/,"LC_Top_Interview_150, jiuzhang, 算初Hash&Heap, 算初LinkedList&Array",1
+138,[lint] Subarray Sum,Easy,Low,,"Array, Contribution==, Hash, Prefix",https://www.lintcode.com/problem/138/,"jiuzhang, 算初Hash&Heap, 算初LinkedList&Array, 算高FollowUp",1
+139,[lint] Subarray Sum Closest,Medium,High,No Idea At First,"Array, Contribution, OrderMap, Prefix, Sort",https://www.lintcode.com/problem/subarray-sum-closest,"jiuzhang, 算初LinkedList&Array",1
+141,Linked List Cycle,Easy,Pass,,"2pt_SameDir_FastDoubleSpeed, Cycle, Hash, LinkedList",https://leetcode.com/problems/linked-list-cycle/,"HuaHua, LC_Top_Interview_150, jiuzhang, wisdompeak, 算初LinkedList&Array, 算高TwoPointers&PQ",1
+142,Linked List Cycle II,Medium,Low,,"2pt_SameDir_FastDoubleSpeed, Cycle, LinkedList",https://leetcode.com/problems/linked-list-cycle-ii/,"jiuzhang, wisdompeak, 算初LinkedList&Array, 算高TwoPointers&PQ",1
+143,Reorder List,Medium,Low,,"LinkedList, listMid, mergeList, reverseAll",https://leetcode.com/problems/reorder-list/,"jiuzhang, 算初LinkedList&Array",1
+143,[lint] Sort Colors II,Medium,High,"No Idea At First, toRevisit","Sort, quickSort",https://www.lintcode.com/problem/143/,"jiuzhang, 算初TwoPointers",1
+144,Binary Tree Preorder Traversal,Easy,Low,,"Iterate, Tree",https://leetcode.com/problems/binary-tree-preorder-traversal/,"HuaHua, jiuzhang, 算初Tree Divide&Conquer",1
+144,[lint] Interleaving Positive and Negative Numbers,Medium,Low,,Partition,https://www.lintcode.com/problem/interleaving-positive-and-negative-numbers,"jiuzhang, 算初TwoPointers",1
+145,Binary Tree Postorder Traversal,Easy,Low,,"Iterate, Tree",https://leetcode.com/problems/binary-tree-postorder-traversal/,"HuaHua, jiuzhang, 算初Tree Divide&Conquer",1
+146,LRU Cache,Medium,Medium,Dig More,"Hash, LinkedList",https://leetcode.com/problems/lru-cache/,"HuaHua, LC_Top_Interview_150, jiuzhang, 算初Hash&Heap",1
+148,Sort List,Medium,Medium,,"Divide and Conquer, LinkedList, MergeSort",https://leetcode.com/problems/sort-list,"HuaHua, LC_Top_Interview_150, jiuzhang, 算初LinkedList&Array",1
+153,Find Minimum in Rotated Sorted Array,Medium,Medium,,"BS_Idx, Divide and Conquer",https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,"HuaHua, LC_Top_Interview_150, jiuzhang, 算初BS",1
+155,Min Stack,Medium,Pass,,stack,https://leetcode.com/problems/min-stack/,"LC_Top_Interview_150, jiuzhang, 算高Heap&Stack",1
+156,Binary Tree Upside Down,Medium,High,"Dig More, More Solution","DFS, LinkedList, Tree, reverseAll, stack",https://leetcode.com/problems/binary-tree-upside-down/,googleFreq,
+158,Read N Characters Given read4 II - Call Multiple Times,Hard,High,Dig More,simulation,https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/,googleFreq,
+160,Intersection of Two Linked Lists,Easy,Medium,No Idea At First,LinkedList,https://leetcode.com/problems/intersection-of-two-linked-lists,"jiuzhang, 算初LinkedList&Array",1
+161,One Edit Distance,Medium,Pass,,2pt_SameDir_diffSpeed,https://leetcode.com/problems/one-edit-distance/,googleFreq,
+162,Find Peak Element,Medium,Low,,BS_Idx,https://leetcode.com/problems/find-peak-element/,"LC_75, LC_Top_Interview_150, jiuzhang, 算初BS, 算高BS&SwipeLine",1
+163,Missing Ranges,Easy,Pass,,Interval,https://leetcode.com/problems/missing-ranges/,"googleFreq, leetcode_daily",
+167,Two Sum II - Input Array Is Sorted,Medium,Pass,,2pt_DiffDir,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,"HuaHua, LC_Top_Interview_150, jiuzhang, 算初TwoPointers",1
+170,Two Sum III - Data structure design,Easy,Pass,More Solution,2pt_DiffDir,https://leetcode.com/problems/two-sum-iii-data-structure-design/,"jiuzhang, 算初TwoPointers",1
+173,Binary Search Tree Iterator,Medium,Low,,"Iterate, Tree",https://leetcode.com/problems/binary-search-tree-iterator/,"LC_Top_Interview_150, jiuzhang, 算初Tree Divide&Conquer, 算高FollowUp",1
+183,[lint] Wood Cut,Hard,Low,,BS_Val,https://www.lintcode.com/problem/183/,"jiuzhang, 算初BS, 算高BS&SwipeLine",1
+188,Best Time to Buy and Sell Stock IV,Hard,High,"More Solution, No Idea At First","DP, Game, dp-TimeSeqFromLastOne-Power, stateMachine",https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/,LC_Top_Interview_150,
+198,House Robber,Medium,Pass,,"Array, DP, dp-TimeSeqFromLastOne-Power, stateMachine",https://leetcode.com/problems/house-robber/,"HuaHua, LC_75, LC_Top_Interview_150, jiuzhang, wp动归套路, 算高DP上",1
+200,Number of Islands,Medium,Medium,,"BFS, Connected_Component, DFS, Graph, Matrix, Union Find, mbfs_preChkVisited_woSZ, search",https://leetcode.com/problems/number-of-islands,"AmazonFreq, HuaHua, LC_Top_Interview_150, jiuzhang, 算初BFS, 算高UnionFind&Trie",1
+201,[lint] Segment Tree Build,Medium,Pass,,SegmentTree_idx,https://www.lintcode.com/problem/201/,"jiuzhang, 算高SegmentTree",1
+202,[lint] Segment Tree Query,Medium,Pass,,SegmentTree_idx,https://www.lintcode.com/problem/segment-tree-query,"jiuzhang, 算高SegmentTree",1
+203,[lint] Segment Tree Modify,Medium,Low,,SegmentTree_idx,https://www.lintcode.com/problem/203/,"jiuzhang, 算高SegmentTree",1
+205,[lint] Interval Minimum Number,Medium,Low,More Solution,SegmentTree_idx,https://www.lintcode.com/problem/205/,"jiuzhang, 算高SegmentTree",1
+205,Isomorphic Strings,Easy,Low,,"Hash, string",https://leetcode.com/problems/isomorphic-strings/,"LC_Top_Interview_150, googleFreq",
+206,Reverse Linked List,Easy,Low,,"LinkedList, reverseAll",https://leetcode.com/problems/reverse-linked-list,"HuaHua, LC_75, jiuzhang, 算初LinkedList&Array",1
+206,[lint] Interval Sum,Medium,Pass,,"Prefix, SegmentTree_idx",https://www.lintcode.com/problem/206/,"jiuzhang, 算高SegmentTree",1
+206,[lint] Interval Sum,Medium,Pass,,Prefix,https://www.lintcode.com/problem/interval-sum/,googleFreq,
+207,Course Schedule,Medium,Medium,,"Graph, TopSorting",https://leetcode.com/problems/course-schedule/,"HuaHua, LC_Top_Interview_150, jiuzhang, 算初BFS",1
+207,[lint] Interval Sum II,Hard,Low,,SegmentTree_idx,https://www.lintcode.com/problem/207/,"jiuzhang, 算高SegmentTree",1
+208,Implement Trie (Prefix Tree),Medium,Medium,,"Design, Tree, Trie",https://leetcode.com/problems/implement-trie-prefix-tree/,"HuaHua, LC_75, LC_Top_Interview_150, jiuzhang, 算高UnionFind&Trie",1
+209,Minimum Size Subarray Sum,Medium,Low,More Solution,"2pt_SameDir_minWin_chkValidAftR, Sliding Window",https://leetcode.com/problems/minimum-size-subarray-sum/,"LC_Top_Interview_150, jiuzhang, ticktokFreq, wisdompeak, 算高TwoPointers&PQ",1
+211,Design Add and Search Words Data Structure,Medium,High,Dig More,Trie,https://leetcode.com/problems/design-add-and-search-words-data-structure/,"LC_Top_Interview_150, jiuzhang, 算高UnionFind&Trie",1
+212,Word Search II,Hard,High,HardToImplement,"BackTracking, DFS, Matrix, Trie, search",https://leetcode.com/problems/word-search-ii/,"LC_Top_Interview_150, jiuzhang, 算高UnionFind&Trie",1
+213,House Robber II,Medium,Pass,,"Array, DP, dp-TimeSeqFromLastOne-Power, stateMachine",https://leetcode.com/problems/house-robber-ii/,"HuaHua, jiuzhang, wp动归套路, 算高DP上",1
+215,Kth Largest Element in an Array,Medium,Low,,"PQ, QuickSelect, kth",https://leetcode.com/problems/kth-largest-element-in-an-array,"LC_75, LC_Top_Interview_150, jiuzhang, leetcode_daily, 算初TwoPointers, 算高FollowUp",1
+218,The Skyline Problem,Hard,High,,"Geometry, OrderMap, PQ, Sort, Sweep-Line, Tree",https://leetcode.com/problems/the-skyline-problem/description/,"HuaHua, jiuzhang, 算初Hash&Heap, 算高BS&SwipeLine",1
+221,Maximal Square,Medium,Low,,"DP, Matrix",https://leetcode.com/problems/maximal-square/,"HuaHua, LC_Top_Interview_150, jiuzhang, 算高DP上",1
+232,Implement Queue using Stacks,Easy,Pass,,stack,https://leetcode.com/problems/implement-queue-using-stacks/,"jiuzhang, 算高Heap&Stack",1
+236,Lowest Common Ancestor of a Binary Tree,Medium,High,"Dig More, toRevisit","BinaryLifting, DFS, Divide and Conquer, Tree",https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,"HuaHua, LC_75, LC_Top_Interview_150, jiuzhang, 算初Tree Divide&Conquer",
+237,Delete Node in a Linked List,Easy,Pass,,LinkedList,https://leetcode.com/problems/delete-node-in-a-linked-list/,"jiuzhang, 算初LinkedList&Array",1
+239,Sliding Window Maximum,Hard,Medium,,"Sliding Window, deque, monotonic",https://leetcode.com/problems/sliding-window-maximum/,"jiuzhang, 算高BS&SwipeLine",1
+242,[lint] Convert Binary Tree to Linked Lists by Depth,Easy,Pass,,"BFS, Tree",https://www.lintcode.com/problem/242/,"jiuzhang, 算初BFS",1
+246,Strobogrammatic Number,Easy,Pass,,2pt_DiffDir,https://leetcode.com/problems/strobogrammatic-number/,googleFreq,
+247,[lint] Segment Tree Query II,Medium,Low,,SegmentTree_idx,https://www.lintcode.com/problem/segment-tree-query-ii/,"jiuzhang, 算高SegmentTree",1
+248,[lint] Count of Smaller Number,Medium,Medium,toRevisit,"BS_lower_upper_bound, SegmentTree_val, Sort",http://www.lintcode.com/en/problem/count-of-smaller-number,"jiuzhang, 算高SegmentTree",1
+251,Flatten 2D Vector,Medium,Pass,,iterator,https://leetcode.com/problems/flatten-2d-vector/,"jiuzhang, 算高FollowUp",1
+256,Paint House,Medium,Low,,"DP, dp-TimeSeqFromLastOne-Power, stateMachine",https://leetcode.com/problems/paint-house/,wp动归套路,
+257,Binary Tree Paths,Easy,Low,,"Divide and Conquer, Tree, toNull",https://leetcode.com/problems/binary-tree-paths/,"jiuzhang, 算初Tree Divide&Conquer",1
+261,Graph Valid Tree,Medium,Medium,,"BFS, DFS, Graph, Union Find, gbfs_postChkVisited, gbfs_preChkVisited_woSz",https://leetcode.com/problems/graph-valid-tree/,"jiuzhang, 算初BFS, 算高UnionFind&Trie",1
+264,Ugly Number II,Medium,High,"Dig More, No Idea At First","DP, Hash, Math, PQ, kth",https://leetcode.com/problems/ugly-number-ii/,"HuaHua, jiuzhang, 算初DP, 算初Hash&Heap",1
+271,Encode and Decode Strings,Medium,Low,More Solution,,https://leetcode.com/problems/encode-and-decode-strings/,googleFreq,
+277,Find the Celebrity,Medium,Medium,No Idea At First,"DP, Graph, Greedy",https://leetcode.com/problems/find-the-celebrity/,googleFreq,
+278,First Bad Version,Easy,Pass,,BS_Idx,https://leetcode.com/problems/first-bad-version/,"jiuzhang, 算初BS, 算高BS&SwipeLine",1
+280,Wiggle Sort,Medium,Pass,,"Greedy, Sort",https://leetcode.com/problems/wiggle-sort/,"jiuzhang, 算高FollowUp",1
+283,Move Zeroes,Easy,High,,"2pt_SameDir_diffSpeed, Array, swap_put_keep_sequence",https://leetcode.com/problems/move-zeroes/,"HuaHua, LC_75, jiuzhang, wisdompeak, 算初TwoPointers",1
+285,Inorder Successor in BST,Medium,High,,"1Path, Tree",https://leetcode.com/problems/inorder-successor-in-bst/,"jiuzhang, 算初Tree Divide&Conquer",1
+287,Find the Duplicate Number,Medium,Low,More Solution,"BS_Val, Cycle",https://leetcode.com/problems/find-the-duplicate-number/,"jiuzhang, 算高BS&SwipeLine",1
+288,Unique Word Abbreviation,Medium,Pass,,Hash,https://leetcode.com/problems/unique-word-abbreviation/,googleFreq,
+295,Find Median from Data Stream,Hard,Medium,,"Design, PQ, Tree",https://leetcode.com/problems/find-median-from-data-stream/,"HuaHua, LC_Top_Interview_150, jiuzhang, 算初Hash&Heap, 算高Heap&Stack",1
+297,Serialize and Deserialize Binary Tree,Hard,High,,"BFS, Design, Divide and Conquer, Iterate, Tree, tbfs_postChkNull_soSz",https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,"HuaHua, jiuzhang, 算初BFS",1
+300,Longest Increasing Subsequence,Medium,High,"More Solution, toRevisit","Array, BS_todo, DP, GoForth, PatienceSort, UsePreResults, dp-TimeSeqFromLastX",https://leetcode.com/problems/longest-increasing-subsequence/,"HuaHua, LC_Top_Interview_150, jiuzhang, wp动归套路, 算初DP",1
+302,Smallest Rectangle Enclosing Black Pixels,Hard,Low,,"BFS, BS_Idx, Matrix",https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/,"jiuzhang, 算初BFS, 算初BS",1
+305,Number of Islands II,Hard,Medium,,Union Find,https://leetcode.com/problems/number-of-islands-ii,"jiuzhang, 算高UnionFind&Trie",1
+309,Best Time to Buy and Sell Stock with Cooldown,Medium,High,More Solution,"DP, dp-TimeSeqFromLastOne-Power, stateMachine",https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown,"HuaHua, wp动归套路",
+312,Burst Balloons,Hard,Low,,"Array, DP, dp-Pyr",https://leetcode.com/problems/burst-balloons/,"HuaHua, jiuzhang, wp动归套路, 算高DP下",
+315,Count of Smaller Numbers After Self,Hard,High,"More Solution, No Idea At First","Divide and Conquer, MergeSort, SegmentTree_val, Tree",https://leetcode.com/problems/count-of-smaller-numbers-after-self/,"HuaHua, jiuzhang, 算高SegmentTree",1
+323,Number of Connected Components in an Undirected Graph,Medium,Low,More Solution,"BFS, DFS, Graph, Union Find",https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/,"jiuzhang, 算初BFS",1
+324,Wiggle Sort II,Medium,Medium,More Solution,QuickSelect,https://leetcode.com/problems/wiggle-sort-ii/,"jiuzhang, 算高FollowUp",1
+329,Longest Increasing Path in a Matrix,Hard,Low,More Solution,"DFS, DP, Graph, Matrix, search",https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,"HuaHua, googleFreq",
+340,Longest Substring with At Most K Distinct Characters,Medium,Medium,,2pt_SameDir_maxWin_chkValidAftR,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/,"jiuzhang, 算高TwoPointers&PQ",1
+341,Flatten Nested List Iterator,Medium,Low,,"iterator, stack",https://leetcode.com/problems/flatten-nested-list-iterator/,"jiuzhang, 算高FollowUp",1
+346,Moving Average from Data Stream,Easy,Pass,,queue,https://leetcode.com/problems/moving-average-from-data-stream/submissions/,googleFreq,
+349,Intersection of Two Arrays,Easy,Pass,,Array,https://leetcode.com/problems/intersection-of-two-arrays/,"jiuzhang, 算初LinkedList&Array",1
+354,Russian Doll Envelopes,Hard,Pass,,"Array, DP, GoForth, UsePreResults",https://leetcode.com/problems/russian-doll-envelopes/,"jiuzhang, 算初DP",1
+359,Logger Rate Limiter,Easy,Pass,,,https://leetcode.com/problems/logger-rate-limiter/,googleFreq,
+366,Find Leaves of Binary Tree,Medium,Medium,,"DFS, Divide and Conquer, Tree",https://leetcode.com/problems/find-leaves-of-binary-tree/,googleFreq,
+368,Largest Divisible Subset,Medium,Medium,,"Array, DP, GoForth, UsePreResults, dp-TimeSeqFromLastX",https://leetcode.com/problems/largest-divisible-subset/,"jiuzhang, wp动归套路, 算初DP",1
+374,Guess Number Higher or Lower,Easy,Pass,,BS_Val,https://leetcode.com/problems/guess-number-higher-or-lower/,"LC_75, googleFreq",
+375,Guess Number Higher or Lower II,Medium,Low,,dp-Pyr,https://leetcode.com/problems/guess-number-higher-or-lower-ii/,wp动归套路,
+376,Wiggle Subsequence,Medium,High,"Dig More, More Solution, No Idea At First","DP, dp-TimeSeqFromLastOne-Power, stateMachine",https://leetcode.com/problems/wiggle-subsequence/,wp动归套路,
+378,Kth Smallest Element in a Sorted Matrix,Medium,Medium,"CalcuComplexity, No Idea At First","BS_Val, PQ, kth",https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/,"HuaHua, jiuzhang, 算初Hash&Heap, 算高TwoPointers&PQ",1
+387,First Unique Character in a String,Easy,Pass,,Hash,https://leetcode.com/problems/first-unique-character-in-a-string/,googleFreq,
+388,Longest Absolute File Path,Medium,High,,"DFS, stack, string",https://leetcode.com/problems/longest-absolute-file-path/,googleFreq,
+390,[lint] Find Peak Element II,Hard,Low,More Solution,BS_Idx,https://www.lintcode.com/problem/find-peak-element-ii/,"jiuzhang, 算初BS, 算高BS&SwipeLine",1
+391,[lint] Number of Airplanes in the Sky,Medium,Pass,,"Hash, Sort, Sweep-Line",https://www.lintcode.com/problem/391/,"HuaHua, jiuzhang, 算高BS&SwipeLine",1
+394,Decode String,Medium,High,More Solution,"recursion, stack",https://leetcode.com/problems/decode-string/,"HuaHua, LC_75, jiuzhang, 算高Heap&Stack",1
+394,[lint] Coins in a Line,Medium,Low,,"DP, Game",https://www.lintcode.com/problem/394/,"jiuzhang, 算高DP上",1
+395,[lint] Coins in a Line II,Medium,Medium,,"DP, Game",https://www.lintcode.com/problem/395/,"jiuzhang, 算高DP上",1
+396,[lint] Coins in a Line III,Hard,Medium,,"DP, Game, dp-Pyr",https://www.lintcode.com/problem/coins-in-a-line-iii/description,"jiuzhang, 算高DP上",1
+398,[lint] Longest Continuous Increasing Subsequence II,Hard,Low,,"DFS, DP, Matrix",https://www.lintcode.com/problem/longest-continuous-increasing-subsequence-ii/description,"jiuzhang, 算高DP上",1
+399,[lint] Nuts & Bolts Problem,Medium,High,,"Partition_with_pivotIdx, quickSort",https://www.lintcode.com/problem/nuts-bolts-problem/,"jiuzhang, 算高FollowUp",1
+402,[lint] Continuous Subarray Sum,Medium,Pass,,"Contribution>0, Prefix",https://www.lintcode.com/problem/402/,"jiuzhang, 算高FollowUp",1
+403,Frog Jump,Hard,Medium,,"Array, DP, GoForth, buildFutureResults",https://leetcode.com/problems/frog-jump/,"jiuzhang, 算初DP",1
+403,[lint] Continuous Subarray Sum II,Medium,Medium,,"Contribution>0, Prefix",https://www.lintcode.com/problem/continuous-subarray-sum-ii,"jiuzhang, 算高FollowUp",1
+404,[lint] Subarray Sum II,Hard,Medium,,"2pt_SameDir_diffSpeed, Prefix",http://www.lintcode.com/en/problem/subarray-sum-ii/,"jiuzhang, 算高FollowUp",1
+405,[lint] Submatrix Sum,Medium,Medium,,Prefix,https://www.lintcode.com/problem/submatrix-sum,"jiuzhang, 算高FollowUp",1
+407,Trapping Rain Water II,Hard,Medium,,"PQ, mbfs_preChkVisited_woSZ",https://leetcode.com/problems/trapping-rain-water-ii/,"jiuzhang, 算高Heap&Stack",1
+408,Valid Word Abbreviation,Easy,Pass,,2pt_SameDir_diffSpeed,https://leetcode.com/problems/valid-word-abbreviation/,googleFreq,
+410,Split Array Largest Sum,Hard,Medium,,"BS_todo, Greedy, dp-K_Ranges",https://leetcode.com/problems/split-array-largest-sum/,"HuaHua, wp动归套路",
+425,Word Squares,Hard,High,,"BackTracking, DFS, Permutation, Trie",https://leetcode.com/problems/word-squares/,"jiuzhang, 算高UnionFind&Trie",1
+426,Convert Binary Search Tree to Sorted Doubly Linked List,Medium,Low,,"Iterate, Tree, changeNotAffectIteration",https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list,"jiuzhang, 算初Tree Divide&Conquer",1
+426,Convert Binary Search Tree to Sorted Doubly Linked List,Medium,Medium,,"Iterate, LinkedList, Tree, changeNotAffectIteration",https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/,"jiuzhang, 算初LinkedList&Array",1
+437,[lint] Copy Books,Medium,Low,,BS_Val,https://www.lintcode.com/problem/437/,"jiuzhang, 算初BS, 算高BS&SwipeLine",1
+438,[lint] Copy Books II,Hard,Pass,More Solution,BS_Val,https://www.lintcode.com/problem/copy-books-ii/description,"jiuzhang, 算高BS&SwipeLine",1
+438,Find All Anagrams in a String,Medium,Medium,,"2pt_SameDir_sameSpeed, Hash, Sliding Window",https://leetcode.com/problems/find-all-anagrams-in-a-string/,"HuaHua, googleFreq",
+439,[lint] Segment Tree Build II,Medium,Low,,SegmentTree_idx,https://www.lintcode.com/problem/439,"jiuzhang, 算高SegmentTree",1
+443,[lint] Two Sum - Greater than target,Medium,Pass,,2pt_DiffDir,https://www.lintcode.com/problem/two-sum-greater-than-target,"jiuzhang, 算初TwoPointers",1
+444,Sequence Reconstruction,Medium,Medium,,"Graph, TopSorting",https://leetcode.com/problems/sequence-reconstruction/,"jiuzhang, 算初BFS",1
+447,[lint] Search in a Big Sorted Array,Medium,Low,,BS_Idx,https://www.lintcode.com/problem/search-in-a-big-sorted-array,"jiuzhang, 算初BS",1
+450,Delete Node in a BST,Medium,High,"HardToImplement, More Solution","1Path, BST, Tree",https://leetcode.com/problems/delete-node-in-a-bst/,"HuaHua, LC_75, jiuzhang, 算初Tree Divide&Conquer",1
+460,https://leetcode.com/problems/lfu-cache/,Hard,Medium,Dig More,"Design, Hash, LinkedList, Tree",https://leetcode.com/problems/lfu-cache/,"HuaHua, jiuzhang, 算初Hash&Heap",1
+462,[lint] Total Occurrence of Target,Easy,Pass,,BS_Idx,https://www.lintcode.com/problem/total-occurrence-of-target/description,"jiuzhang, 算初BS",1
+465,[lint] Kth Smallest Sum In Two Sorted Arrays,Hard,Low,"More Solution, No Idea At First","BS_Idx, PQ",https://www.lintcode.com/problem/kth-smallest-sum-in-two-sorted-arrays,"jiuzhang, 算高TwoPointers&PQ",1
+470,[lint] Tweaked Identical Binary Tree,Easy,Pass,,Tree,https://www.lintcode.com/problem/tweaked-identical-binary-tree,"jiuzhang, 算初Tree Divide&Conquer",1
+474,Ones and Zeroes,Medium,High,Dig More,dp-backpack,https://leetcode.com/problems/ones-and-zeroes/,wp动归套路,
+476,[lint] Stone Game,Medium,Low,,"DP, dp-Pyr, interval dp",https://www.lintcode.com/problem/476/,"jiuzhang, 算高DP下",
+480,Sliding Window Median,Hard,High,More Solution,"2pt_SameDir_sameSpeed, BS_todo, OrderSet",https://leetcode.com/problems/sliding-window-median/,"HuaHua, jiuzhang, 算高Heap&Stack",1
+486,[lint] Merge K Sorted Arrays,Medium,Low,,"MergeSort, PQ",https://www.lintcode.com/problem/merge-k-sorted-arrays,"jiuzhang, 算初Hash&Heap",1
+487,Max Consecutive Ones II,Medium,Low,,"2pt, DP, dp-TimeSeqFromLastOne-Power, stateMachine",https://leetcode.com/problems/max-consecutive-ones-ii/,wp动归套路,
+489,Robot Room Cleaner,Hard,High,"No Idea At First, toSummarize","BackTracking, DFS, Matrix",https://leetcode.com/problems/robot-room-cleaner/,googleFreq,
+494,Target Sum,Medium,High,Dig More,dp-backpack,https://leetcode.com/problems/target-sum/,"HuaHua, wp动归套路",
+511,[lint] Swap Two Nodes in Linked List,Medium,Low,,LinkedList,https://www.lintcode.com/problem/511/,"jiuzhang, 算初LinkedList&Array",1
+516,Longest Palindromic Subsequence,Medium,Medium,,dp-Pyr,https://leetcode.com/problems/longest-palindromic-subsequence/,"HuaHua, wp动归套路",
+518,Coin Change II,Medium,Low,,dp-backpack,https://leetcode.com/problems/coin-change-ii/,wp动归套路,
+521,[lint] Remove Duplicate Numbers in Array,Easy,Low,,"2pt_SameDir_diffSpeed, Array",https://www.lintcode.com/problem/remove-duplicate-numbers-in-array,"jiuzhang, 算初TwoPointers",1
+526,[lint] Load Balancer,Medium,Medium,Dig More,"Hash, Random",https://www.lintcode.com/problem/526/,googleFreq,
+528,Random Pick with Weight,Medium,Medium,,"BS_lower_upper_bound, Prefix, Random",https://leetcode.com/problems/random-pick-with-weight/,googleFreq,
+532,[lint] Reverse Pairs,Medium,High,Dig More,MergeSort,https://www.lintcode.com/problem/532/,"jiuzhang, 算初Tree Divide&Conquer",1
+533,[lint] Two Sum - Closest to target,Medium,Pass,,2pt_DiffDir,https://www.lintcode.com/problem/two-sum-closest-to-target,"jiuzhang, 算初TwoPointers",1
+538,Convert BST to Greater Tree,Medium,Pass,,"Iterate, Tree",https://leetcode.com/problems/convert-bst-to-greater-tree/,googleFreq,
+543,[lint] Kth Largest in N Arrays,Hard,Low,CalcuComplexity,PQ,https://www.lintcode.com/problem/kth-largest-in-n-arrays,"jiuzhang, 算高TwoPointers&PQ",1
+544,[lint] Top k Largest Numbers,Medium,Pass,,"PQ, TopK",https://www.lintcode.com/problem/top-k-largest-numbers,"jiuzhang, 算初Hash&Heap",1
+545,[lint] Top k Largest Numbers II,Medium,Pass,,"PQ, TopK",https://www.lintcode.com/problem/top-k-largest-numbers-ii,"jiuzhang, 算初Hash&Heap",1
+546,Remove Boxes,Hard,High,"Dig More, No Idea At First, NotUnderstand","DFS, dp-Pyr, dp-状态转移不仅依赖前一项",https://leetcode.com/problems/remove-boxes/,wp动归套路,
+551,Student Attendance Record I,Easy,Low,,string,https://leetcode.com/problems/student-attendance-record-i/,"HuaHua, googleFreq",
+552,Student Attendance Record II,Hard,High,"More Solution, No Idea At First, toSummarize","DP, stateMachine",https://leetcode.com/problems/student-attendance-record-ii/,googleFreq,
+562,[lint] Backpack IV,Medium,Low,,"DP, dp-backpack",https://www.lintcode.com/problem/562/,"jiuzhang, 算高DP下",
+572,Subtree of Another Tree,Easy,Low,,"Divide and Conquer, Tree",https://leetcode.com/problems/subtree-of-another-tree/,"jiuzhang, 算初Tree Divide&Conquer",1
+573,[lint] Build Post Office II,Hard,Low,Next Up,"BFS, Matrix, mbfs_preChkVisited_wSz",https://www.lintcode.com/problem/build-post-office-ii,"jiuzhang, 算初BFS",1
+583,Delete Operation for Two Strings,Medium,Pass,dup,dp-TwoSeq,https://leetcode.com/problems/delete-operation-for-two-strings/,"HuaHua, wp动归套路",
+585,[lint] Maximum Number in Mountain Sequence,Medium,Low,,BS_Idx,https://www.lintcode.com/problem/585/,"jiuzhang, 算初BS",1
+586,[lint] Sqrt(x) II,Medium,Low,,BS_Idx,https://www.lintcode.com/problem/sqrtx-ii/description,"jiuzhang, 算高BS&SwipeLine",1
+587,[lint] Two Sum - Unique pairs,Medium,Pass,,2pt_DiffDir,https://www.lintcode.com/problem/two-sum-unique-pairs,"jiuzhang, 算初TwoPointers",1
+589,[lint] Connecting Graph,Medium,Medium,,Union Find,https://www.lintcode.com/problem/connecting-graph/,"jiuzhang, 算高UnionFind&Trie",1
+590,[lint] Connecting Graph II,Medium,Pass,,Union Find,https://www.lintcode.com/problem/connecting-graph-ii/,"jiuzhang, 算高UnionFind&Trie",1
+591,[lint] Connecting Graph III,Medium,Pass,,Union Find,https://www.lintcode.com/problem/591/,"jiuzhang, 算高UnionFind&Trie",1
+596,[lint] Minimum Subtree,Easy,Low,,"Divide and Conquer, Tree, toNull",https://www.lintcode.com/problem/minimum-subtree/,"jiuzhang, 算初Tree Divide&Conquer",1
+597,[lint] Subtree with Maximum Average,Easy,Low,,"Divide and Conquer, Tree, toNull",https://www.lintcode.com/problem/subtree-with-maximum-average,"jiuzhang, 算初Tree Divide&Conquer",1
+598,[lint] Zombie in Matrix,Medium,Medium,,"BFS, Matrix, mbfs_preChkVisited_wSz",https://www.lintcode.com/problem/zombie-in-matrix,"jiuzhang, 算初BFS",1
+604,[lint] Window Sum,Easy,Pass,,"Sliding Window, changeAffectIteration",https://www.lintcode.com/problem/window-sum,"jiuzhang, 算初TwoPointers",1
+609,[lint] Two Sum - Less than or equal to target,Medium,Pass,,2pt_DiffDir,https://www.lintcode.com/problem/two-sum-less-than-or-equal-to-target,"jiuzhang, 算初TwoPointers",1
+610,[lint] Two Sum - Difference equals to target,Medium,Medium,,2pt_SameDir_diffSpeed,https://www.lintcode.com/problem/two-sum-difference-equals-to-target,"jiuzhang, 算初TwoPointers",1
+611,[lint] Knight Shortest Path,Medium,Low,,"BFS, Matrix, mbfs_preChkVisited_wSz",https://www.lintcode.com/problem/knight-shortest-path,"jiuzhang, 算初BFS",1
+611,Valid Triangle Number,Medium,High,,"2pt_DiffDir, Greedy, Math",https://leetcode.com/problems/valid-triangle-number/,"HuaHua, jiuzhang, 算初TwoPointers",1
+618,[lint] Search Graph Nodes,Medium,Low,,"BFS, Graph, gbfs_preChkVisited_woSz",https://www.lintcode.com/problem/search-graph-nodes,"jiuzhang, 算初BFS",1
+623,[lint] K Edit Distance,Hard,High,,"DFS, DP, StringMatchToMatrix, Trie",https://www.lintcode.com/problem/k-edit-distance/,"jiuzhang, 算高DP下",
+631,[lint] Maximal Square II,Medium,Low,,"DP, Matrix",https://www.lintcode.com/problem/maximal-square-ii/description,"jiuzhang, 算高DP上",1
+644,Maximum Average Subarray II,Hard,High,"Dig More, No Idea At First, toRevisit, toSummarize","BS_Val, Prefix, Sliding Window",https://leetcode.com/problems/maximum-average-subarray-ii/,"jiuzhang, 算高BS&SwipeLine",1
+654,Maximum Binary Tree,Medium,High,,"Divide and Conquer, Tree, monotonic, stack",https://leetcode.com/problems/maximum-binary-tree/,"HuaHua, jiuzhang, 算高Heap&Stack",1
+674,Longest Continuous Increasing Subsequence,Easy,Pass,,Array,https://leetcode.com/problems/longest-continuous-increasing-subsequence/,"HuaHua, jiuzhang, 算高DP上",1
+691,Stickers to Spell Word,Hard,High,Dig More,"dp-backpack, dp-bitMask, stateMachine",https://leetcode.com/problems/stickers-to-spell-word/,wp动归套路,
+692,Top K Frequent Words,Medium,Low,,"Hash, PQ, TopK",https://leetcode.com/problems/top-k-frequent-words/,"HuaHua, jiuzhang, 算初Hash&Heap",1
+704,Binary Search,Easy,Pass,,BS_Idx,https://leetcode.com/problems/binary-search/,"HuaHua, jiuzhang, 算初BS",1
+712,Minimum ASCII Delete Sum for Two Strings,Medium,Low,,dp-TwoSeq,https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/,"HuaHua, leetcode_daily, wp动归套路",
+715,Range Module,Hard,High,"Dig More, More Solution, No Idea At First, toSummarize","BS_lower_upper_bound, Hash, OrderMap, SegmentTree_idx",https://leetcode.com/problems/range-module/,"HuaHua, googleFreq",
+718,Maximum Length of Repeated Subarray,Medium,Pass,dup,"DP, StringMatchToMatrix",https://leetcode.com/problems/maximum-length-of-repeated-subarray/,"HuaHua, jiuzhang, 算高DP下",1
+727,Minimum Window Subsequence,Hard,High,Dig More,dp-TwoSeq,https://leetcode.com/problems/minimum-window-subsequence/,wp动归套路,
+729,My Calendar I,Medium,Medium,,"BS_lower_upper_bound, Geometry, OrderMap",https://leetcode.com/problems/my-calendar-i/,"HuaHua, googleFreq",
+778,Swim in Rising Water,Hard,Medium,"More Solution, toSummarize","BFS, BS_todo, Graph, PQ",https://leetcode.com/problems/swim-in-rising-water/,"HuaHua, googleFreq",
+783,Minimum Distance Between BST Nodes,Easy,Pass,,"Iterate, Tree",https://leetcode.com/problems/minimum-distance-between-bst-nodes/,,
+813,Largest Sum of Averages,Medium,Medium,,dp-K_Ranges,https://leetcode.com/problems/largest-sum-of-averages/,"HuaHua, wp动归套路",
+818,Race Car,Hard,Medium,More Solution,"BFS, DP, search",https://leetcode.com/problems/race-car/,"HuaHua, googleFreq",
+836,Rectangle Overlap,Easy,Low,,"Geometry, Math",https://leetcode.com/problems/rectangle-overlap/,googleFreq,
+843,Guess the Word,Hard,Medium,"Dig More, No Idea At First, todo","Game, miniMax",https://leetcode.com/problems/guess-the-word/,googleFreq,InProgress
+876,Middle of the Linked List,Easy,Medium,,2pt_SameDir_FastDoubleSpeed,https://leetcode.com/problems/middle-of-the-linked-list/,"googleFreq, jiuzhang, 算高TwoPointers&PQ",1
+877,Stone Game,Medium,Low,,"DP, Game, dp-Pyr",https://leetcode.com/problems/stone-game/,"jiuzhang, 算高DP下",
+879,Profitable Schemes,Hard,High,Dig More,dp-backpack,https://leetcode.com/problems/profitable-schemes/,"HuaHua, wp动归套路",
+900,RLE Iterator,Medium,Low,More Solution,"iterator, stack",https://leetcode.com/problems/rle-iterator/,googleFreq,
+903,Valid Permutations for DI Sequence,Hard,High,"Dig More, No Idea At First","Permutation, dp-TimeSeqFromLastOne-Power",https://leetcode.com/problems/valid-permutations-for-di-sequence/,wp动归套路,
+905,Sort Array By Parity,Easy,Low,,Partition,https://leetcode.com/problems/sort-array-by-parity/,"jiuzhang, 算初TwoPointers",1
+912,Sort an Array,Medium,Pass,,"Divide and Conquer, MergeSort, quickSort",https://leetcode.com/problems/sort-an-array/,"HuaHua, leetcode_daily",
+918,Maximum Sum Circular Subarray,Medium,Medium,,"Contribution>0, DP, Kadane, Prefix",https://leetcode.com/problems/maximum-sum-circular-subarray/,"HuaHua, LC_Top_Interview_150, jiuzhang, 算高FollowUp",1
+943,Find the Shortest Superstring,Hard,High,,"Graph, Permutation, TSP/HamiltonianPath, complete_graph, dp-bitMask, search",https://leetcode.com/problems/find-the-shortest-superstring/,"HuaHua, wp动归套路",
+956,Tallest Billboard,Hard,High,Dig More,dp-backpack,https://leetcode.com/problems/tallest-billboard/,"HuaHua, wp动归套路",
+973,K Closest Points to Origin,Medium,Pass,,"Geometry, PQ, TopK",https://leetcode.com/problems/k-closest-points-to-origin/,"HuaHua, jiuzhang, 算初Hash&Heap",1
+983,Minimum Cost For Tickets,Medium,Medium,,dp-TimeSeqFromLastOne-Power,https://leetcode.com/problems/minimum-cost-for-tickets/,wp动归套路,
+987,Vertical Order Traversal of a Binary Tree,Hard,High,HardToImplement,"BFS, DFS, Hash, Tree",https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/,"HuaHua, googleFreq",
+1000,Minimum Cost to Merge Stones,Hard,High,Dig More,"dp-K_Ranges, dp-Pyr",https://leetcode.com/problems/minimum-cost-to-merge-stones/,"HuaHua, wp动归套路",
+1035,Uncrossed Lines,Medium,Medium,dup,dp-TwoSeq,https://leetcode.com/problems/uncrossed-lines/,wp动归套路,
+1048,Longest String Chain,Medium,Medium,"Dig More, More Solution",DP,https://leetcode.com/problems/longest-string-chain/,googleFreq,
+1049,Last Stone Weight II,Medium,Medium,dup,dp-backpack,https://leetcode.com/problems/last-stone-weight-ii/,wp动归套路,
+1055,Shortest Way to Form String,Medium,Medium,,"2pt_SameDir_diffSpeed, Greedy",https://leetcode.com/problems/shortest-way-to-form-string/,googleFreq,
+1086,High Five,Easy,Pass,,"PQ, TopK",https://leetcode.com/problems/high-five/,"jiuzhang, 算初Hash&Heap",1
+1088,Confusing Number II,Hard,High,toSummarize,"BackTracking, Math",https://leetcode.com/problems/confusing-number-ii/,googleFreq,
+1092,Shortest Common Supersequence,Hard,Low,More Solution,dp-TwoSeq,https://leetcode.com/problems/shortest-common-supersequence/,"HuaHua, wp动归套路",
+1101,The Earliest Moment When Everyone Become Friends,Medium,Pass,,Union Find,https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/,googleFreq,
+1105,Filling Bookcase Shelves,Medium,High,"HardToImplement, More Solution","DP, dp-TimeSeqFromLastX",https://leetcode.com/problems/filling-bookcase-shelves/,"HuaHua, wp动归套路",
+1125,Smallest Sufficient Team,Hard,High,Dig More,"BitMask, dp-backpack, dp-bitMask",https://leetcode.com/problems/smallest-sufficient-team/,"HuaHua, leetcode_daily, wp动归套路",
+1143,Longest Common Subsequence,Medium,Medium,,"StringMatchToMatrix, dp-TwoSeq",https://leetcode.com/problems/longest-common-subsequence/,"AmazonFreq, LC_75, jiuzhang, wp动归套路, 算高DP下",1
+1186,Maximum Subarray Sum with One Deletion,Medium,Medium,,"DP, dp-TimeSeqFromLastOne-Power, stateMachine",https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/,wp动归套路,
+1216,Valid Palindrome III,Hard,Low,dup,dp-TwoSeq,https://leetcode.com/problems/valid-palindrome-iii/,wp动归套路,
+1246,Palindrome Removal,Hard,High,Dig More,dp-Pyr,https://leetcode.com/problems/palindrome-removal/,wp动归套路,
+1278,Palindrome Partitioning III,Hard,High,Dig More,"dp-K_Ranges, string",https://leetcode.com/problems/palindrome-partitioning-iii/,"HuaHua, wp动归套路",
+1289,Minimum Falling Path Sum II,Hard,Low,,"DP, Matrix, dp-TimeSeqFromLastOne-Power",https://leetcode.com/problems/minimum-falling-path-sum-ii/,,
+1293,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/,Hard,High,"Dig More, More Solution, Next Up","BFS, Matrix",https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/solution/,"googleFreq, ticktokFreq",1
+1312,Minimum Insertion Steps to Make a String Palindrome,Hard,Low,dup,dp-TwoSeq,https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/,"HuaHua, wp动归套路",
+1335,Minimum Difficulty of a Job Schedule,Hard,Medium,,dp-K_Ranges,https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/,wp动归套路,
+1349,Maximum Students Taking Exam,Hard,High,Dig More,"dp-TimeSeqFromLastOne-Power, dp-bitMask",https://leetcode.com/problems/maximum-students-taking-exam/,"HuaHua, wp动归套路",
+1606,Find Servers That Handled Most Number of Requests,Hard,High,"Dig More, HardToImplement, More Solution, No Idea At First","OrderSet, PQ",https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/,"HuaHua, googleFreq",
+1610,Maximum Number of Visible Points,Hard,Low,,"2pt_SameDir_maxWin_chkValidAftR, Geometry, Math, Sliding Window, circle",https://leetcode.com/problems/maximum-number-of-visible-points/,"HuaHua, googleFreq",
+1926,Nearest Exit from Entrance in Maze,Medium,Pass,,"BFS, Graph, Matrix",https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/,"LC_75, googleFreq",
+1937,Maximum Number of Points with Cost,Medium,High,No Idea At First,"DP, Matrix",https://leetcode.com/problems/maximum-number-of-points-with-cost/,googleFreq,
+2013,Detect Squares,Medium,Low,,Hash,https://leetcode.com/problems/detect-squares/,googleFreq,
+2034,Stock Price Fluctuation,Medium,Pass,More Solution,"OrderMap, OrderSet",https://leetcode.com/problems/stock-price-fluctuation/,googleFreq,
+2040,Kth Smallest Product of Two Sorted Arrays,Hard,High,"More Solution, No Idea At First, toRevisit","2pt_SameDir_diffSpeed, BS_Idx, BS_Val, BS_lower_upper_bound, kth",https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/,"jiuzhang, 算高TwoPointers&PQ",1
+2096,Step-By-Step Directions From a Binary Tree Node to Anothe,Medium,Medium,,"Divide and Conquer, Tree",https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/,googleFreq,
+2115,Find All Possible Recipes from Given Supplies,Medium,Low,,"Graph, TopSorting",https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/,googleFreq,
+2149,Rearrange Array Elements by Sign,Medium,Medium,More Solution,"2pt_SameDir_diffSpeed, Partition",https://leetcode.com/problems/rearrange-array-elements-by-sign/,"jiuzhang, 算初TwoPointers",1
+2158,Amount of New Area Painted Each Day,Hard,High,"Dig More, More Solution, No Idea At First","PQ, SegmentTree_idx, Sweep-Line",https://leetcode.com/problems/amount-of-new-area-painted-each-day/,googleFreq,
+2162,Minimum Cost to Set Cooking Time,Medium,Low,,Math,https://leetcode.com/problems/minimum-cost-to-set-cooking-time/,googleFreq,
+2172,Maximum AND Sum of Array,Hard,High,"No Idea At First, toSummarize","Bit Manipulation, dp-bitMask, two_divided_graph",https://leetcode.com/problems/maximum-and-sum-of-array/,googleFreq,
+655,Print Binary Tree,Medium,Low,,"BFS, DFS, Divide and Conquer, Tree",https://leetcode.com/problems/print-binary-tree/,"HuaHua, leetcode_daily",
+2242,Maximum Score of a Node Sequence,Hard,High,"No Idea At First, toSummarize","Graph, Greedy, OrderSet, PQ, Sort, TopK",https://leetcode.com/problems/maximum-score-of-a-node-sequence/,googleFreq,
+2276,Count Integers in Intervals,Hard,Medium,More Solution,"BS_lower_upper_bound, OrderMap, SegmentTree_idx",https://leetcode.com/problems/count-integers-in-intervals/,googleFreq,
+2291,Maximum Profit From Trading Stocks,Medium,Medium,More Solution,"DP, dp-backpack",https://leetcode.com/problems/maximum-profit-from-trading-stocks/,,
+2416,Sum of Prefix Scores of Strings,Hard,Medium,In Progress,"Trie, string",https://leetcode.com/problems/sum-of-prefix-scores-of-strings/,"HuaHua, googleFreq",
+2421,Number of Good Paths,Hard,High,More Solution,"DFS, Graph, Tree, Union Find",https://leetcode.com/problems/number-of-good-paths/,googleFreq,
+11,Container With Most Water,Medium,High,"No Idea At First, toSummarize","2pt, Array, Greedy",https://leetcode.com/problems/container-with-most-water/,"HuaHua, LC_75, LC_Top_Interview_150, wisdompeak",
+259,3Sum Smaller,,,new,2pt,https://leetcode.com/problems/3sum-smaller/,wisdompeak,
+2422,Merge Operations to Turn Array Into a Palindrome,Medium,Medium,checkBetterSolution,"2pt, Array, Greedy",https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome,"AmazonFreq, wisdompeak, wp-2pt",1
+2354,Number of Excellent Pairs,Hard,High,"Dig More, More Solution","2pt_DiffDir, Array, BS_todo, Bit Manipulation, Hash, Math",https://leetcode.com/problems/number-of-excellent-pairs/,"wisdompeak, wp-2pt",1
+1989,Maximum Number of People That Can Be Caught in Tag,,,new,2pt,,"wisdompeak, wp-2pt",
+1793,Maximum Score of a Good Subarra,Hard,High,"More Solution, No Idea At First, toRevisit","2pt, Array, BS_Idx, Greedy, monotonic, stack",https://leetcode.com/problems/maximum-score-of-a-good-subarray/,"leetcode_daily, wisdompeak",
+1687,Delivering Boxes from Storage to Ports,,,new,2pt,,wisdompeak,
+1580,Put Boxes Into the Warehouse II,,,new,2pt,,wisdompeak,
+1574,Shortest Subarray to be Removed to Make Array Sorted,,,new,2pt,,wisdompeak,
+1498,Number of Subsequences That Satisfy the Given Sum Condition,,,new,2pt,,wisdompeak,
+1234,Replace the Substring for Balanced String,,,new,2pt,,wisdompeak,
+923,3Sum With Multiplicity,Medium,Low,More Solution,"2pt, Array, Counting, Hash, Math, Sort",https://leetcode.com/problems/3sum-with-multiplicity/,"HuaHua, wisdompeak",
+713,Subarray Product Less Than K,Medium,Medium,toSummarize,"2pt_SameDir_maxWin_chkValidAftR, Array","Given an array of integers nums and an integer k, return the number of contiguous subarrays where the product of all the elements in the subarray is strictly less than k.","facebookFreq, wisdompeak",
+360,Sort Transformed Array,,,new,2pt,,wisdompeak,
+30,Substring with Concatenation of All Words,Hard,High,"Dig More, No Idea At First, toSummarize","2pt_SameDir_sameSpeed, Hash, Sliding Window, string",https://leetcode.com/problems/substring-with-concatenation-of-all-words/,"LC_Top_Interview_150, wisdompeak",
+887,Super Egg Drop,Hard,High,"No Idea At First, NotUnderstand, noPatten, out of scope, toRevisit","BS_todo, dp-noPattern",https://leetcode.com/problems/super-egg-drop/,"HuaHua, wp动归套路",
+920,Number of Music Playlists,Hard,High,"Dig More, More Solution, No Idea At First, noPatten","Combinatorics, Math, dp-noPattern",https://leetcode.com/problems/number-of-music-playlists/,"leetcode_daily, wp动归套路",
+1866,Number of Ways to Rearrange Sticks With K Sticks Visible,Hard,High,"Dig More, In Progress, No Idea At First, out of scope","Permutation, dp-TimeSeqFromLastOne-Power",https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/,wp动归套路,
+2696,Minimum String Length After Removing Substrings,Easy,Medium,No Idea At First,"stack, string",https://leetcode.com/problems/minimum-string-length-after-removing-substrings/,LC_Contests,
+2697,Lexicographically Smallest Palindrome,Easy,Pass,,string,https://leetcode.com/problems/lexicographically-smallest-palindrome/,LC_Contests,
+2698,Find the Punishment Number of an Integer,Medium,Low,,DFS,https://leetcode.com/problems/find-the-punishment-number-of-an-integer/,LC_Contests,
+2699,Modify Graph Edge Weights,Hard,High,"Dig More, More Solution, No Idea At First","Dijkstra, Graph, Greedy",https://leetcode.com/problems/modify-graph-edge-weights/,LC_Contests,
+347,Top K Frequent Elements,Medium,Low,More Solution,"Hash, PQ, QuickSelect, TopK",https://leetcode.com/problems/top-k-frequent-words/,"HuaHua, leetcode_daily",
+703,Kth Largest Element in a Stream,Easy,Pass,,PQ,https://leetcode.com/problems/kth-largest-element-in-a-stream/,leetcode_daily,
+253,Meeting Rooms II,Medium,Low,,Sweep-Line,https://leetcode.com/problems/meeting-rooms-ii/,"leetcode_daily, ticktokFreq",1
+265,Paint House II,Hard,Low,,"dp-TimeSeqFromLastOne-Power, stateMachine",https://leetcode.com/problems/paint-house-ii/,leetcode_daily,
+934,Shortest Bridge,Medium,Low,,"BFS, Matrix",https://leetcode.com/problems/shortest-bridge/,"HuaHua, leetcode_daily",
+2542,Maximum Subsequence Score,Medium,High,,"Array, Greedy, PQ, Sort",https://leetcode.com/problems/maximum-subsequence-score/,"LC_75, leetcode_daily",
+837,New 21 Game,Medium,High,"Dig More, More Solution","DP, Probability, Sliding Window",https://leetcode.com/problems/new-21-game/,leetcode_daily,
+,,,,,,,,
+,1331,,,,,,,
+624,Maximum Distance in Arrays,Medium,Medium,"More Solution, toSummarize","Array, Greedy, Prefix",https://leetcode.com/problems/maximum-distance-in-arrays/,LC_Premium_Algo_100,
+1140,Stone Game II,Medium,High,"More Solution, toRevisit","DP, Game",https://leetcode.com/problems/stone-game-ii/,"HuaHua, leetcode_daily",
+80,Remove Duplicates from Sorted Array II,Medium,High,"Dig More, No Idea At First","2pt, Array",https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/,"LC_Top_Interview_150, wisdompeak",
+27,Remove Element,Easy,Pass,,Array,https://leetcode.com/problems/remove-element/,LC_Top_Interview_150,
+26,Remove Duplicates from Sorted Array,Easy,Pass,,"2pt, Array",https://leetcode.com/problems/remove-duplicates-from-sorted-array/,"LC_Top_Interview_150, wisdompeak",
+1406,Stone Game III,Hard,Medium,,"Game, dp-TimeSeqFromLastOne-Power",https://leetcode.com/problems/stone-game-iii/,"HuaHua, leetcode_daily",
+2710,Remove Trailing Zeros From a String,Easy,Pass,,string,https://leetcode.com/problems/remove-trailing-zeros-from-a-string/,LC_Contests,
+2711,Difference of Number of Distinct Values on Diagonals,Easy,Low,More Solution,DP,https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals/,LC_Contests,
+2713,Maximum Strictly Increasing Cells in a Matrix,Hard,High,"Dig More, noPatten",DP,https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/,LC_Contests,
+2712,Minimum Cost to Make All Characters Equal,Medium,High,"Dig More, More Solution","Greedy, dp-TimeSeqFromLastOne-Power, stateMachine",https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/,LC_Contests,
+1547,Minimum Cost to Cut a Stick,Hard,Medium,,dp-Pyr,https://leetcode.com/problems/minimum-cost-to-cut-a-stick/,leetcode_daily,
+2709,Greatest Common Divisor Traversal,Hard,High,No Idea At First,"PrimeFactor, Union Find",https://leetcode.com/problems/greatest-common-divisor-traversal/,LC_Contests,
+2706,Buy Two Chocolates,Easy,Pass,,PQ,https://leetcode.com/problems/buy-two-chocolates/,LC_Contests,
+2707,Extra Characters in a String,Medium,High,"Dig More, HardToImplement, More Solution","Trie, dp-Pyr, dp-TimeSeqFromLastX",https://leetcode.com/problems/extra-characters-in-a-string/,LC_Contests,
+2708,Maximum Strength of a Group,Medium,Medium,,"dp-TimeSeqFromLastOne-Power, stateMachine",https://leetcode.com/problems/maximum-strength-of-a-group/,LC_Contests,
+705,Design HashSet,Easy,Medium,,"Hash, LinkedList",https://leetcode.com/problems/design-hashset/,leetcode_daily,
+348,Design Tic-Tac-Toe,Medium,Low,,Array,https://leetcode.com/problems/design-tic-tac-toe/,leetcode_daily,
+189,Rotate Array,Medium,Pass,,"3 Step Rotate, Array",https://leetcode.com/problems/rotate-array/,LC_Top_Interview_150,
+169,Majority Element,Easy,High,No Idea At First,"Array, Bit Manipulation, Divide and Conquer, Hash",https://leetcode.com/problems/majority-element/,"HuaHua, LC_Top_Interview_150",
+274,H-Index,Medium,High,Dig More,Array,https://leetcode.com/problems/h-index/,LC_Top_Interview_150,
+380,Insert Delete GetRandom O(1),Medium,Medium,,"Array, Design, Hash, Probability, Random",https://leetcode.com/problems/insert-delete-getrandom-o1/,"HuaHua, LC_Top_Interview_150",
+238,Product of Array Except Self,Medium,Medium,"More Solution, No Idea At First","Array, Prefix",https://leetcode.com/problems/product-of-array-except-self/,"LC_75, LC_Top_Interview_150, ticktokFreq",1
+134,Gas Station,Medium,Medium,No Idea At First,"Array, Greedy",https://leetcode.com/problems/gas-station/,LC_Top_Interview_150,
+1396,Design Underground System,Medium,Medium,,"Design, Hash, string",https://leetcode.com/problems/design-underground-system/,leetcode_daily,
+135,Candy,Hard,Medium,More Solution,"Array, Greedy, OrderSet",https://leetcode.com/problems/candy/,LC_Top_Interview_150,
+58,Length of Last Word,Easy,Pass,,string,https://leetcode.com/problems/length-of-last-word/,LC_Top_Interview_150,
+14,Longest Common Prefix,Easy,Low,,string,https://leetcode.com/problems/longest-common-prefix/,LC_Top_Interview_150,
+151,Reverse Words in a String,Medium,High,More Solution,"2pt, 3 Step Rotate, string",https://leetcode.com/problems/reverse-words-in-a-string/,"LC_75, LC_Top_Interview_150",
+28,Find the Index of the First Occurrence in a String,Easy,Low,More Solution,"2pt, string",https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/,LC_Top_Interview_150,
+6,Zigzag Conversion,Medium,Pass,,string,https://leetcode.com/problems/zigzag-conversion/,LC_Top_Interview_150,
+392,Is Subsequence,Easy,Medium,"More Solution, toSummarize","2pt, DP, string",https://leetcode.com/problems/is-subsequence/,"LC_75, LC_Top_Interview_150",
+1091,Shortest Path in Binary Matrix,Medium,Low,,"BFS, Matrix",https://leetcode.com/problems/shortest-path-in-binary-matrix/,leetcode_daily,
+2101,Detonate the Maximum Bombs,Medium,Medium,,"Array, BFS, Graph",https://leetcode.com/problems/detonate-the-maximum-bombs/,leetcode_daily,
+1230,Toss Strange Coins,Medium,High,,"Probability, dp-backpack",https://leetcode.com/problems/toss-strange-coins/,leetcode_daily,
+36,Valid Sudoku,Medium,Low,,Matrix,https://leetcode.com/problems/valid-sudoku/?envType=study-plan-v2&envId=top-interview-150,LC_Top_Interview_150,
+54,Spiral Matrix,Medium,Low,,Matrix,https://leetcode.com/problems/spiral-matrix/,LC_Top_Interview_150,
+48,Rotate Image,Medium,Low,,Matrix,https://leetcode.com/problems/rotate-image/,LC_Top_Interview_150,
+73,Set Matrix Zeroes,Medium,Medium,No Idea At First,Matrix,https://leetcode.com/problems/set-matrix-zeroes/,LC_Top_Interview_150,
+289,Game of Life,Medium,Pass,,"BitMask, Matrix, simulation",https://leetcode.com/problems/game-of-life/,"HuaHua, LC_Top_Interview_150",
+1376,Time Needed to Inform All Employees,Medium,Pass,,"BFS, DFS, Tree",https://leetcode.com/problems/time-needed-to-inform-all-employees/,leetcode_daily,
+202,Happy Number,Easy,Medium,,"Hash, circle",https://leetcode.com/problems/happy-number/,LC_Top_Interview_150,
+219,Contains Duplicate II,Easy,Medium,,"2pt_SameDir_sameSpeed, Array, Hash, Sliding Window",https://leetcode.com/problems/contains-duplicate-ii/,LC_Top_Interview_150,
+242,Valid Anagram,Easy,Pass,,"Hash, Sort, string",https://leetcode.com/problems/valid-anagram/,LC_Top_Interview_150,
+383,Ransom Note,Easy,Pass,,"Hash, string",https://leetcode.com/problems/ransom-note/,LC_Top_Interview_150,
+290,Word Pattern,Easy,Low,,"Hash, string",https://leetcode.com/problems/word-pattern/,LC_Top_Interview_150,
+228,Summary Ranges,Easy,High,,"2pt, Array, Interval",https://leetcode.com/problems/summary-ranges/,LC_Top_Interview_150,
+2716,Minimize String Length,Medium,Low,No Idea At First,"Hash, string",https://leetcode.com/problems/minimize-string-length/,LC_Contests,
+2717,Semi-Ordered Permutation,Easy,Pass,,Array,https://leetcode.com/problems/semi-ordered-permutation/,LC_Contests,
+2718,Sum of Matrix After Queries,Medium,Medium,No Idea At First,Matrix,https://leetcode.com/problems/sum-of-matrix-after-queries/,LC_Contests,
+2719,Count of Integers,Hard,High,No Idea At First,"DP, Math, Prefix, string",https://leetcode.com/problems/count-of-integers/,LC_Contests,
+452,Minimum Number of Arrows to Burst Balloons,Medium,High,No Idea At First,"Array, Geometry, Greedy, Interval, Sort",https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/,"HuaHua, LC_75, LC_Top_Interview_150",
+547,Number of Provinces,Medium,Low,,"Connected_Component, DFS, Graph, Union Find",https://leetcode.com/problems/number-of-provinces/,"LC_75, leetcode_daily",
+71,Simplify Path,Medium,Low,,"stack, string",https://leetcode.com/problems/simplify-path/,LC_Top_Interview_150,
+150,Evaluate Reverse Polish Notation,Medium,Pass,,"simulation, stack",https://leetcode.com/problems/evaluate-reverse-polish-notation/,"HuaHua, LC_Top_Interview_150",
+224,Basic Calculator,Hard,High,"Dig More, More Solution","Math, stack, string",https://leetcode.com/problems/basic-calculator/,LC_Top_Interview_150,
+1232,Check If It Is a Straight Line,Easy,Low,,"Geometry, Math",https://leetcode.com/problems/check-if-it-is-a-straight-line/,leetcode_daily,
+2,Add Two Numbers,Medium,Low,,"LinkedList, Math, simulation",https://leetcode.com/problems/add-two-numbers/,"HuaHua, LC_Top_Interview_150",
+82,Remove Duplicates from Sorted List II,Medium,Medium,More Solution,"2pt, Hash, LinkedList",https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/,LC_Top_Interview_150,
+129,Sum Root to Leaf Numbers,Medium,Pass,,"DFS, Tree",https://leetcode.com/problems/sum-root-to-leaf-numbers/,"HuaHua, LC_Top_Interview_150",1
+63,Unique Paths II,Medium,Pass,,"DP, Matrix",https://leetcode.com/problems/unique-paths-ii/,"HuaHua, LC_Top_Interview_150",1
+322,Coin Change,Medium,Medium,More Solution,"BFS, dp-backpack, search",https://leetcode.com/problems/coin-change/,"HuaHua, LC_Top_Interview_150",
+190,Reverse Bits,Easy,Low,More Solution,"Bit Manipulation, Divide and Conquer",https://leetcode.com/problems/reverse-bits/,"HuaHua, LC_Top_Interview_150",
+201,Bitwise AND of Numbers Range,Medium,Low,,Bit Manipulation,https://leetcode.com/problems/bitwise-and-of-numbers-range/,LC_Top_Interview_150,
+77,Combinations,Medium,Low,,BackTracking,https://leetcode.com/problems/combinations/,"LC_Top_Interview_150, leetcode_daily",
+530,Minimum Absolute Difference in BST,Easy,Pass,,Tree,https://leetcode.com/problems/minimum-absolute-difference-in-bst/,"HuaHua, LC_Top_Interview_150",
+637,Average of Levels in Binary Tree,Easy,Pass,,"BFS, Tree",https://leetcode.com/problems/average-of-levels-in-binary-tree/,"HuaHua, LC_Top_Interview_150",InProgress
+52,N-Queens II,Hard,Low,,BackTracking,https://leetcode.com/problems/n-queens-ii/,LC_Top_Interview_150,
+106,Construct Binary Tree from Inorder and Postorder Traversal,Medium,Low,,"Divide and Conquer, Tree",https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/,LC_Top_Interview_150,
+373,Find K Pairs with Smallest Sums,Medium,High,"No Idea At First, toSummarize",PQ,https://leetcode.com/problems/find-k-pairs-with-smallest-sums/,LC_Top_Interview_150,
+433,Minimum Genetic Mutation,Medium,Low,dup,"BFS, Graph, Hash, string",https://leetcode.com/problems/minimum-genetic-mutation/,LC_Top_Interview_150,
+222,Count Complete Tree Nodes,Medium,Medium,More Solution,"BS_todo, DFS, Tree",https://leetcode.com/problems/count-complete-tree-nodes/,"HuaHua, LC_Top_Interview_150",
+199,Binary Tree Right Side View,Medium,Low,,"BFS, Tree",https://leetcode.com/problems/binary-tree-right-side-view/,"LC_75, LC_Top_Interview_150",
+1502,Can Make Arithmetic Progression From Sequence,Easy,Pass,,"Array, Sort",https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/,leetcode_daily,
+399,Evaluate Division,Medium,High,"HardToImplement, More Solution","BFS, DFS, Graph, Union Find",https://leetcode.com/problems/evaluate-division/,"HuaHua, LC_75, LC_Top_Interview_150",
+909,Snakes and Ladders,Medium,High,No Idea At First,"Array, BFS, Graph, Matrix",https://leetcode.com/problems/snakes-and-ladders/,LC_Top_Interview_150,
+427,Construct Quad Tree,Medium,High,,"Array, Divide and Conquer, Matrix, Tree",https://leetcode.com/problems/construct-quad-tree/,LC_Top_Interview_150,
+502,IPO,Hard,High,"Dig More, toSummarize","Array, DP, Greedy, PQ, Sort",https://leetcode.com/problems/ipo/,LC_Top_Interview_150,
+101,Symmetric Tree,Easy,Pass,,Tree,https://leetcode.com/problems/symmetric-tree/,"HuaHua, LC_Top_Interview_150",
+226,Invert Binary Tree,Easy,Pass,,Tree,https://leetcode.com/problems/invert-binary-tree/,LC_Top_Interview_150,
+112,Path Sum,Easy,Pass,,Tree,https://leetcode.com/problems/path-sum/,"HuaHua, LC_Top_Interview_150",
+117,Populating Next Right Pointers in Each Node II,Medium,Medium,,"DFS, Tree",https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/,LC_Top_Interview_150,
+230,Kth Smallest Element in a BST,Medium,Pass,,"Iterate, Tree",https://leetcode.com/problems/kth-smallest-element-in-a-bst/,LC_Top_Interview_150,
+1318,Minimum Flips to Make a OR b Equal to c,Medium,Pass,,Bit Manipulation,https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/,"LC_75, leetcode_daily",
+9,Palindrome Number,Easy,Pass,,Math,https://leetcode.com/problems/palindrome-number/,LC_Top_Interview_150,
+66,Plus One,Easy,Pass,,Math,https://leetcode.com/problems/plus-one/,LC_Top_Interview_150,
+35,Search Insert Position,Easy,Pass,,BS_Idx,https://leetcode.com/problems/search-insert-position/,"HuaHua, LC_Top_Interview_150",
+108,Convert Sorted Array to Binary Search Tree,Easy,Pass,,"Divide and Conquer, Tree",https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/,"HuaHua, LC_Top_Interview_150",
+67,Add Binary,Easy,Pass,,"Bit Manipulation, Math",https://leetcode.com/problems/add-binary/,LC_Top_Interview_150,
+191,Number of 1 Bits,Easy,Pass,,Bit Manipulation,https://leetcode.com/problems/number-of-1-bits/,"LC_Top_Interview_150, leetcode_daily",
+136,Single Number,Easy,Low,,Bit Manipulation,https://leetcode.com/problems/single-number/,"LC_75, LC_Top_Interview_150",
+137,Single Number II,Medium,Low,No Idea At First,Bit Manipulation,https://leetcode.com/problems/single-number-ii/,LC_Top_Interview_150,
+5,Longest Palindromic Substring,Medium,High,"Dig More, In Progress, No Idea At First","DP, Manacher, string",https://leetcode.com/problems/longest-palindromic-substring/,"HuaHua, LC_Top_Interview_150, ticktokFreq",1
+34,Find First and Last Position of Element in Sorted Array,Medium,Pass,,BS_Idx,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,"HuaHua, LC_Top_Interview_150",
+210,Course Schedule II,Medium,Low,,"Graph, TopSorting",https://leetcode.com/problems/course-schedule-ii/,"HuaHua, LC_Top_Interview_150, ticktokFreq",1
+139,Word Break,Medium,Medium,HardToImplement,"Hash, Trie, dp-TimeSeqFromLastX, string",https://leetcode.com/problems/word-break/,"HuaHua, LC_Top_Interview_150",
+172,Factorial Trailing Zeroes,Medium,Low,,Math,https://leetcode.com/problems/factorial-trailing-zeroes/,LC_Top_Interview_150,
+50,"Pow(x, n)",Medium,Medium,,Math,https://leetcode.com/problems/powx-n/,LC_Top_Interview_150,
+149,Max Points on a Line,Hard,High,No Idea At First,"Geometry, Hash, Math",https://leetcode.com/problems/max-points-on-a-line/,"HuaHua, LC_Top_Interview_150",
+22,Generate Parentheses,Medium,Low,More Solution,"BackTracking, DFS, DP",https://leetcode.com/problems/generate-parentheses/,LC_Top_Interview_150,
+79,Word Search,Medium,Medium,HardToImplement,"BackTracking, DFS, Matrix, search",https://leetcode.com/problems/word-search/,"HuaHua, LC_Top_Interview_150, ticktokFreq",1
+1351,Count Negative Numbers in a Sorted Matrix,Easy,Low,,"BS_todo, Matrix",https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/,leetcode_daily,
+744,Find Smallest Letter Greater Than Target,Easy,Pass,,BS_Idx,https://leetcode.com/problems/find-smallest-letter-greater-than-target/,"HuaHua, leetcode_daily",
+1802,Maximum Value at a Given Index in a Bounded Array,Medium,Medium,,"BS_Val, Math",https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/,leetcode_daily,
+2733,Neither Minimum nor Maximum,Easy,Pass,,,https://leetcode.com/problems/neither-minimum-nor-maximum/,LC_Contests,
+2734,Lexicographically Smallest String After Substring Operation,Medium,Low,,string,https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation/,LC_Contests,
+2735,Collecting Chocolates,Medium,High,No Idea At First,"Array, Greedy",https://leetcode.com/problems/collecting-chocolates/,LC_Contests,
+2736,Maximum Sum Queries,Hard,,new,,https://leetcode.com/problems/maximum-sum-queries/,LC_Contests,
+1150,Check If a Number Is Majority Element in a Sorted Array,Easy,Pass,,BS_Idx,https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/,leetcode_daily,
+1146,Snapshot Array,Medium,High,No Idea At First,"BS_lower_upper_bound, Design",https://leetcode.com/problems/snapshot-array/,leetcode_daily,
+2352,Equal Row and Column Pairs,Medium,Medium,No Idea At First,Hash,https://leetcode.com/problems/equal-row-and-column-pairs/,"LC_75, leetcode_daily",
+2729,Check if The Number is Fascinating,Easy,Pass,,Math,https://leetcode.com/problems/check-if-the-number-is-fascinating/,LC_Contests,
+2730,Find the Longest Semi-Repetitive Substring,Medium,Low,,2pt_SameDir_minWin_chkValidAftR,https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/,LC_Contests,
+2731,Movement of Robots,Medium,Low,Dig More,Math,https://leetcode.com/problems/movement-of-robots/,LC_Contests,
+2732,Find a Good Subset of the Matrix,Hard,Medium,"Dig More, No Idea At First","Bit Manipulation, Math",https://leetcode.com/problems/find-a-good-subset-of-the-matrix/,LC_Contests,
+1161,Maximum Level Sum of a Binary Tree,Medium,Low,,"BFS, Tree",https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/,"LC_75, leetcode_daily",
+992,Subarrays with K different Integers,Hard,Medium,HardToImplement,"Array, Hash, Sliding Window",https://leetcode.com/problems/subarrays-with-k-different-integers/description/,"HuaHua, wisdompeak",
+1621,Number of Sets of K Non-Overlapping Line Segments,Medium,High,"Dig More, In Progress, No Idea At First",DP,https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/,"HuaHua, leetcode_daily",
+2510,Check if There is a Path With Equal Number of 0's And 1's,Medium,High,"Dig More, No Idea At First",DP,https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s/,leetcode_daily,
+898,Bitwise ORs of Subarrays,Medium,High,No Idea At First,"Bit Manipulation, DP, Hash",https://leetcode.com/problems/bitwise-ors-of-subarrays/,"HuaHua, leetcode_daily",
+1653,Minimum Deletions to Make String Balanced,Medium,High,"In Progress, No Idea At First",,https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/,leetcode_daily,
+859,Buddy Strings,Easy,Pass,,"Hash, string",https://leetcode.com/problems/buddy-strings/,leetcode_daily,
+379,Design Phone Directory,Medium,Medium,More Solution,"Array, Design, Hash, LinkedList, OrderSet, queue",https://leetcode.com/problems/design-phone-directory/,leetcode_daily,
+2295,Replace Elements in an Array,Medium,Low,,Hash,https://leetcode.com/problems/replace-elements-in-an-array/,leetcode_daily,
+1329,Sort the Matrix Diagonally,Medium,Medium,,"Array, Matrix, Sort",https://leetcode.com/problems/sort-the-matrix-diagonally/,leetcode_daily,
+1569,Number of Ways to Reorder Array to Get Same BST,Hard,Medium,"Dig More, out of scope, toSummarize","Array, DP, Divide and Conquer, Math, Tree, Union Find",https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/,leetcode_daily,
+750,Number Of Corner Rectangles,Medium,High,More Solution,"Array, DP, Math, Matrix",https://leetcode.com/problems/number-of-corner-rectangles/description/,leetcode_daily,
+1363,Largest Multiple of Three,Hard,High,"HardToImplement, No Idea At First, toRevisit, toSummarize","Array, Greedy, dp-TimeSeqFromLastOne-Power, parent, stateMachine",https://leetcode.com/problems/largest-multiple-of-three/,leetcode_daily,
+2679,Sum in a Matrix,Medium,Low,More Solution,"Matrix, PQ, Sort",https://leetcode.com/problems/sum-in-a-matrix/,LC_Contests,
+2678,Number of Senior Citizens,Easy,Pass,,string,https://leetcode.com/problems/number-of-senior-citizens/,LC_Contests,
+2680,Maximum OR,Medium,High,No Idea At First,"Array, Bit Manipulation, Greedy, Math, Prefix",https://leetcode.com/problems/maximum-or/,LC_Contests,
+2681,Power of Heroes,Hard,High,No Idea At First,"Array, Math, Prefix, Sort",https://leetcode.com/problems/power-of-heroes/,LC_Contests,
+2328,Number of Increasing Paths in a Grid,Hard,Medium,More Solution,"BFS, DFS, DP, Graph, Matrix, TopSorting",https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/description/,leetcode_daily,
+1187,Make Array Strictly Increasing,Hard,High,"HardToImplement, More Solution","Array, BS_lower_upper_bound, Sort, dp-TimeSeqFromLastOne-Power",https://leetcode.com/problems/make-array-strictly-increasing/,"HuaHua, leetcode_daily",
+2739,Total Distance Traveled,Easy,High,No Idea At First,Math,https://leetcode.com/problems/total-distance-traveled/,LC_Contests,
+2740,Find the Value of the Partition,Medium,Pass,,Sort,https://leetcode.com/problems/find-the-value-of-the-partition/,LC_Contests,
+2741,Special Permutations,Medium,High,"In Progress, No Idea At First",,https://leetcode.com/problems/special-permutations/,LC_Contests,
+2742,Painting the Walls,Hard,High,"No Idea At First, toRevisit, toSummarize",dp-backpack,https://leetcode.com/problems/painting-the-walls/,LC_Contests,
+2023,Number of Pairs of Strings With Concatenation Equal to Target,Medium,Pass,,"Hash, string",https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/,leetcode_daily,
+1732,Find the Highest Altitude,Easy,Pass,,"Array, Prefix",https://leetcode.com/problems/find-the-highest-altitude,"LC_75, leetcode_daily",
+464,Can I Win,Medium,High,"No Idea At First, toSummarize","Bit Manipulation, BitMask, DP, Game, Math, recursion",https://leetcode.com/problems/can-i-win/description/,"HuaHua, leetcode_daily",
+1690,Stone Game VII,Hard,High,,Game,https://leetcode.com/problems/stone-game-vii/,HuaHua,
+2090,K Radius Subarray Averages,Medium,Medium,HardToImplement,"Prefix, Sliding Window",https://leetcode.com/problems/k-radius-subarray-averages/description/,leetcode_daily,
+2448,Minimum Cost to Make Array Equal,Hard,High,"HardToImplement, More Solution, No Idea At First","Array, BS_todo, Greedy, Math, Prefix, Sort, Sweep-Line",https://leetcode.com/problems/minimum-cost-to-make-array-equal/,leetcode_daily,
+1106,Parsing A Boolean Expression,Hard,Medium,,"recursion, stack, string",https://leetcode.com/problems/parsing-a-boolean-expression/,HuaHua,
+856,Score of Parentheses,Medium,High,HardToImplement,"recursion, stack, string",https://leetcode.com/problems/score-of-parentheses/,HuaHua,
+784,Letter Case Permutation,Medium,High,HardToImplement,"BackTracking, Bit Manipulation, recursion, string",https://leetcode.com/problems/letter-case-permutation/,HuaHua,
+736,Parse Lisp Expression,Hard,High,"HardToImplement, More Solution, checkBetterSolution, toRevisit, toSummarize","Hash, recursion, stack, string",https://leetcode.com/problems/parse-lisp-expression/,HuaHua,
+726,Number of Atoms,Hard,High,"HardToImplement, checkBetterSolution, toRevisit, toSummarize","Hash, OrderMap, Sort, recursion, stack, string",https://leetcode.com/problems/number-of-atoms/,HuaHua,
+1214,Two Sum BSTs,Medium,Medium,More Solution,"2pt, BS_todo, DFS, Iterate, Tree, stack",https://leetcode.com/problems/two-sum-bsts/description/,leetcode_daily,
+714,Best Time to Buy and Sell Stock with Transaction Fee,Medium,High,No Idea At First,"Array, DP, Greedy, dp-TimeSeqFromLastOne-Power, stateMachine",https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/,"HuaHua, LC_75, leetcode_daily",
+1382,Balance a Binary Search Tree,Medium,Pass,,"DFS, Divide and Conquer, Greedy, Tree",https://leetcode.com/problems/balance-a-binary-search-tree/,HuaHua,
+775,Global and Local Inversions,Medium,Medium,"More Solution, dup, toRevisit","Array, Divide and Conquer, Math, MergeSort",https://leetcode.com/problems/global-and-local-inversions/,HuaHua,
+154,Find Minimum in Rotated Sorted Array II,Hard,Medium,,"BS_Idx, Divide and Conquer",https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/,HuaHua,
+1475,Final Prices With a Special Discount in a Shop,Easy,High,"No Idea At First, toSummarize","Array, monotonic, stack",https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/,HuaHua,
+1027,Longest Arithmetic Subsequence,Medium,High,"More Solution, No Idea At First, noPatten, toSummarize","BS_todo, Hash, dp-TimeSeqFromLastX",https://leetcode.com/problems/longest-arithmetic-subsequence/description/,leetcode_daily,
+1438,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,Medium,High,"Dig More, More Solution","2pt_SameDir_maxWin_chkValidAftR, Array, Heap, OrderSet, deque, monotonic",https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/,HuaHua,
+1499,Max Value of Equation,Hard,High,"Dig More, HardToImplement, No Idea At First, toSummarize","Array, Heap, PQ, Sliding Window, deque, monotonic",https://leetcode.com/problems/max-value-of-equation/,HuaHua,
+1585,Check If String Is Transformable With Substring Sort Operations,Hard,High,No Idea At First,"Greedy, Sort, queue, string",https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/,HuaHua,
+2748,Number of Beautiful Pairs,Easy,Pass,,"Array, Math",https://leetcode.com/problems/number-of-beautiful-pairs/,LC_Contests,
+2749,Minimum Operations to Make the Integer Zero,Medium,High,"In Progress, No Idea At First",,https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/,LC_Contests,
+2750,Ways to Split Array Into Good Subarrays,Medium,Medium,HardToImplement,"Array, Math",https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/,LC_Contests,
+2751,Robot Collisions,Hard,Medium,HardToImplement,"Array, stack",https://leetcode.com/problems/robot-collisions/,LC_Contests,
+1575,Count All Possible Routes,Hard,High,"HardToImplement, More Solution",DP,https://leetcode.com/problems/count-all-possible-routes/,leetcode_daily,
+871,Minimum Number of Refueling Stops,Hard,High,"HardToImplement, More Solution","Array, DP, Greedy, PQ",https://leetcode.com/problems/minimum-number-of-refueling-stops/,HuaHua,
+1354,Construct Target Array With Multiple Sums,Hard,High,"Dig More, HardToImplement, No Idea At First","Math, PQ, simulation",https://leetcode.com/problems/construct-target-array-with-multiple-sums/,HuaHua,
+1508,Range Sum of Sorted Subarray Sums,Medium,Low,"More Solution, checkBetterSolution","2pt, BS_todo, PQ, Prefix",https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/,HuaHua,
+1642,Furthest Building You Can Reach,Medium,High,No Idea At First,"Array, BS_todo, Greedy, PQ",https://leetcode.com/problems/furthest-building-you-can-reach/,HuaHua,
+1675,Minimize Deviation in Array,Hard,High,"Dig More, More Solution, No Idea At First","Array, Greedy, OrderSet, PQ",https://leetcode.com/problems/minimize-deviation-in-array/,HuaHua,
+1792,Maximum Average Pass Ratio,Medium,High,No Idea At First,"Array, Greedy, PQ",https://leetcode.com/problems/maximum-average-pass-ratio/,HuaHua,
+2462,Total Cost to Hire K Workers,Medium,Medium,HardToImplement,"2pt, Array, PQ, simulation",https://leetcode.com/problems/total-cost-to-hire-k-workers/description/,"LC_75, leetcode_daily",
+1514,Path with Maximum Probability,Medium,High,Dig More,"Array, BFS, Dijkstra, Graph, PQ, shortest_path",https://leetcode.com/problems/path-with-maximum-probability/description/,leetcode_daily,
+2564,Substring XOR Queries,Medium,,new,"Bit Manipulation, Hash, string",,HuaHua,
+2441,Largest Positive Integer That Exists With Its Negative,Easy,Low,More Solution,"2pt, Array, Hash, Sort",https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/,HuaHua,
+1542,Find Longest Awesome Substring,Hard,,new,"Hash, string",,HuaHua,
+1488,Avoid Flood in The City,Medium,,new,Hash,,HuaHua,
+1477,Find Two Non-overlapping Sub-arrays Each With Target Sum,Medium,,new,Hash,,HuaHua,
+1442,Count Triplets That Can Form Two Arrays of Equal XOR,Medium,,new,"Bit Manipulation, Hash",,HuaHua,
+1424,Diagonal Traverse II,Medium,Medium,"HardToImplement, More Solution","Array, PQ, Sort, matrix-diagTraverse",https://leetcode.com/problems/diagonal-traverse-ii/,"HuaHua, leetcode_daily",
+1371,Find the Longest Substring Containing Vowels in Even Counts,Medium,,new,Hash,,HuaHua,
+1296,Divide Array in Sets of K Consecutive Numbers,Medium,,new,"Hash, Tree",,HuaHua,
+1218,Longest Arithmetic Subsequence of Given Difference,Medium,High,No Idea At First,"DP, Hash",https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference,"HuaHua, leetcode_daily",
+1178,Number of Valid Words for Each Puzzle,Hard,,new,"Bit Manipulation, Hash, string",,HuaHua,
+1124,Longest Well-Performing Interval,Medium,,new,Hash,,HuaHua,
+873,Length of Longest Fibonacci Subsequence,Medium,,new,"DP, Hash",,HuaHua,
+525,Contiguous Array,Medium,High,No Idea At First,"Array, Hash, Prefix",https://leetcode.com/problems/contiguous-array/description/,"HuaHua, facebookFreq",
+567,Permutation in String,Medium,Low,,"2pt_SameDir_sameSpeed, Hash, Sliding Window, string",https://leetcode.com/problems/permutation-in-string/description/,"HuaHua, googleFreq",
+432,All O`one Data Structure,Hard,High,"HardToImplement, checkBetterSolution, toRevisit, toSummarize","Design, Hash, LinkedList",https://leetcode.com/problems/all-oone-data-structure/description/,HuaHua,
+560,Subarray Sum Equals K,Medium,Low,checkBetterSolution,"Hash, Prefix",https://leetcode.com/problems/subarray-sum-equals-k/,"HuaHua, appleFreq",
+792,Number of Matching Subsequences,Medium,High,"CalcuComplexity, Dig More, More Solution, No Idea At First","Array, BS_todo, DP, Hash, Sort, Trie, string",https://leetcode.com/problems/number-of-matching-subsequences/description/,"HuaHua, googleFreq",
+763,Partition Labels,Medium,Medium,"More Solution, toRevisit","2pt, Greedy, Hash, Interval, string",https://leetcode.com/problems/partition-labels/description/,HuaHua,
+748,Shortest Completing Word,Easy,,new,"Hash, string",,HuaHua,
+745,Prefix and Suffix Search,Hard,High,"CalcuComplexity, Dig More, More Solution, No Idea At First, toSummarize","Design, Hash, Trie, string",https://leetcode.com/problems/prefix-and-suffix-search/description/,HuaHua,
+734,Sentence Similarity,Easy,,new,Hash,,HuaHua,
+720,Longest Word in Dictionary,Easy,Medium,More Solution,"Array, Hash, Sort, Trie, string",https://leetcode.com/problems/longest-word-in-dictionary/,HuaHua,
+126,Word Ladder II,Hard,High,HardToImplement,"BFS, BackTracking, DFS, Graph, Hash, string",https://leetcode.com/problems/word-ladder-ii/description/,HuaHua,
+409,Longest Palindrome,,,new,"Greedy, Hash, string",,HuaHua,
+677,Map Sum Pairs,Medium,High,HardToImplement,"Design, Hash, Trie, string",https://leetcode.com/problems/map-sum-pairs/,HuaHua,
+381,Insert Delete GetRandom,,,new,"Design, Hash",,HuaHua,
+451,Sort Characters By Frequency,,,new,"Hash, string",,HuaHua,
+509,Fibonacci Number,Easy,Pass,More Solution,"DP, Math, recursion",https://leetcode.com/problems/fibonacci-number/description/,"HuaHua, microsoftFreq",
+1137,N-th Tribonacci Number,Easy,Low,More Solution,"Math, dp-TimeSeqFromLastOne-Power",https://leetcode.com/problems/n-th-tribonacci-number,"HuaHua, LC_75",
+746,Min Cost Climbing Stairs,Easy,Medium,More Solution,"Array, dp-TimeSeqFromLastOne-Power",https://leetcode.com/problems/min-cost-climbing-stairs,"HuaHua, LC_75",
+740,Delete and Earn,Medium,Medium,,"dp-TimeSeqFromLastOne-Power, stateMachine",https://leetcode.com/problems/delete-and-earn/,HuaHua,
+152,Maximum Product Subarray,Medium,,new,DP,,"HuaHua, ticktokFreq",1
+1567,Maximum Length of Subarray With Positive Product,Medium,Medium,HardToImplement,"DP, dp-TimeSeqFromLastOne-Power, stateMachine",https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/description/,HuaHua,
+1014,Best Sightseeing Pair,Medium,,new,DP,,HuaHua,
+2560,House Robber IV,Medium,,new,"BS_todo, DP",,HuaHua,
+2435,Paths in Matrix Whose Sum Is Divisible by K,Hard,,new,DP,,HuaHua,
+1872,Stone Game VIII,Hard,,new,DP,,HuaHua,
+1815,Maximum Number of Groups Getting Fresh Donuts,Hard,,new,DP,,HuaHua,
+1799,Maximize Score After N Operations,Hard,,new,DP,,HuaHua,
+1786,Number of Restricted Paths From First to Last Node,Medium,,new,"DP, Graph",,HuaHua,
+1771,Maximize Palindrome Length From Subsequences,Hard,,new,DP,,HuaHua,
+1770,Maximum Score from Performing Multiplication Operations,Medium,,new,DP,,HuaHua,
+1745,Palindrome Partitioning IV,Hard,,new,DP,,HuaHua,
+1727,Largest Submatrix With Rearrangements,Medium,High,No Idea At First,"DP, Greedy, Matrix, Prefix, Sort",https://leetcode.com/problems/largest-submatrix-with-rearrangements/,"HuaHua, leetcode_daily",
+1713,Minimum Operations to Make a Subsequence,,,new,DP,,HuaHua,
+1838,Frequency of the Most Frequent Element,Medium,High,"More Solution, No Idea At First","Array, BS_todo, Greedy, Prefix, Sliding Window, Sort",https://leetcode.com/problems/frequency-of-the-most-frequent-element/,HuaHua,
+2317,Maximum XOR After Operations,,,new,Bit Manipulation,,HuaHua,
+1655,Distribute Repeating Integers,,,new,"Bit Manipulation, DP",,HuaHua,
+1558,Minimum Numbers of Function Calls to Make Target Array,,,new,Bit Manipulation,,HuaHua,
+1483,Kth Ancestor of a Tree Node,Hard,High,More Solution,"BFS, BS_todo, BinaryLifting, Bit Manipulation, DFS, DP, Design, Tree",https://leetcode.com/problems/kth-ancestor-of-a-tree-node/description/,HuaHua,
+1457,Pseudo,,,new,"Bit Manipulation, Tree, string",,HuaHua,
+393,UTF,,,new,Bit Manipulation,,HuaHua,
+1239,Maximum Length of a Concatenated String with Unique Characters,Medium,Medium,HardToImplement,"Array, BackTracking, Bit Manipulation, search, string",https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/,"HuaHua, microsoftFreq",
+476,Number Complement,,,new,Bit Manipulation,,HuaHua,
+477,Total Hamming Distance,,,new,Bit Manipulation,,HuaHua,
+1409,Queries on a Permutation With Key,,,new,simulation,,HuaHua,
+1395,Count Number of Teams,,,new,"Math, simulation",,HuaHua,
+848,Shifting Letters,,,new,"simulation, string",,HuaHua,
+803,Bricks Falling When Hit,,,new,"search, simulation",,HuaHua,
+799,Champagne Tower,Medium,High,"HardToImplement, No Idea At First","DP, simulation",https://leetcode.com/problems/champagne-tower/description/,"HuaHua, ticktokFreq",
+636,Exclusive Time of Functions,Medium,High,HardToImplement,"Array, simulation, stack",https://leetcode.com/problems/exclusive-time-of-functions/,HuaHua,
+755,Pour Water,,,new,simulation,,HuaHua,
+749,Contain Virus,,,new,"search, simulation",,HuaHua,
+735,Asteroid Collision,Medium,Low,checkBetterSolution,"Array, simulation, stack",https://leetcode.com/problems/asteroid-collision,"HuaHua, LC_75",
+461,Hamming Distance,,,new,simulation,,HuaHua,
+725,Split Linked List in Parts,Medium,Low,,"LinkedList, simulation",https://leetcode.com/problems/split-linked-list-in-parts/,"HuaHua, leetcode_daily",
+683,K Empty Slots,,,new,"Tree, simulation",,HuaHua,
+681,Next Closest Time,Medium,Medium,"HardToImplement, No Idea At First","BackTracking, simulation, string",https://leetcode.com/problems/next-closest-time/description/,"HuaHua, googleFreq",
+682,Baseball Game,,,new,simulation,,HuaHua,
+566,Reshape the Matrix,,,new,simulation,,HuaHua,
+657,Judge Route Circle,,,new,simulation,,HuaHua,
+707,Design Linked List,Medium,Medium,More Solution,"Design, LinkedList",https://leetcode.com/problems/design-linked-list/,HuaHua,
+817,Linked List Components,Medium,Pass,,"Graph, Hash, LinkedList",https://leetcode.com/problems/linked-list-components/description/,HuaHua,
+2166,Design Bitset,,,new,Design,,HuaHua,
+1206,Design Skiplist,,,new,Design,,HuaHua,
+895,Maximum Frequency Stack,,,new,Design,,HuaHua,
+391,Perfect Rectangle,,,new,Geometry,,HuaHua,
+759,Employee Free Time,Hard,Medium,"More Solution, dup","Array, Interval, PQ, Sort",https://leetcode.com/problems/employee-free-time/description/,"HuaHua, googleFreq",
+732,My Calendar III,,,new,"Geometry, Tree",,HuaHua,
+731,My Calendar II,,,new,Geometry,,HuaHua,
+699,Falling Squares,,,new,"Geometry, Tree",,HuaHua,
+2405,Optimal Partition of String,Medium,Low,,"Greedy, Hash, string",https://leetcode.com/problems/optimal-partition-of-string/,"AmazonFreq, HuaHua",1
+1775,Equal Sum Arrays With Minimum Number of Operations,,,new,Greedy,,HuaHua,
+1648,Sell Diminishing,,,new,"Greedy, Math",,HuaHua,
+1616,Split Two Strings to Make Palindrome,,,new,"Greedy, string",,HuaHua,
+1520,Maximum Number of Non,,,new,Greedy,,HuaHua,
+1505,Minimum Possible Integer After at Most K Adjacent Swaps On Digits,,,new,Greedy,,HuaHua,
+1353,Maximum Number of Events That Can Be Attended,Medium,High,No Idea At First,"Array, Greedy, PQ, Sort",https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended,"HuaHua, LC_75",
+1326,Minimum Number of Taps to Open to Water a Garden,Hard,Medium,More Solution,"Array, Contribution, DP, Greedy, Interval, Sort",https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/,"HuaHua, leetcode_daily",
+1145,Binary Tree Coloring Game,,,new,"Graph, Greedy, Tree",,HuaHua,
+334,Increasing Triplet Subsequence,Medium,High,"More Solution, No Idea At First","Array, Greedy, Prefix",https://leetcode.com/problems/increasing-triplet-subsequence/,"HuaHua, LC_75",
+826,Most Profit Assigning Work,,,new,Greedy,,HuaHua,
+321,Create Maximum Number,,,new,"DP, Greedy",,HuaHua,
+621,Task Scheduler,,,new,Greedy,,HuaHua,
+675,Cut Off Trees for Golf Event,Hard,Low,,"BFS, Matrix",https://leetcode.com/problems/cut-off-trees-for-golf-event/,HuaHua,
+455,Assign Cookies,Easy,Medium,HardToImplement,"2pt_TwoArray, Array, Greedy, Sort",https://leetcode.com/problems/assign-cookies/description/,HuaHua,
+628,Maximum Product of Three Numbers,,,new,Greedy,,HuaHua,
+561,Array Partition I,,,new,Greedy,,HuaHua,
+2476,Closest Nodes Queries in a Binary Search Tree,,,new,"BS_todo, Tree",,HuaHua,
+1760,Minimum Limit of Balls in a Bag,,,new,BS_todo,,HuaHua,
+1755,Closest Subsequence Sum,,,new,BS_todo,,HuaHua,
+1095,Find in Mountain Array,Hard,Low,,BS_Idx,https://leetcode.com/problems/find-in-mountain-array/,HuaHua,
+1631,Path With Minimum Effort,Medium,High,"More Solution, No Idea At First","BFS, BS_todo, DFS, DP, Dijkstra, Graph, Matrix, PQ, Union Find, search",https://leetcode.com/problems/path-with-minimum-effort/description/,"HuaHua, microsoftFreq",
+1292,Max Length of a Square with Sum Less than or Equal to Threshold,,,new,"BS_todo, DP",,HuaHua,
+1283,Find the Smallest Divisor Given a Threshold,,,new,BS_todo,,HuaHua,
+1268,Search Suggestions System,Medium,High,"Dig More, HardToImplement, More Solution","BS_todo, Trie",https://leetcode.com/problems/search-suggestions-system/,"HuaHua, LC_75",
+1201,Ugly Number III,,,new,"BS_todo, Math",,HuaHua,
+975,Odd Even Jump,Hard,High,"HardToImplement, More Solution","Array, BS_lower_upper_bound, DP, OrderMap, monotonic, stack",https://leetcode.com/problems/odd-even-jump/,"HuaHua, googleFreq",
+668,Kth Smallest Number in Multiplication Table,Hard,Medium,,BS_Val,https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/,HuaHua,
+786,https://leetcode.com/problems/k-th-smallest-prime-fraction/,Medium,High,No Idea At First,"Array, BS_Val, Greedy, PQ, Sort",https://leetcode.com/problems/k-th-smallest-prime-fraction/,HuaHua,
+540,Single Element in a Sorted Array,Medium,High,"Dig More, HardToImplement, checkBetterSolution, toSummarize","Array, BS_Idx",https://leetcode.com/problems/single-element-in-a-sorted-array/description/,"HuaHua, googleFreq",
+719,https://leetcode.com/problems/find-k-th-smallest-pair-distance/,Hard,High,More Solution,"2pt_SameDir_maxWin_chkValidAftR, Array, BS_Val, Sort",https://leetcode.com/problems/find-k-th-smallest-pair-distance/,HuaHua,
+2523,Closest Prime Numbers in Range,,,new,Math,,HuaHua,
+1674,Minimum Moves to Make Array Complementary,,,new,Math,,HuaHua,
+1573,Number of Ways to Split a String,Medium,Medium,toSummarize,"Math, string",https://leetcode.com/problems/number-of-ways-to-split-a-string/description/,"HuaHua, ticktokFreq",
+1467,Probability of a Two Boxes Having The Same Number of Distinct Balls,,,new,"Math, search",,HuaHua,
+1017,Convert to Base,,,new,Math,,HuaHua,
+972,Equal Rational Numbers,,,new,Math,,HuaHua,
+470,Implement Rand10,,,new,Math,,HuaHua,
+902,Numbers At Most N Given Digit Set,,,new,Math,,HuaHua,
+891,Sum of Subsequence Widths,,,new,Math,,HuaHua,
+754,Reach a Number,,,new,Math,,HuaHua,
+728,Self Dividing Numbers,,,new,Math,,HuaHua,
+268,Missing Number,,,new,Math,,HuaHua,
+204,Count Primes,,,new,Math,,HuaHua,
+241,Different Ways to Add Parentheses,Medium,Medium,More Solution,"DP, Math, recursion, string",https://leetcode.com/problems/different-ways-to-add-parentheses/description/,HuaHua,
+463,Island Perimeter,,,new,Math,,HuaHua,
+504,Base 7,,,new,Math,,HuaHua,
+633,Sum of Square Numbers,,,new,Math,,HuaHua,
+1707,Maximum XOR With an Element From Array,,,new,Tree,,HuaHua,
+1617,Count Subtrees With Max Distance Between Cities,,,new,"DP, Tree, search",,HuaHua,
+1530,Number of Good Leaf Nodes Pairs,Medium,Low,,"DFS, Tree",https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/,"HuaHua, ticktokFreq",
+662,Maximum Width of Binary Tree,,,new,Tree,,HuaHua,
+1489,Find Critical and Pseudo,Hard,High,"Dig More, No Idea At First, toRevisit","Graph, MST(Minimum Spanning Tree), Strongly Connected Component, Tree",https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/,HuaHua,
+1443,Minimum Time to Collect All Apples in a Tree,,,new,Tree,,HuaHua,
+1373,Maximum Sum BST in Binary Tree,,,new,Tree,,HuaHua,
+1339,Maximum Product of Splitted Binary Tree,,,new,Tree,,HuaHua,
+1305,All Elements in Two Binary Search Trees,,,new,Tree,,HuaHua,
+116,Populating Next Right Pointers in Each Node,,,new,Tree,,HuaHua,
+1110,Delete Nodes And Return Forest,Medium,Medium,More Solution,"Array, BFS, DFS, Hash, Tree",https://leetcode.com/problems/delete-nodes-and-return-forest/description/,"HuaHua, facebookFreq",
+979,Distribute Coins in Binary Tree,Medium,High,,"DFS, Greedy, Tree",https://leetcode.com/problems/distribute-coins-in-binary-tree/description/,HuaHua,
+894,All Possible Full Binary Trees,,,new,"DP, Tree",,HuaHua,
+889,Construct Binary Tree from Preorder and Postorder Traversal,,,new,Tree,,HuaHua,
+865,Smallest Subtree with all the Deepest Nodes,Medium,Low,More Solution,"BFS, DFS, Hash, Tree",https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/,"HuaHua, facebookFreq",
+863,All Nodes Distance K in Binary Tree,Medium,Medium,More Solution,"BFS, Graph, Tree",https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree,"HuaHua, leetcode_daily",
+823,Binary Trees With Factors,Medium,Medium,,"Array, Hash, Sort, dp-TimeSeqFromLastX",https://leetcode.com/problems/binary-trees-with-factors/,"HuaHua, leetcode_daily",
+486,Predict the Winner,Medium,Medium,dup,"Array, Game, Math, dp-Pyr, recursion",https://leetcode.com/problems/predict-the-winner/,"HuaHua, leetcode_daily",
+652,Find Duplicate Subtrees,Medium,Medium,More Solution,"DFS, Hash, Tree",https://leetcode.com/problems/find-duplicate-subtrees/description/,"HuaHua, googleFreq",
+742,Closest Leaf in a Binary Tree,,,new,"Graph, Tree",,HuaHua,
+449,Serialize and Deserialize BST,Medium,Medium,No Idea At First,"BFS, BST, DFS, Design, Tree, string",https://leetcode.com/problems/serialize-and-deserialize-bst/description/,HuaHua,
+685,Redundant Connection II,Hard,High,No Idea At First,"Graph, TopSorting, Tree, Union Find",https://leetcode.com/problems/redundant-connection-ii/,HuaHua,
+687,Diameter of Binary Tree,Medium,Medium,,"DFS, Tree",https://leetcode.com/problems/longest-univalue-path/description/,HuaHua,
+543,https://leetcode.com/problems/diameter-of-binary-tree/,Easy,Low,,"DFS, Tree",https://leetcode.com/problems/diameter-of-binary-tree/description/,HuaHua,
+690,Employee Importance,Medium,Pass,,"BFS, DFS, Hash, Tree",https://leetcode.com/problems/employee-importance/,"HuaHua, googleFreq",
+684,Redundant Connection,Medium,Medium,"Dig More, More Solution, toSummarize","BFS, DFS, Graph, TopSorting, Tree, Union Find, circle",https://leetcode.com/problems/redundant-connection/description/,HuaHua,
+332,Reconstruct Itinerary,Hard,High,"Dig More, No Idea At First, todo","DFS, EulerianPath, Graph",https://leetcode.com/problems/reconstruct-itinerary/,HuaHua,
+669,Trim a Binary Search Tree,Medium,Low,More Solution,"BFS, BST, DFS, Tree",https://leetcode.com/problems/trim-a-binary-search-tree/description/,HuaHua,
+671,Second Minimum Node In a Binary Tree,,,new,Tree,,HuaHua,
+113,Path Sum II,Medium,Medium,,"BackTracking, DFS, Tree",https://leetcode.com/problems/path-sum-ii/description/,HuaHua,
+606,Construct String from Binary Tree,,,new,Tree,,HuaHua,
+617,Merge Two Binary Trees,,,new,Tree,,HuaHua,
+404,Sum of Left Leaves,,,new,Tree,,HuaHua,
+842,Split Array into Fibonacci Sequence,Medium,Medium,HardToImplement,"BackTracking, string",https://leetcode.com/problems/split-array-into-fibonacci-sequence/description/,HuaHua,
+282,Expression Add Operators,Hard,High,"Dig More, HardToImplement","BackTracking, Math, string",https://leetcode.com/problems/expression-add-operators/description/,HuaHua,
+758,Bold Words in String,,,new,string,,HuaHua,
+301,Remove Invalid Parentheses,Hard,High,"More Solution, No Idea At First","BFS, BackTracking, string",https://leetcode.com/problems/remove-invalid-parentheses/description/,HuaHua,
+639,Decode Ways II,,,new,"DP, string",,HuaHua,
+488,Zuma Game,,,new,"search, string",,HuaHua,
+678,Valid Parenthesis String,Medium,High,"Dig More, No Idea At First, toRevisit","DP, Greedy, stack, string",https://leetcode.com/problems/valid-parenthesis-string/,"HuaHua, microsoftFreq",
+680,Valid Palindrome II,,,new,string,,HuaHua,
+1659,Maximize Grid Happiness,,,new,"DP, search",,HuaHua,
+1593,Split a String Into the Max Number of Unique Substrings,,,new,search,,HuaHua,
+1553,Minimum Number of Days to Eat N Oranges,,,new,"DP, search",,HuaHua,
+1377,Frog Position After T Seconds,,,new,"Graph, search",,HuaHua,
+1368,Minimum Cost to Make at Least One Valid Path in a Grid,,,new,"DP, search",,HuaHua,
+1298,Maximum Candies You Can Get from Boxes,Hard,High,"Dig More, HardToImplement, checkBetterSolution, toRevisit","Array, BFS, Graph, simulation",https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/,HuaHua,
+1263,Minimum Moves to Move a Box to Their Target Location,Hard,High,HardToImplement,"BFS, Graph, Matrix",https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/,HuaHua,
+417,Pacific Atlantic Water Flow,,,new,"DP, Graph, search",,HuaHua,
+980,Unique Paths III,Hard,High,"CalcuComplexity, Dig More, More Solution, toRevisit, toSummarize","Array, BackTracking, Bit Manipulation, DFS, DP, Graph, Matrix, TSP/HamiltonianPath, search",https://leetcode.com/problems/unique-paths-iii/description/,HuaHua,
+964,Least Operators to Express Number,,,new,"DP, Graph, search",,HuaHua,
+801,Minimum Swaps To Make Sequences Increasing,Hard,Medium,,"Array, dp-TimeSeqFromLastOne-Power, stateMachine",https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/description/,HuaHua,
+815,Bus Routes,Hard,Medium,,"Array, BFS, Graph, Hash",https://leetcode.com/problems/bus-routes/description/,"HuaHua, ticktokFreq",1
+787,Cheapest Flights Within K Stops,Medium,High,"CalcuComplexity, Dig More, More Solution, toSummarize","BFS, BellmanFord, DFS, DP, Dijkstra, Graph, PQ, shortest_path",https://leetcode.com/problems/cheapest-flights-within-k-stops/description/,HuaHua,
+773,Sliding Puzzle,,,new,search,,HuaHua,
+753,Cracking the Safe,,,new,search,,HuaHua,
+752,Open the Lock,Medium,Medium,HardToImplement,"Array, BFS, Hash, string",https://leetcode.com/problems/open-the-lock/description/,HuaHua,
+733,Flood Fill,Easy,Pass,,"BFS, Connected_Component, DFS, Graph, Matrix",https://leetcode.com/problems/flood-fill/,HuaHua,
+216,Combination Sum III,Medium,Low,,"Array, BackTracking, search",https://leetcode.com/problems/combination-sum-iii,"HuaHua, LC_75",
+37,Sudoku Solver,Hard,Medium,HardToImplement,"BackTracking, DFS, Hash, Matrix",https://leetcode.com/problems/sudoku-solver/description/,HuaHua,
+2662,Minimum Cost of a Path With Special Roads,,,new,Graph,,HuaHua,
+1061,Lexicographically Smallest Equivalent String,,,new,Graph,,HuaHua,
+2316,Count Unreachable Pairs of Nodes in an Undirected Graph,Medium,Low,More Solution,"BFS, DFS, Graph, Union Find",https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/description/,"HuaHua, googleFreq",
+1579,Remove Max Number of Edges to Keep Graph Fully Traversable,,,new,Graph,,HuaHua,
+1334,Find the City With the Smallest Number of Neighbors,Medium,Medium,"More Solution, checkBetterSolution, toRevisit","BellmanFord, DP, Dijkstra, Floyd, Graph, SPFA, shortest_path",https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/,HuaHua,
+1319,Number of Operations to Make Network Connected,Medium,Low,,"BFS, DFS, Graph, Union Find",https://leetcode.com/problems/number-of-operations-to-make-network-connected/description/,HuaHua,
+1202,Smallest String With Swaps,Medium,Low,No Idea At First,"BFS, Connected_Component, DFS, Graph, Hash, Union Find, string",https://leetcode.com/problems/smallest-string-with-swaps/description/,HuaHua,
+1129,Shortest Path with Alternating Colors,Medium,Medium,,"BFS, Graph",https://leetcode.com/problems/shortest-path-with-alternating-colors/description/,HuaHua,
+959,Regions Cut By Slashes,Medium,Medium,checkBetterSolution,"Array, BFS, DFS, Graph, Hash, Matrix, Union Find, string",https://leetcode.com/problems/regions-cut-by-slashes/,HuaHua,
+952,Largest Component Size by Common Factor,Hard,Medium,checkBetterSolution,"Array, Graph, Math, PrimeFactor, Union Find",https://leetcode.com/problems/largest-component-size-by-common-factor/,HuaHua,
+886,Possible Bipartition,Medium,High,"More Solution, No Idea At First, toSummarize","BFS, Bipartition_graphColoring, Graph",https://leetcode.com/problems/possible-bipartition/,HuaHua,
+882,Reachable Nodes In Subdivided Graph,Hard,High,"HardToImplement, No Idea At First","Dijkstra, Graph, PQ",https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/,HuaHua,
+841,Keys and Rooms,Medium,Low,,"BFS, DFS, Graph",https://leetcode.com/problems/keys-and-rooms,"HuaHua, LC_75",
+827,Making A Large Island,Hard,Medium,No Idea At First,"BFS, Connected_Component, DFS, Graph, Matrix, Union Find",https://leetcode.com/problems/making-a-large-island/description/,HuaHua,
+802,Find Eventual Safe States,Medium,High,"Dig More, More Solution, toRevisit","BFS, DFS, Graph, TopSorting, circle",https://leetcode.com/problems/find-eventual-safe-states,"HuaHua, leetcode_daily",
+743,Network Delay Time,Medium,Low,,"Dijkstra, Graph, shortest_path",https://leetcode.com/problems/network-delay-time/description/,HuaHua,
+737,Sentence Similarity II,Medium,Low,,"Array, BFS, DFS, Graph, Hash, Union Find, string",https://leetcode.com/problems/sentence-similarity-ii/description/,HuaHua,
+1696,Jump Game VI,,,new,DP,,HuaHua,
+1690,Stone Game VII,,,new,DP,,HuaHua,
+1681,Minimum Incompatibility,,,new,DP,,HuaHua,
+1595,Minimum Cost to Connect Two Groups of Points,,,new,DP,,HuaHua,
+1563,Stone Game V,,,new,DP,,HuaHua,
+1531,String Compression II,,,new,DP,,HuaHua,
+1524,Number of Sub,,,new,DP,,HuaHua,
+1473,Paint House III,,,new,DP,,HuaHua,
+1463,Cherry Pickup II,,,new,DP,,HuaHua,
+1458,Max Dot Product of Two Subsequences,,,new,DP,,HuaHua,
+1449,Form Largest Integer With Digits That Add up to Target,,,new,DP,,HuaHua,
+1444,Number of Ways of Cutting a Pizza,Hard,High,"CalcuComplexity, HardToImplement, More Solution, No Idea At First, checkBetterSolution","DP, Matrix, Prefix",https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza,"HuaHua, ticktokFreq",1
+1425,Constrained Subset Sum,Hard,High,"HardToImplement, No Idea At First","Array, Sliding Window, deque, dp-TimeSeqFromLastX, monotonic",https://leetcode.com/problems/constrained-subsequence-sum/,"HuaHua, leetcode_daily",
+1416,Restore The Array,,,new,DP,,HuaHua,
+1340,Jump Game V,,,new,DP,,HuaHua,
+1320,Minimum Distance to Type a Word Using Two Fingers,,,new,DP,,HuaHua,
+1310,XOR Queries of a Subarray,,,new,DP,,HuaHua,
+1301,Number of Paths with Max Score,,,new,DP,,HuaHua,
+1220,Count Vowels Permutation,Hard,Low,,"Graph, dp-TimeSeqFromLastOne-Power, dp-bfs-stepByStep",https://leetcode.com/problems/count-vowels-permutation/description/,HuaHua,
+1191,https://leetcode.com/problems/k-concatenation-maximum-sum/,Medium,,new,DP,,HuaHua,
+1155,Number of Dice Rolls With Target Sum,,,new,DP,,HuaHua,
+1043,Partition Array for Maximum Sum,Medium,Low,,"Array, dp-Pyr, dp-TimeSeqFromLastX",https://leetcode.com/problems/partition-array-for-maximum-sum/,HuaHua,
+1024,Video Stitching,Medium,Medium,More Solution,"Array, DP, Greedy, Interval",https://leetcode.com/problems/video-stitching/,HuaHua,
+935,Knight Dialer,Medium,Low,toSummarize,"Graph, Matrix, dp-TimeSeqFromLastOne-Power, dp-bfs-stepByStep",https://leetcode.com/problems/knight-dialer/description/,HuaHua,
+926,Flip String to Monotone Increasing,,,new,DP,,HuaHua,
+901,Online Stock Span,Medium,High,"Dig More, HardToImplement, More Solution","DP, Data_stream, Design, monotonic, stack",https://leetcode.com/problems/online-stock-span/,"HuaHua, LC_75",
+576,Out of Boundary Paths,Medium,Low,,"DFS, DP, Matrix, recursion",https://leetcode.com/problems/out-of-boundary-paths/,HuaHua,
+790,Domino and Tromino Tiling,Medium,High,"Dig More, More Solution, No Idea At First",DP,https://leetcode.com/problems/domino-and-tromino-tiling,"HuaHua, LC_75",
+416,Partition Equal Subset Sum,Medium,Low,,"Array, dp-backpack",https://leetcode.com/problems/partition-equal-subset-sum/,HuaHua,
+377,Combination Sum IV,Medium,Medium,More Solution,"Array, DP, recursion",https://leetcode.com/problems/combination-sum-iv/,HuaHua,
+741,Cherry Pickup,Hard,High,"Dig More, More Solution, No Idea At First","DP, Matrix, matrix-diagTraverse",https://leetcode.com/problems/cherry-pickup/,HuaHua,
+730,Count Different Palindromic Subsequences,Hard,,new,DP,,HuaHua,
+724,Find Pivot Index,Easy,Pass,,"DP, Prefix",https://leetcode.com/problems/find-pivot-index,"HuaHua, LC_75",
+664,Strange Printer,Hard,High,"Dig More, More Solution, No Idea At First, NotUnderstand, toSummarize","dp-Pyr, dp-状态转移不仅依赖前一项, string",https://leetcode.com/problems/strange-printer/description/,"HuaHua, leetcode_daily",
+304,Range Sum Query 2D,Medium,Low,,"Design, Matrix, Prefix",https://leetcode.com/problems/range-sum-query-2d-immutable/,HuaHua,
+140,Word Break II,Hard,Medium,,"Array, BackTracking, DP, Hash, Trie, string",https://leetcode.com/problems/word-break-ii/description/,HuaHua,
+303,Range Sum Query,Easy,Pass,,"Array, Design, Prefix",https://leetcode.com/problems/range-sum-query-immutable/,HuaHua,
+174,Dungeon Game,Hard,High,"Dig More, No Idea At First, toSummarize","DP, Matrix",https://leetcode.com/problems/dungeon-game,HuaHua,
+250,Count Univalue Subtrees,Medium,Medium,HardToImplement,"DFS, Divide and Conquer, Tree",https://leetcode.com/problems/count-univalue-subtrees/description/,leetcode_daily,
+864,Shortest Path to Get All Keys,Hard,High,"HardToImplement, toSummarize","Array, BFS, Bit Manipulation, Graph, Math, visiting_all_nodes_with_dup",https://leetcode.com/problems/shortest-path-to-get-all-keys/description/,"HuaHua, leetcode_daily",
+445,Add Two Numbers II,Medium,Medium,HardToImplement,"LinkedList, Math, stack",https://leetcode.com/problems/add-two-numbers-ii/description/,HuaHua,
+24,Swap Nodes in Pairs,Medium,Low,,"LinkedList, recursion",https://leetcode.com/problems/swap-nodes-in-pairs/description/,HuaHua,
+147,Insertion Sort List,Medium,Medium,HardToImplement,"LinkedList, Sort",https://leetcode.com/problems/insertion-sort-list/,HuaHua,
+1970,Last Day Where You Can Still Cross,Hard,High,No Idea At First,"Array, BFS, BS_Idx, Matrix, Union Find",https://leetcode.com/problems/last-day-where-you-can-still-cross/description/,leetcode_daily,
+981,Time Based Key-Value Store,Medium,Low,,"BS_Idx, Design, Hash, string",https://leetcode.com/problems/time-based-key-value-store/description/,HuaHua,
+2305,Fair Distribution of Cookies,Medium,High,"More Solution, No Idea At First, toSummarize",dp-K_Ranges,https://leetcode.com/problems/fair-distribution-of-cookies/,leetcode_daily,
+465,Optimal Account Balancing,Hard,High,"Dig More, More Solution, No Idea At First","Array, BackTracking, Bit Manipulation, BitMask, DP",https://leetcode.com/problems/optimal-account-balancing/,leetcode_daily,
+1768,Merge Strings Alternately,Easy,Pass,,"2pt, string",https://leetcode.com/problems/merge-strings-alternately,LC_75,
+1071,Greatest Common Divisor of Strings,Easy,High,"More Solution, No Idea At First","Math, string",https://leetcode.com/problems/greatest-common-divisor-of-strings/description/,LC_75,
+1431,Kids With the Greatest Number of Candies,Easy,Pass,,Array,https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/,"AmazonFreq, LC_75",1
+605,Can Place Flowers,Easy,High,HardToImplement,"Array, Greedy",https://leetcode.com/problems/can-place-flowers,LC_75,
+1679,Max Number of K-Sum Pairs,Medium,Low,More Solution,"2pt, Array, Hash, Sort",https://leetcode.com/problems/max-number-of-k-sum-pairs,LC_75,
+1207,Unique Number of Occurrences,Easy,Pass,,"Array, Hash",https://leetcode.com/problems/unique-number-of-occurrences,LC_75,
+643,Maximum Average Subarray I,Easy,Low,,"Array, Sliding Window",https://leetcode.com/problems/maximum-average-subarray-i,LC_75,
+2215,Find the Difference of Two Arrays,Easy,Pass,,"Array, Hash",https://leetcode.com/problems/find-the-difference-of-two-arrays,LC_75,
+700,Search in a Binary Search Tree,Easy,Pass,,"BST, Tree",https://leetcode.com/problems/search-in-a-binary-search-tree,LC_75,
+933,Number of Recent Calls,Easy,Medium,More Solution,"Data_stream, Design, queue",https://leetcode.com/problems/number-of-recent-calls/,LC_75,
+872,Leaf-Similar Trees,Easy,High,toSummarize,"DFS, Iterate, Tree",https://leetcode.com/problems/leaf-similar-trees,"HuaHua, LC_75",
+1004,Max Consecutive Ones III,Medium,High,No Idea At First,"Array, BS_Val, Prefix, Sliding Window",https://leetcode.com/problems/max-consecutive-ones-iii,LC_75,
+1723,Find Minimum Time to Finish All Jobs,Hard,,new,,,,
+1601,Maximum Number of Achievable Transfer Requests,Hard,High,"HardToImplement, More Solution, No Idea At First","Array, BackTracking, Bit Manipulation, Enumeration",https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests,leetcode_daily,
+1493,Longest Subarray of 1's After Deleting One Element,Medium,Medium,More Solution,"Array, Sliding Window, dp-TimeSeqFromLastOne-Power, stateMachine",https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element,"HuaHua, LC_75, leetcode_daily",
+338,Counting Bits,Easy,High,"HardToImplement, No Idea At First","BinaryLifting, Bit Manipulation, DP",https://leetcode.com/problems/counting-bits/description/,LC_75,
+345,Reverse Vowels of a String,Easy,Medium,,"2pt_DiffDir, Partition, string",https://leetcode.com/problems/reverse-vowels-of-a-string,LC_75,
+2024,Maximize the Confusion of an Exam,Medium,Low,"More Solution, dup","BS_todo, Prefix, Sliding Window, string",https://leetcode.com/problems/maximize-the-confusion-of-an-exam,leetcode_daily,
+1456,Maximum Number of Vowels in a Substring of Given Length,Medium,Pass,,"Sliding Window, string",https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length,LC_75,
+1657,Determine if Two Strings Are Close,Medium,Low,More Solution,"Hash, Sort, string",https://leetcode.com/problems/determine-if-two-strings-are-close,LC_75,
+2390,Removing Stars From a String,Medium,Pass,,"simulation, stack, string",https://leetcode.com/problems/removing-stars-from-a-string,LC_75,
+2551,Put Marbles in Bags,Hard,High,"In Progress, No Idea At First","Array, Greedy, PQ, Sort",https://leetcode.com/problems/put-marbles-in-bags/,leetcode_daily,
+649,Dota2 Senate,Medium,High,"More Solution, No Idea At First, toSummarize","Greedy, queue, string",https://leetcode.com/problems/dota2-senate/,LC_75,
+2095,Delete the Middle Node of a Linked List,Medium,Low,,"2pt_SameDir_diffSpeed, LinkedList, listMid",https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list,LC_75,
+2130,Maximum Twin Sum of a Linked List,Medium,Medium,More Solution,"2pt_SameDir_diffSpeed, LinkedList, listMid, stack",https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list,LC_75,
+1448,Count Good Nodes in Binary Tree,Medium,Low,More Solution,"BFS, DFS, Tree",https://leetcode.com/problems/count-good-nodes-in-binary-tree,LC_75,
+437,Path Sum III,Medium,High,HardToImplement,"BackTracking, DFS, Hash, Prefix, Tree",https://leetcode.com/problems/path-sum-iii,"HuaHua, LC_75",
+1372,Longest ZigZag Path in a Binary Tree,Medium,Medium,HardToImplement,"DFS, DP, Tree",https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/,LC_75,
+2272,Substring With Largest Variance,Hard,High,"More Solution, No Idea At First","Array, DP, Kadane",https://leetcode.com/problems/substring-with-largest-variance/,leetcode_daily,
+1466,Reorder Routes to Make All Paths Lead to the City Zero,Medium,Low,,"BFS, DFS, Graph",https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero,LC_75,
+994,Rotting Oranges,Medium,Low,,"BFS, Graph, Matrix",https://leetcode.com/problems/rotting-oranges,LC_75,
+2336,Smallest Number in Infinite Set,Medium,Low,,"Design, Hash, OrderSet, PQ",https://leetcode.com/problems/smallest-number-in-infinite-set,LC_75,
+435,Non-overlapping Intervals,Medium,Medium,More Solution,"Array, DP, Greedy, Interval, Sort",https://leetcode.com/problems/non-overlapping-intervals/,LC_75,
+875,Koko Eating Bananas,Medium,Low,,"Array, BS_Val",https://leetcode.com/problems/koko-eating-bananas,"HuaHua, LC_75",
+2300,Successful Pairs of Spells and Potions,Medium,Medium,"HardToImplement, More Solution","2pt, Array, BS_lower_upper_bound, Sort",https://leetcode.com/problems/successful-pairs-of-spells-and-potions,LC_75,
+1644,Lowest Common Ancestor of a Binary Tree II,Medium,Medium,More Solution,"DFS, Tree",https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/,leetcode_daily,
+1751,Maximum Number of Events That Can Be Attended II,Hard,High,No Idea At First,"Array, BS_todo, DP, Sort",https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii,leetcode_daily,
+739,Daily Temperatures,Medium,Medium,,"Array, monotonic, stack",https://leetcode.com/problems/daily-temperatures/,LC_75,
+443,String Compression,Medium,High,"Dig More, HardToImplement, More Solution","2pt, string",https://leetcode.com/problems/string-compression,LC_75,
+328,Odd Even Linked List,Medium,Medium,,LinkedList,https://leetcode.com/problems/odd-even-linked-list/,LC_75,
+673,Number of Longest Increasing Subsequence,Medium,High,"HardToImplement, More Solution","Array, BinaryIndexedTree, DP, SegmentTree_todo, dp-TimeSeqFromLastX",https://leetcode.com/problems/number-of-longest-increasing-subsequence/,"HuaHua, leetcode_daily",
+688,Knight Probability in Chessboard,Medium,Medium,CalcuComplexity,"DP, Probability",https://leetcode.com/problems/knight-probability-in-chessboard/,"HuaHua, leetcode_daily",
+439,Ternary Expression Parser,Medium,Low,More Solution,"recursion, stack, string",https://leetcode.com/problems/ternary-expression-parser/,leetcode_daily,
+894,All Possible Full Binary Trees,Medium,Medium,More Solution,"DP, Tree, recursion",https://leetcode.com/problems/all-possible-full-binary-trees,leetcode_daily,
+852,Peak Index in a Mountain Array,Medium,Pass,,BS_Idx,https://leetcode.com/problems/peak-index-in-a-mountain-array/description/,leetcode_daily,
+81,Search in Rotated Sorted Array II,Medium,Medium,,"BS_Idx, recursion",https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/,HuaHua,
+1011,Capacity To Ship Packages Within D Days,Medium,Low,,"Array, BS_Val",https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/,HuaHua,
+1060,Missing Element in Sorted Array,Medium,High,,"Array, BS_Idx",https://leetcode.com/problems/missing-element-in-sorted-array/description/,leetcode_daily,
+2361,https://leetcode.com/problems/minimum-costs-using-the-train-line/,Hard,Low,,"Array, dp-TimeSeqFromLastOne-Power, stateMachine",https://leetcode.com/problems/minimum-costs-using-the-train-line/,leetcode_daily,
+1870,https://leetcode.com/problems/minimum-speed-to-arrive-on-time/,Medium,Low,,"Array, BS_Val",https://leetcode.com/problems/minimum-speed-to-arrive-on-time/,leetcode_daily,
+808,https://leetcode.com/problems/soup-servings/,Medium,High,"No Idea At First, toSummarize","DP, Math, Probability",https://leetcode.com/problems/soup-servings,leetcode_daily,
+2810,https://leetcode.com/problems/faulty-keyboard/,Easy,Pass,,string,https://leetcode.com/problems/faulty-keyboard/,LC_Contests,
+2811,https://leetcode.com/problems/check-if-it-is-possible-to-split-array/,Medium,Medium,More Solution,"Array, DP, recursion",https://leetcode.com/problems/check-if-it-is-possible-to-split-array/,LC_Contests,
+2812,https://leetcode.com/problems/find-the-safest-path-in-a-grid/,Medium,High,"More Solution, No Idea At First","BFS, BS_Val, DFS, Dijkstra, Matrix, Union Find",https://leetcode.com/problems/find-the-safest-path-in-a-grid/,LC_Contests,
+2813,https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence/,Hard,High,"Dig More, No Idea At First, NotUnderstand","Array, Greedy, Sort",https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence/,LC_Contests,
+95,https://leetcode.com/problems/unique-binary-search-trees-ii/,Medium,Medium,More Solution,"BST, BackTracking, DP, Tree",https://leetcode.com/problems/unique-binary-search-trees-ii/description/,leetcode_daily,
+2141,https://leetcode.com/problems/maximum-running-time-of-n-computers/,Hard,High,"CalcuComplexity, More Solution, No Idea At First, NotUnderstand","Array, BS_Val, Greedy, Sort",https://leetcode.com/problems/maximum-running-time-of-n-computers/,leetcode_daily,
+2616,https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/,Medium,High,"No Idea At First, NotUnderstand","Array, BS_Val, Greedy, Sort",https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/,leetcode_daily,
+429,https://leetcode.com/problems/n-ary-tree-level-order-traversal/,Medium,Pass,,"BFS, Tree",https://leetcode.com/problems/n-ary-tree-level-order-traversal/,HuaHua,
+589,https://leetcode.com/problems/n-ary-tree-preorder-traversal/,Easy,Pass,,"Iterate, Tree, stack",https://leetcode.com/problems/n-ary-tree-preorder-traversal/,HuaHua,
+590,https://leetcode.com/problems/n-ary-tree-postorder-traversal/,Easy,Pass,,"Iterate, Tree, stack",https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/,HuaHua,
+1302,https://leetcode.com/problems/deepest-leaves-sum/,Medium,Pass,,"BFS, Tree",https://leetcode.com/problems/deepest-leaves-sum/,HuaHua,
+965,https://leetcode.com/problems/univalued-binary-tree/,Easy,Pass,,"BFS, DFS, Iterate, Tree",https://leetcode.com/problems/univalued-binary-tree/description/,HuaHua,
+814,https://leetcode.com/problems/binary-tree-pruning/,Medium,Low,,"DFS, Tree",https://leetcode.com/problems/binary-tree-pruning/,HuaHua,
+1325,https://leetcode.com/problems/delete-leaves-with-a-given-value/,Medium,Medium,,"DFS, Tree",https://leetcode.com/problems/delete-leaves-with-a-given-value/description/,HuaHua,
+2815,https://leetcode.com/problems/max-pair-sum-in-an-array/,Easy,Medium,,,https://leetcode.com/problems/max-pair-sum-in-an-array/,LC_Contests,
+2816,https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/,Medium,Pass,More Solution,"LinkedList, Math, stack",https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/,LC_Contests,
+2817,https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint/,Medium,Medium,HardToImplement,,https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint/,LC_Contests,
+2818,https://leetcode.com/problems/apply-operations-to-maximize-score/,Hard,High,"HardToImplement, More Solution",,https://leetcode.com/problems/apply-operations-to-maximize-score/,LC_Contests,
+235,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,Medium,Pass,,"BST, DFS, Tree",https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/,HuaHua,
+508,https://leetcode.com/problems/most-frequent-subtree-sum/,Medium,Low,,"DFS, Hash, Tree",https://leetcode.com/problems/most-frequent-subtree-sum/description/,HuaHua,
+968,https://leetcode.com/problems/binary-tree-cameras/,Hard,High,"Dig More, HardToImplement, No Idea At First, toSummarize","DFS, DP, Greedy, Tree",https://leetcode.com/problems/binary-tree-cameras/description/,HuaHua,
+490,https://leetcode.com/problems/the-maze/,Medium,Medium,,"BFS, DFS, Graph, Matrix",https://leetcode.com/problems/the-maze/description/,leetcode_daily,
+2369,https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/,Medium,Low,,"Array, dp-TimeSeqFromLastOne-Power",https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/description/,leetcode_daily,
+542,https://leetcode.com/problems/01-matrix/,Medium,Low,More Solution,"Array, BFS, DP, Matrix",https://leetcode.com/problems/01-matrix/description/,leetcode_daily,
+337,https://leetcode.com/problems/house-robber-iii/,Medium,High,"More Solution, toSummarize","DFS, DP, Tree, stateMachine",https://leetcode.com/problems/house-robber-iii/description/,HuaHua,
+917,https://leetcode.com/problems/reverse-only-letters/,Easy,Pass,,"2pt_DiffDir, string",https://leetcode.com/problems/reverse-only-letters/description/,HuaHua,
+925,https://leetcode.com/problems/long-pressed-name/,Easy,Medium,,"2pt_TwoArray, string",https://leetcode.com/problems/long-pressed-name/description/,HuaHua,
+986,https://leetcode.com/problems/interval-list-intersections/,Medium,Medium,"HardToImplement, No Idea At First","2pt_TwoArray, Array, Interval",https://leetcode.com/problems/interval-list-intersections/description/,HuaHua,
+885,https://leetcode.com/problems/spiral-matrix-iii/,Medium,Medium,HardToImplement,"Matrix, simulation",https://leetcode.com/problems/spiral-matrix-iii/,HuaHua,
+977,https://leetcode.com/problems/squares-of-a-sorted-array/,Easy,Low,,"2pt_TwoArray, Array, Merge",https://leetcode.com/problems/squares-of-a-sorted-array/description/,HuaHua,
+1615,https://leetcode.com/problems/maximal-network-rank/,Medium,Medium,More Solution,Graph,https://leetcode.com/problems/maximal-network-rank/description/,leetcode_daily,
+996,https://leetcode.com/problems/number-of-squareful-arrays/,Hard,High,More Solution,"Array, BackTracking, Bit Manipulation, BitMask, Math, Permutation, TSP/HamiltonianPath, dp-bitMask",https://leetcode.com/problems/number-of-squareful-arrays/,HuaHua,
+689,https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/,Hard,High,"HardToImplement, More Solution","Array, Prefix, dp-K_Ranges, three-pass",https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/,leetcode_daily,
+93,https://leetcode.com/problems/restore-ip-addresses/,Medium,Medium,"HardToImplement, toSummarize","BackTracking, DFS, string",https://leetcode.com/problems/restore-ip-addresses/description/,HuaHua,
+2828,https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/,Easy,Pass,,string,https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/,LC_Contests,
+2829,https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array/,Medium,Low,,"Greedy, Hash",https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array/,LC_Contests,
+2830,https://leetcode.com/problems/maximize-the-profit-as-the-salesman/,Medium,Medium,No Idea At First,"Array, Interval, dp-TimeSeqFromLastOne-Power",https://leetcode.com/problems/maximize-the-profit-as-the-salesman/,LC_Contests,
+2831,https://leetcode.com/problems/find-the-longest-equal-subarray/,Medium,High,"Dig More, No Idea At First","2pt_SameDir_maxWin_chkValidAftR, Hash, Sliding Window, monoWindow",https://leetcode.com/problems/find-the-longest-equal-subarray/,LC_Contests,
+459,https://leetcode.com/problems/repeated-substring-pattern/,Easy,Medium,More Solution,string,https://leetcode.com/problems/repeated-substring-pattern/description/,leetcode_daily,
+1203,https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/,Hard,High,"HardToImplement, No Idea At First","BFS, DFS, Graph, TopSorting",https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/description/,leetcode_daily,
+168,Excel Sheet Column Title,Easy,High,"Dig More, No Idea At First",Math,https://leetcode.com/problems/excel-sheet-column-title/description/,leetcode_daily,
+723,Candy Crush,Medium,Medium,HardToImplement,"2pt, Matrix, recursion, simulation, swap_put_keep_sequence",https://leetcode.com/problems/candy-crush/description/,leetcode_daily,
+32,Longest Valid Parentheses,Hard,Medium,"More Solution, No Idea At First","DP, stack",https://leetcode.com/problems/longest-valid-parentheses/description/,leetcode_daily,
+44,Wildcard Matching,Hard,High,"HardToImplement, More Solution, toRevisit","DP, Greedy, recursion, string",https://leetcode.com/problems/wildcard-matching/description/,"HuaHua, leetcode_daily",
+698,Partition to K Equal Sum Subsets,Medium,High,"Dig More, HardToImplement, More Solution","Array, BackTracking, Bit Manipulation, BitMask, DP",https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/,HuaHua,
+695,Max Area of Island,Medium,Pass,,"BFS, Connected_Component, DFS, Graph, Matrix, Union Find",https://leetcode.com/problems/max-area-of-island/description/,HuaHua,
+1162,As Far from Land as Possible,Medium,Low,,"BFS, DP, Graph, Math",https://leetcode.com/problems/as-far-from-land-as-possible/description/,HuaHua,
+839,Similar String Groups,Hard,Low,,"Array, BFS, DFS, Graph, Union Find, string",https://leetcode.com/problems/similar-string-groups/,HuaHua,
+990,Satisfiability of Equality Equations,Medium,Low,,"Array, Graph, Union Find, string",https://leetcode.com/problems/satisfiability-of-equality-equations/description/,HuaHua,
+721,Accounts Merge,Medium,Medium,HardToImplement,"Array, BFS, DFS, Graph, Union Find, string",https://leetcode.com/problems/accounts-merge/description/,HuaHua,
+785,Is Graph Bipartite?,Medium,Medium,More Solution,"BFS, Bipartition_graphColoring, DFS, Graph, Union Find",https://leetcode.com/problems/is-graph-bipartite/description/,HuaHua,
+1042,Flower Planting With No Adjacent,Medium,Medium,"HardToImplement, More Solution","Bipartition_graphColoring, Graph",https://leetcode.com/problems/flower-planting-with-no-adjacent/description/,HuaHua,
+767,Reorganize String,Medium,Medium,More Solution,"Greedy, Hash, PQ, Sort, string",https://leetcode.com/problems/reorganize-string/description/,leetcode_daily,
+997,Find the Town Judge,Easy,Low,,"Array, Graph, Hash",https://leetcode.com/problems/find-the-town-judge/,HuaHua,
+646,Maximum Length of Pair Chain,Medium,Medium,More Solution,"Array, DFS, DP, Graph, Greedy, Sort",https://leetcode.com/problems/maximum-length-of-pair-chain/,leetcode_daily,
+2833,Furthest Point From Origin,Easy,Pass,,,https://leetcode.com/problems/furthest-point-from-origin/,LC_Contests,
+2834,Find the Minimum Possible Sum of a Beautiful Array,Medium,Low,dup,Hash,https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array/description/,LC_Contests,
+2835,Minimum Operations to Form Subsequence With Target Sum,Hard,High,"More Solution, No Idea At First","Array, Bit Manipulation, Greedy",https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum/description/,LC_Contests,
+2836,Maximize Value of Function in a Ball Passing Game,Hard,High,"Dig More, HardToImplement, No Idea At First","BinaryLifting, Bit Manipulation, Graph",https://leetcode.com/problems/maximize-value-of-function-in-a-ball-passing-game/description/,LC_Contests,
+225,Implement Stack using Queues,Easy,Low,No Idea At First,"queue, stack",https://leetcode.com/problems/implement-stack-using-queues/description/,leetcode_daily,
+2483,Minimum Penalty for a Shop,Medium,High,"HardToImplement, checkBetterSolution","Prefix, string",https://leetcode.com/problems/minimum-penalty-for-a-shop/description/,leetcode_daily,
+1183,Maximum Number of Ones,Hard,High,No Idea At First,"Greedy, Math, Matrix, PQ",https://leetcode.com/problems/maximum-number-of-ones/,leetcode_daily,
+2366,Minimum Replacements to Sort the Array,Hard,Medium,,"Array, Greedy, Math",https://leetcode.com/problems/minimum-replacements-to-sort-the-array/,leetcode_daily,
+924,Minimize Malware Spread,Hard,Medium,"HardToImplement, checkBetterSolution","BFS, DFS, Graph, Hash, Union Find",https://leetcode.com/problems/minimize-malware-spread/,HuaHua,
+847,Shortest Path Visiting All Nodes,Hard,High,"More Solution, No Idea At First, toRevisit","BFS, Bit Manipulation, BitMask, DP, Graph, visiting_all_nodes_with_dup",https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/,HuaHua,
+1192,Critical Connections in a Network,Hard,High,"Dig More, HardToImplement, No Idea At First, toRevisit","Biconnected Component, DFS, Graph, Tarjan, Tree, circle",https://leetcode.com/problems/critical-connections-in-a-network/,HuaHua,
+2843,Count Symmetric Integers,Easy,Pass,,Math,https://leetcode.com/problems/count-symmetric-integers/description/,LC_Contests,
+2844,Minimum Operations to Make a Special Number,Medium,Low,HardToImplement,"Math, string",https://leetcode.com/problems/minimum-operations-to-make-a-special-number/description/,LC_Contests,
+2845,Count of Interesting Subarrays,Medium,High,"Dig More, No Idea At First, toRevisit","Prefix, circle",https://leetcode.com/problems/count-of-interesting-subarrays/description/,LC_Contests,
+1199,Minimum Time to Build Blocks,Hard,High,"Dig More, No Idea At First, NotUnderstand, toRevisit","Greedy, Huffman, Math, PQ",https://leetcode.com/problems/minimum-time-to-build-blocks/description/,leetcode_daily,
+1167,Minimum Cost to Connect Sticks,Medium,High,Dig More,"Greedy, Huffman, Math, PQ",https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/,,
+2846,Minimum Edge Weight Equilibrium Queries in a Tree,Hard,High,"Dig More, More Solution, checkBetterSolution, toRevisit","BinaryLifting, Graph, Tarjan, Tree",https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/description/,LC_Contests,
+1825,Finding MK Average,Hard,High,HardToImplement,"Data_stream, Design, OrderSet, PQ, deque",https://leetcode.com/problems/finding-mk-average/,leetcode_daily,
+358,Rearrange String k Distance Apart,Hard,High,"More Solution, No Idea At First","Greedy, PQ",https://leetcode.com/problems/rearrange-string-k-distance-apart/description/,leetcode_daily,
+2839,Check if Strings Can be Made Equal With Operations I,Easy,Pass,,,https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/description/,LC_Contests,
+2840,Check if Strings Can be Made Equal With Operations II,Medium,Low,,,https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description/,LC_Contests,
+2841,Maximum Sum of Almost Unique Subarray,Medium,Low,,"Hash, Sliding Window",https://leetcode.com/problems/maximum-sum-of-almost-unique-subarray/description/,LC_Contests,
+2842,Count K-Subsequences of a String With Maximum Beauty,Hard,Medium,"HardToImplement, checkBetterSolution","Combinatorics, Greedy, Hash, Math, string",https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/,LC_Contests,
+470,Implement Rand10() Using Rand7(),Medium,High,"More Solution, No Idea At First","Math, Probability, Random, rejection_sampling",https://leetcode.com/problems/implement-rand10-using-rand7/,,
+307,Range Sum Query - Mutable,Medium,Low,More Solution,"Array, BinaryIndexedTree, Design, SegmentTree_idx",https://leetcode.com/problems/range-sum-query-mutable/,HuaHua,
+1019,Next Greater Node In Linked List,Medium,Low,,"Array, LinkedList, monotonic, stack",https://leetcode.com/problems/next-greater-node-in-linked-list/description/,HuaHua,
+907,Sum of Subarray Minimums,Medium,High,"HardToImplement, No Idea At First, toRevisit, toSummarize","Array, DP, monotonic, stack",https://leetcode.com/problems/sum-of-subarray-minimums/description/,HuaHua,
+648,Replace Words,Medium,Low,,"Array, Hash, Trie, string",https://leetcode.com/problems/replace-words/description/,HuaHua,
+676,Implement Magic Dictionary,Medium,High,"HardToImplement, More Solution","DFS, Design, Hash, Trie, string",https://leetcode.com/problems/implement-magic-dictionary/,HuaHua,
+2859,Sum of Values at Indices With K Set Bits,Easy,Pass,,Bit Manipulation,https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/description/,LC_Contests,
+2860,Happy Students,Medium,Medium,,"Greedy, Sort",https://leetcode.com/problems/happy-students/description/,LC_Contests,
+2861,Maximum Number of Alloys,Medium,High,"No Idea At First, checkBetterSolution",BS_Val,https://leetcode.com/problems/maximum-number-of-alloys/description/,LC_Contests,
+2862,Maximum Element-Sum of a Complete Subset of Indices,Hard,High,"No Idea At First, toRevisit","Hash, Math, PrimeFactor",https://leetcode.com/problems/maximum-element-sum-of-a-complete-subset-of-indices/description/,LC_Contests,
+1632,Rank Transform of a Matrix,Hard,High,"HardToImplement, No Idea At First, toRevisit, toSummarize","Greedy, Matrix, Sort, TopSorting, Union Find",https://leetcode.com/problems/rank-transform-of-a-matrix/,leetcode_daily,
+279,https://leetcode.com/problems/perfect-squares/,Medium,High,"More Solution, No Idea At First","BFS, Math, dp-backpack",https://leetcode.com/problems/perfect-squares/,HuaHua,
+96,Unique Binary Search Trees,Medium,Low,,"BST, Math, Tree, dp-Pyr",https://leetcode.com/problems/unique-binary-search-trees/,HuaHua,
+1139,Largest 1-Bordered Square,Medium,Medium,checkBetterSolution,"DP, Matrix",https://leetcode.com/problems/largest-1-bordered-square/description/,HuaHua,
+1223,Dice Roll Simulation,Hard,High,"Dig More, More Solution, No Idea At First","dp-TimeSeqFromLastOne-Power, dp-状态转移不仅依赖前一项",https://leetcode.com/problems/dice-roll-simulation/description/,HuaHua,
+10,Regular Expression Matching,Hard,Low,,"DP, recursion, string",https://leetcode.com/problems/regular-expression-matching/description/,HuaHua,
+931,Minimum Falling Path Sum,Medium,Low,,"DP, Matrix",https://leetcode.com/problems/minimum-falling-path-sum/,HuaHua,
+1210,Minimum Moves to Reach Target with Rotations,Hard,Medium,,"BFS, Matrix",https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/,HuaHua,
+1277,https://leetcode.com/problems/count-square-submatrices-with-all-ones/,Medium,Medium,,"DP, Matrix",https://leetcode.com/problems/count-square-submatrices-with-all-ones/,HuaHua,
+89,Gray Code,Medium,Medium,"More Solution, NotUnderstand, toRevisit","Bit Manipulation, DP, Greedy, Math",https://leetcode.com/problems/gray-code/,HuaHua,
+1262,Greatest Sum Divisible by Three,Medium,Low,More Solution,"Array, DP, Greedy, Math, OrderMap, Sort",https://leetcode.com/problems/greatest-sum-divisible-by-three/,HuaHua,
+1269,Number of Ways to Stay in the Same Place After Some Steps,Hard,Medium,,"dp-TimeSeqFromLastOne-Power, dp-bfs-stepByStep",https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/description/,HuaHua,
+1030,Matrix Cells in Distance Order,Easy,Low,More Solution,"BFS, Geometry, Matrix, Sort",https://leetcode.com/problems/matrix-cells-in-distance-order/description/,HuaHua,
+1039,Minimum Score Triangulation of Polygon,Medium,High,No Idea At First,"Array, Geometry, circle, dp-Pyr",https://leetcode.com/problems/minimum-score-triangulation-of-polygon/,HuaHua,
+389,Find the Difference,Easy,Medium,More Solution,"Bit Manipulation, Hash, Sort, string",https://leetcode.com/problems/find-the-difference/,leetcode_daily,
+2864,Maximum Odd Binary Number,Easy,Pass,,string,https://leetcode.com/problems/maximum-odd-binary-number/description/,LC_Contests,
+2865,Beautiful Towers I,Medium,Medium,"dup, toSummarize","Prefix, monotonic, stack",https://leetcode.com/problems/beautiful-towers-i/,LC_Contests,
+2866,Beautiful Towers II,Medium,Medium,"More Solution, toSummarize","Array, Prefix, monotonic, stack",https://leetcode.com/problems/beautiful-towers-ii/description/,LC_Contests,
+2867,Count Valid Paths in a Tree,Hard,High,"HardToImplement, No Idea At First, toRevisit, todo","DFS, DP, Graph, Tree",https://leetcode.com/problems/count-valid-paths-in-a-tree/description/,LC_Contests,InProgress
+316,https://leetcode.com/problems/remove-duplicate-letters/,Medium,High,"Dig More, No Idea At First","Greedy, monotonic, stack, string",https://leetcode.com/problems/remove-duplicate-letters,leetcode_daily,
+2875,Minimum Size Subarray in Infinite Array,Medium,Medium,More Solution,"Array, Hash, Prefix, Sliding Window",https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/description/,LC_Contests,
+853,Car Fleet,Medium,Medium,More Solution,"Array, Sort, monotonic, simulation, stack",https://leetcode.com/problems/car-fleet/,leetcode_daily,
+2281,https://leetcode.com/problems/sum-of-total-strength-of-wizards/,Hard,High,"Dig More, No Idea At First, toSummarize","Array, Math, Prefix, monotonic, stack",https://leetcode.com/problems/sum-of-total-strength-of-wizards/description/,LC_Contests,
+880,Decoded String at Index,Medium,High,"Dig More, More Solution, No Idea At First, toRevisit","recursion, stack, string",https://leetcode.com/problems/decoded-string-at-index/,leetcode_daily,
+2876,Count Visited Nodes in a Directed Graph,Hard,High,"HardToImplement, More Solution, No Idea At First, toRevisit","DFS, DP, Graph, Hash, TopSorting, stack",https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/,LC_Contests,
+229,https://leetcode.com/problems/majority-element-ii/,Medium,High,No Idea At First,"Array, Counting, Hash, Sort",https://leetcode.com/problems/majority-element-ii/,leetcode_daily,
+343,Integer Break,Medium,Medium,More Solution,"DP, Math",https://leetcode.com/problems/integer-break/,leetcode_daily,
+2781,Length of the Longest Valid Substring,Hard,High,,"Array, Hash, Sliding Window, string",https://leetcode.com/problems/length-of-the-longest-valid-substring/,leetcode_daily,
+2009,Minimum Number of Operations to Make Array Continuous,Hard,High,No Idea At First,"Array, BS_lower_upper_bound, Sliding Window",https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/,leetcode_daily,
+9001,Earliest time to finish watching movies,Hard,High,"No Idea At First, toRevisit","Array, BS_lower_upper_bound, Sort",,amazonOA,
+658,Find K Closest Elements,Medium,Medium,"HardToImplement, More Solution, toRevisit","Array, BS_Idx",https://leetcode.com/problems/find-k-closest-elements/description/,leetcode_daily,
+9002,amazon rice bags,Medium,Pass,,"Array, dp-TimeSeqFromLastOne-Power",,amazonOA,
+2006,Count Number of Pairs With Absolute Difference K,Easy,Medium,,"2pt_SameDir_diffSpeed, Array, Hash",https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/description/,leetcode_daily,
+2903,Find Indices With Index and Value Difference I,Easy,Pass,,Array,https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/description/,LC_Contests,
+2904,https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/,Medium,Pass,,"2pt_SameDir_minWin_chkValidAftR, string",https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/description/,LC_Contests,
+2905,https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii/,Medium,Low,,"Array, Prefix",https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii/description/,LC_Contests,
+2906,Construct Product Matrix,Medium,High,No Idea At First,"Array, Matrix, Prefix",https://leetcode.com/problems/construct-product-matrix/description/,LC_Contests,
+119,Pascal's Triangle II,Easy,Medium,,"Array, DP",https://leetcode.com/problems/pascals-triangle-ii/,leetcode_daily,
+1361,Validate Binary Tree Nodes,Medium,Medium,,"BFS, DFS, Graph, Tree, Union Find",https://leetcode.com/problems/validate-binary-tree-nodes/,leetcode_daily,
+2439,https://leetcode.com/problems/minimize-maximum-of-array/,Medium,High,"More Solution, No Idea At First","Array, BS_Val, DP, Greedy, Prefix",https://leetcode.com/problems/minimize-maximum-of-array/description/,wisdompeak,
+2902,Count of Sub-Multisets With Bounded Sum,Hard,High,"No Idea At First, toRevisit, toSummarize","Array, Hash, Sliding Window, dp-backpack",https://leetcode.com/problems/count-of-sub-multisets-with-bounded-sum/description/,LC_Contests,
+2050,Parallel Courses III,Hard,Medium,More Solution,"Array, DP, Graph, TopSorting",https://leetcode.com/problems/parallel-courses-iii/,leetcode_daily,
+2897,Apply Operations on Array to Maximize Sum of Squares,Hard,,"new, todo",,https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/description/,,InProgress
+2872,Maximum Number of K-Divisible Components,Hard,,"new, todo",,https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/,,
+2858,Minimum Edge Reversals So Every Node Is Reachable,Hard,,"new, todo",,https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/description/,,
+2851,String Transformation,Hard,,"new, todo",,https://leetcode.com/problems/string-transformation/description/,,
+2663,Lexicographically Smallest Beautiful String,Hard,,"new, todo",,https://leetcode.com/problems/lexicographically-smallest-beautiful-string/description/,,
+2659,Make Array Empty,Hard,,"new, todo",,https://leetcode.com/problems/make-array-empty/description/,,
+2650,Design Cancellable Function,Hard,,"new, todo",,https://leetcode.com/problems/design-cancellable-function/description/,,
+2646,Minimize the Total Price of the Trips,Hard,,"new, todo",,https://leetcode.com/problems/minimize-the-total-price-of-the-trips/description/,,
+844,Backspace String Compare,Easy,High,"HardToImplement, More Solution, No Idea At First","2pt, simulation, stack, string",https://leetcode.com/problems/backspace-string-compare,leetcode_daily,
+2908,Minimum Sum of Mountain Triplets I,Easy,Pass,dup,,https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/description/,LC_Contests,
+2909,Minimum Sum of Mountain Triplets II,Medium,Medium,,"Array, DP, Prefix",https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/,LC_Contests,
+2911,Minimum Changes to Make K Semi-palindromes,Hard,,"new, todo",,https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/description/,LC_Contests,
+2910,https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment/,Medium,High,"CalcuComplexity, toRevisit","Hash, Math",https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment/description/,LC_Contests,
+342,Power of Four,Easy,Low,,"Bit Manipulation, Math",https://leetcode.com/problems/power-of-four/,leetcode_daily,
+515,Find Largest Value in Each Tree Row,Medium,Pass,,"BFS, Tree",https://leetcode.com/problems/find-largest-value-in-each-tree-row/,leetcode_daily,
+779,K-th Symbol in Grammar,Medium,High,"Dig More, No Idea At First","Bit Manipulation, Math, recursion",https://leetcode.com/problems/k-th-symbol-in-grammar,leetcode_daily,
+2917,Find the K-or of an Array,Easy,Pass,,Bit Manipulation,https://leetcode.com/problems/find-the-k-or-of-an-array/description/,LC_Contests,
+2918,Minimum Equal Sum of Two Arrays After Replacing Zeros,Medium,Low,,Array,https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/description/,LC_Contests,
+2919,Minimum Increment Operations to Make Array Beautiful,Medium,Medium,,"Array, dp-TimeSeqFromLastOne-Power, stateMachine",https://leetcode.com/problems/minimum-increment-operations-to-make-array-beautiful/description/,LC_Contests,
+2920,Maximum Points After Collecting Coins From All Nodes,Hard,High,"No Idea At First, toRevisit","DFS, DP, Graph, Math, Tree",https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/description/,LC_Contests,
+458,Poor Pigs,Hard,High,"Dig More, More Solution, No Idea At First, out of scope, toRevisit, toSummarize","Bit Manipulation, Combinatorics, DP, Math",https://leetcode.com/problems/poor-pigs,leetcode_daily,
+2433,https://leetcode.com/problems/find-the-original-array-of-prefix-xor/,Medium,Low,,"Array, Bit Manipulation",https://leetcode.com/problems/find-the-original-array-of-prefix-xor/,leetcode_daily,
+1356,Sort Integers by The Number of 1 Bits,Easy,Pass,,"Array, Bit Manipulation, Counting, Sort",https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/,leetcode_daily,
+2265,Count Nodes Equal to Average of Subtree,Medium,Pass,,"DFS, Tree",https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/,leetcode_daily,
+501,Find Mode in Binary Search Tree,Easy,Medium,HardToImplement,"BFS, DFS, Tree",https://leetcode.com/problems/find-mode-in-binary-search-tree/,leetcode_daily,
+1503,https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/,Medium,Medium,No Idea At First,"Array, Brainteaser, simulation",https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/,leetcode_daily,
+1441,Build an Array With Stack Operations,Medium,Pass,,"Array, simulation, stack",https://leetcode.com/problems/build-an-array-with-stack-operations/,leetcode_daily,
+1535,Find the Winner of an Array Game,Medium,High,"CalcuComplexity, No Idea At First","Array, queue, simulation",https://leetcode.com/problems/find-the-winner-of-an-array-game/,leetcode_daily,
+1845,Seat Reservation Manager,Medium,Low,More Solution,"Design, OrderSet",https://leetcode.com/problems/seat-reservation-manager/,leetcode_daily,
+1921,Eliminate Maximum Number of Monsters,Medium,Low,,"Array, Greedy, Sort",https://leetcode.com/problems/eliminate-maximum-number-of-monsters,leetcode_daily,
+2849,Determine if a Cell Is Reachable at a Given Time,Medium,Low,,Math,https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time,leetcode_daily,
+2923,Find Champion I,Easy,Pass,,,https://leetcode.com/problems/find-champion-i/description/,LC_Contests,
+2924,Find Champion II,Medium,Pass,,Hash,https://leetcode.com/problems/find-champion-ii/description/,LC_Contests,
+2925,Maximum Score After Applying Operations on a Tree,Medium,High,"HardToImplement, No Idea At First, checkBetterSolution","DFS, DP, Graph, Tree",https://leetcode.com/problems/maximum-score-after-applying-operations-on-a-tree,LC_Contests,
+2258,Escape the Spreading Fire,Hard,High,"HardToImplement, checkBetterSolution, toRevisit","BFS, BS_todo, Matrix",https://leetcode.com/problems/escape-the-spreading-fire,leetcode_daily,
+2926,Maximum Balanced Subsequence Sum,Hard,High,"Dig More, More Solution, No Idea At First, toSummarize","Array, BinaryIndexedTree, LinkedList, OrderMap, SegmentTree_todo, monotonic",https://leetcode.com/problems/maximum-balanced-subsequence-sum/,LC_Contests,
+1759,Count Number of Homogenous Substrings,Medium,Low,,"Math, string",https://leetcode.com/problems/count-number-of-homogenous-substrings,leetcode_daily,
+1743,Restore the Array From Adjacent Pairs,Medium,Low,,"Array, Graph, Hash",https://leetcode.com/problems/restore-the-array-from-adjacent-pairs,leetcode_daily,
+2642,Design Graph With Shortest Path Calculator,Hard,Medium,checkBetterSolution,"Design, Dijkstra, Graph, PQ, shortest_path",https://leetcode.com/problems/design-graph-with-shortest-path-calculator/,leetcode_daily,
+573,Squirrel Simulation,Medium,Medium,No Idea At First,"Math, Matrix",https://leetcode.com/problems/squirrel-simulation/description/,leetcode_daily,
+1057,Campus Bikes,Medium,High,"HardToImplement, More Solution, checkBetterSolution","Array, Greedy, Hash, OrderSet, Sort, simulation",https://leetcode.com/problems/campus-bikes/description/,leetcode_daily,
+2785,Sort Vowels in a String,Medium,Low,,"Sort, string",https://leetcode.com/problems/sort-vowels-in-a-string/,leetcode_daily,
+568,Maximum Vacation Days,Hard,Medium,,"Array, DP, Graph, Matrix",https://leetcode.com/problems/maximum-vacation-days/,leetcode_daily,
+2932,Maximum Strong Pair XOR I,Easy,Pass,,Array,https://leetcode.com/problems/maximum-strong-pair-xor-i/description/,LC_Contests,
+2933,High-Access Employees2933. High-Access Employees,Medium,Low,,"2pt_SameDir_maxWin_chkValidBfrR, Hash",https://leetcode.com/problems/high-access-employees/description/,LC_Contests,
+2934,Minimum Operations to Maximize Last Elements in Arrays,Medium,Low,,"Array, simulation",https://leetcode.com/problems/minimum-operations-to-maximize-last-elements-in-arrays/,LC_Contests,
+421,Maximum XOR of Two Numbers in an Array,Medium,High,"More Solution, No Idea At First, todo","Array, Bit Manipulation, Hash, Trie",https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/description/,leetcode_daily,
+2935,Maximum Strong Pair XOR II,Hard,High,"More Solution, No Idea At First, todo","Array, Bit Manipulation, Hash, Trie",https://leetcode.com/problems/maximum-strong-pair-xor-ii/,LC_Contests,
+1492,The kth Factor of n,Medium,Medium,"More Solution, toRevisit",Math,https://leetcode.com/problems/the-kth-factor-of-n/,AmazonFreq,1
+1676,Lowest Common Ancestor of a Binary Tree IV,Medium,Medium,,"DFS, Hash, Tree",https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv,AmazonFreq,1
+1151,Minimum Swaps to Group All 1's Together,Medium,Medium,No Idea At First,"Array, Sliding Window",https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/,AmazonFreq,1
+2330,Valid Palindrome IV,Medium,Pass,,"2pt_DiffDir, string",https://leetcode.com/problems/valid-palindrome-iv/,AmazonFreq,1
+2340,Minimum Adjacent Swaps to Make a Valid Array,Medium,Pass,,"Array, Greedy",https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/,AmazonFreq,1
+1930,Unique Length-3 Palindromic Subsequences,Medium,High,No Idea At First,"Hash, Prefix, string",https://leetcode.com/problems/unique-length-3-palindromic-subsequences,leetcode_daily,
+2297,Jump Game VIII,Medium,High,"HardToImplement, checkBetterSolution, toRevisit","Array, DP, Dijkstra, Graph, monotonic, shortest_path, stack",https://leetcode.com/problems/jump-game-viii/,AmazonFreq,1
+1846,Maximum Element After Decreasing and Rearranging,Medium,Pass,checkBetterSolution,"Array, Greedy, Sort",https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/,leetcode_daily,
+2323,Find Minimum Time to Finish All Jobs II,Medium,High,Dig More,"Array, Greedy, Math, Sort",https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii/,AmazonFreq,1
+2534,Time Taken to Cross the Door,Hard,Medium,HardToImplement,"Array, queue, simulation",https://leetcode.com/problems/time-taken-to-cross-the-door,AmazonFreq,1
+2519,Count the Number of K-Big Indices,Hard,High,"Dig More, More Solution, No Idea At First, toSummarize","Array, BS_todo, BinaryIndexedTree, Divide and Conquer, MergeSort, OrderSet, PQ, SegmentTree_val",https://leetcode.com/problems/count-the-number-of-k-big-indices/,AmazonFreq,1
+2408,Design SQL,Medium,Low,,"Array, Design, Hash, string",https://leetcode.com/problems/design-sql/description,AmazonFreq,1
+2355,Maximum Number of Books You Can Take,Hard,High,"Dig More, No Idea At First","Array, DP, monotonic, stack",https://leetcode.com/problems/maximum-number-of-books-you-can-take,AmazonFreq,1
+2307,Check for Contradictions in Equations,Hard,High,HardToImplement,"Array, DFS, Graph, Union Find",https://leetcode.com/problems/check-for-contradictions-in-equations/,AmazonFreq,1
+2268,Minimum Number of Keypresses,Medium,Low,,"Array, Counting, Greedy, Sort, string",https://leetcode.com/problems/minimum-number-of-keypresses/,AmazonFreq,1
+1650,Lowest Common Ancestor of a Binary Tree III,Medium,Pass,,"2pt, Hash, Tree",https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii,AmazonFreq,1
+2638,Count the Number of K-Free Subsets2638. Count the Number of K-Free Subsets,Medium,High,No Idea At First,"Array, DP, Sort",https://leetcode.com/problems/count-the-number-of-k-free-subsets/,AmazonFreq,1
+2486,Append Characters to String to Make Subsequence,Medium,Pass,,"2pt, Greedy, string",https://leetcode.com/problems/append-characters-to-string-to-make-subsequence,AmazonFreq,1
+2461,Maximum Sum of Distinct Subarrays With Length K,Medium,Low,,"Array, Hash, Sliding Window",https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/,AmazonFreq,1
+2222,Number of Ways to Select Buildings,Medium,Medium,No Idea At First,"DP, Prefix, string",https://leetcode.com/problems/number-of-ways-to-select-buildings/,AmazonFreq,1
+937,Reorder Data in Log Files,Medium,Low,,"Array, Sort, string",https://leetcode.com/problems/reorder-data-in-log-files/,AmazonFreq,1
+1980,Find Unique Binary String,Medium,Medium,"HardToImplement, More Solution","Array, BackTracking, Bit Manipulation, string",https://leetcode.com/problems/find-unique-binary-string,leetcode_daily,
+1877,Minimize Maximum Pair Sum in Array,Medium,Low,,"2pt, Array, Greedy, Sort",https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/,leetcode_daily,
+2046,Sort Linked List Already Sorted Using Absolute Values,Medium,Low,,"2pt, LinkedList, Sort",https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values/,ticktokFreq,1
+286,Walls and Gates,Medium,Low,,"Array, BFS, Matrix",https://leetcode.com/problems/walls-and-gates/description/,ticktokFreq,1
+2234,Maximum Total Beauty of the Gardens,Hard,High,"CalcuComplexity, Dig More, HardToImplement, No Idea At First, NotUnderstand, toRevisit","2pt, Array, BS_Idx, BS_lower_upper_bound, Greedy, Sort",https://leetcode.com/problems/maximum-total-beauty-of-the-gardens,ticktokFreq,1
+946,Validate Stack Sequences,Medium,Medium,No Idea At First,"Array, simulation, stack",https://leetcode.com/problems/validate-stack-sequences,ticktokFreq,1
+588,Design In-Memory File System,Hard,Medium,HardToImplement,"Design, Hash, Trie, string",https://leetcode.com/problems/design-in-memory-file-system,ticktokFreq,1
+400,Nth Digit,Medium,High,"Dig More, HardToImplement, More Solution, No Idea At First, checkBetterSolution","BS_todo, Math",https://leetcode.com/problems/nth-digit,ticktokFreq,1
+1887,Reduction Operations to Make the Array Elements Equal,Medium,Medium,,"Array, Sort, simulation",https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/,leetcode_daily,
+2937,Make Three Strings Equal,Easy,Low,,string,https://leetcode.com/problems/make-three-strings-equal/,LC_Contests,
+2938,Separate Black and White Balls,Medium,Medium,"Dig More, More Solution, No Idea At First",Array,https://leetcode.com/problems/separate-black-and-white-balls/,LC_Contests,
+2940,Find Building Where Alice and Bob Can Meet,Hard,High,"Dig More, HardToImplement, More Solution, No Idea At First, NotUnderstand, toSummarize","Array, OrderMap, SegmentTree_val, monotonic, stack",https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/description/,LC_Contests,
+2939,Maximum Xor Product,Medium,High,"Dig More, No Idea At First, NotUnderstand, toRevisit, toSummarize","Bit Manipulation, Math",https://leetcode.com/problems/maximum-xor-product/description/,LC_Contests,
+2391,Minimum Amount of Time to Collect Garbage,Medium,Low,,"Array, Prefix, string",https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage,leetcode_daily,
+159,Longest Substring with At Most Two Distinct Characters,Medium,Pass,,"Hash, Sliding Window, string",https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters,LC_Premium_Algo_100,
+1100,Find K-Length Substrings With No Repeated Characters,Medium,Medium,Dig More,"Hash, Sliding Window, string",https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/,LC_Premium_Algo_100,
+1814,Count Nice Pairs in an Array,Medium,Medium,No Idea At First,"Array, Counting, Hash, Math",https://leetcode.com/problems/count-nice-pairs-in-an-array/,leetcode_daily,
+1056,Confusing Number,Easy,Pass,,Math,https://leetcode.com/problems/confusing-number/,LC_Premium_Algo_100,
+1630,Arithmetic Subarrays,Medium,Medium,"More Solution, checkBetterSolution","Array, Sort",https://leetcode.com/problems/arithmetic-subarrays,leetcode_daily,
+227,Basic Calculator II,Medium,Medium,,"Math, stack, string",https://leetcode.com/problems/basic-calculator-ii/description/,leetcode_daily,
+772,Basic Calculator III,Hard,High,"HardToImplement, toSummarize","Math, recursion, stack, string",https://leetcode.com/problems/basic-calculator-iii/description/,"LC_Premium_Algo_100, leetcode_daily",
+647,Palindromic Substrings,Medium,Low,,"DP, string",https://leetcode.com/problems/palindromic-substrings/description/,facebookFreq,
+1249,Minimum Remove to Make Valid Parentheses,Medium,Low,checkBetterSolution,"stack, string",https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/,facebookFreq,
+1762,Buildings With an Ocean View,Medium,Low,More Solution,"Array, monotonic, stack",https://leetcode.com/problems/buildings-with-an-ocean-view/description/,facebookFreq,
+2055,Plates Between Candles,Medium,Medium,More Solution,"Array, BS_todo, Prefix, string",https://leetcode.com/problems/plates-between-candles/description/,AmazonFreq,
+2825,Make String a Subsequence Using Cyclic Increments,Medium,Medium,,"2pt, string",https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/description/,AmazonFreq,
+2357,Make Array Zero by Subtracting Equal Amounts,Easy,Pass,More Solution,"Array, Greedy, Hash, PQ, Sort, simulation",https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/description/,AmazonFreq,
+2262,Total Appeal of A String,Hard,Medium,,"DP, Hash, string",https://leetcode.com/problems/total-appeal-of-a-string/description/,AmazonFreq,
+1420,Build Array Where You Can Find The Maximum Exactly K Comparisons,Hard,High,"Dig More, HardToImplement, No Idea At First, toSummarize","DP, Prefix",https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/description/,AmazonFreq,
+2607,Make K-Subarray Sums Equal,Medium,High,"Dig More, No Idea At First","Array, Math, QuickSelect, Sort, kth",https://leetcode.com/problems/make-k-subarray-sums-equal/description/,AmazonFreq,
+1561,https://leetcode.com/problems/maximum-number-of-coins-you-can-get/,Medium,Medium,,"Array, Game, Greedy, Math, Sort",https://leetcode.com/problems/maximum-number-of-coins-you-can-get/,leetcode_daily,
+1685,Sum of Absolute Differences in a Sorted Array,Medium,Low,,"Array, Math, Prefix",https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/,leetcode_daily,
+2147,Number of Ways to Divide a Long Corridor,Hard,,todo,,https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/,leetcode_daily,
+1570,Dot Product of Two Sparse Vectors,Medium,Medium,,"2pt, Array, Design, Hash",https://leetcode.com/problems/dot-product-of-two-sparse-vectors/,facebookFreq,
+1662,Check If Two String Arrays are Equivalent,Easy,Low,,"Array, string",https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/,leetcode_daily,
+1099,Two Sum Less Than K,Easy,Low,,"2pt, Array, BS_todo, Sort",https://leetcode.com/problems/two-sum-less-than-k/,leetcode_daily,
+791,Custom Sort String,Medium,Low,,"Hash, Sort, string",https://leetcode.com/problems/custom-sort-string/description/,facebookFreq,
+938,Range Sum of BST,Easy,Low,,"BST, DFS, Tree",https://leetcode.com/problems/range-sum-of-bst/description/,facebookFreq,
+249,Group Shifted Strings,Medium,Low,,"Array, Hash, string",https://leetcode.com/problems/group-shifted-strings/,facebookFreq,
+766,Toeplitz Matrix,Easy,Medium,,"Matrix, matrix-diagTraverse",https://leetcode.com/problems/toeplitz-matrix/description/,facebookFreq,
+523,Continuous Subarray Sum,Medium,High,No Idea At First,"Array, Hash, Math, Prefix",https://leetcode.com/problems/continuous-subarray-sum/description/,facebookFreq,
+670,Maximum Swap,Medium,Medium,,"Greedy, Math, string",https://leetcode.com/problems/maximum-swap/description/,facebookFreq,
+921,Minimum Add to Make Parentheses Valid,Medium,Low,,"Greedy, stack, string",https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/,facebookFreq,
+708,Insert into a Sorted Circular Linked List,Medium,Medium,HardToImplement,LinkedList,https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/description/,facebookFreq,
+296,Best Meeting Point,Hard,High,No Idea At First,"Array, Math, Matrix, Sort, median",https://leetcode.com/problems/best-meeting-point/description/,facebookFreq,
+1047,Remove All Adjacent Duplicates In String,Easy,Pass,,"stack, string",https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/,facebookFreq,
+706,Design HashMap,Easy,Low,,"Array, Design, Hash, LinkedList",https://leetcode.com/problems/design-hashmap/description/,facebookFreq,
+1331,Rank Transform of an Array,Easy,Low,toRevisit,"Array, Hash, Sort",https://leetcode.com/problems/rank-transform-of-an-array/description/,facebookFreq,
+367,Valid Perfect Square,Easy,Low,,"BS_Val, Math",https://leetcode.com/problems/valid-perfect-square/description/,facebookFreq,
+1539,Kth Missing Positive Number,Easy,High,"HardToImplement, More Solution, No Idea At First, toRevisit","Array, BS_todo",https://leetcode.com/problems/kth-missing-positive-number/description/,facebookFreq,
+270,Closest Binary Search Tree Value,Easy,Low,,"BST, BS_todo, DFS, Tree",https://leetcode.com/problems/closest-binary-search-tree-value/description/,facebookFreq,
+953,Verifying an Alien Dictionary,Easy,Low,,"Array, Hash, string",https://leetcode.com/problems/verifying-an-alien-dictionary/,facebookFreq,
+2951,Find the Peaks,Easy,Pass,,Array,https://leetcode.com/problems/find-the-peaks/description/,LC_Contests,
+2952,Minimum Number of Coins to be Added,Medium,High,"No Idea At First, todo",,https://leetcode.com/problems/minimum-number-of-coins-to-be-added/description/,LC_Contests,
+2953,Count Complete Substrings,Medium,High,"No Idea At First, todo",,https://leetcode.com/problems/count-complete-substrings/,LC_Contests,
+2954,Count the Number of Infection Sequences,Hard,,todo,,https://leetcode.com/problems/count-the-number-of-infection-sequences/description/,LC_Contests,
+317,Shortest Distance from All Buildings,Hard,Medium,"More Solution, toSummarize","BFS, Matrix",https://leetcode.com/problems/shortest-distance-from-all-buildings/description/,facebookFreq,
+269,Alien Dictionary,Hard,High,HardToImplement,"Array, BFS, DFS, Graph, TopSorting, string",https://leetcode.com/problems/alien-dictionary/description/,facebookFreq,
+666,Path Sum IV,Medium,Medium,HardToImplement,"Array, DFS, Hash, Tree",https://leetcode.com/problems/path-sum-iv/description/,ticktokFreq,
+1345,https://leetcode.com/problems/jump-game-iv/,Hard,Medium,CalcuComplexity,"Array, BFS, Hash",https://leetcode.com/problems/jump-game-iv/description/,ticktokFreq,
+418,Sentence Screen Fitting,Medium,High,"HardToImplement, todo","DP, simulation, string",https://leetcode.com/problems/sentence-screen-fitting/description/,ticktokFreq,
+333,Largest BST Subtree,Medium,Low,More Solution,"BST, DFS, DP, Tree",https://leetcode.com/problems/largest-bst-subtree/description/,ticktokFreq,
+2217,Find Palindrome With Fixed Length,Medium,Low,,"Array, Math",https://leetcode.com/problems/find-palindrome-with-fixed-length/description/,ticktokFreq,
+1209,Remove All Adjacent Duplicates in String II,Medium,Medium,"More Solution, toRevisit","2pt, stack, string",https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/,ticktokFreq,
+1944,Number of Visible People in a Queue,Hard,High,No Idea At First,"Array, monotonic, stack",https://leetcode.com/problems/number-of-visible-people-in-a-queue/description/,ticktokFreq,
+2060,Check if an Original String Exists Given Two Encoded Strings,Hard,High,"HardToImplement, No Idea At First, toRevisit","DP, recursion, string",https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/description/,facebookFreq,
+395,Longest Substring with At Least K Repeating Characters,Medium,High,"More Solution, No Idea At First","Divide and Conquer, Hash, Sliding Window, string",https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/,ticktokFreq,
+2365,Task Scheduler II,Medium,Medium,HardToImplement,"Array, Hash, simulation",https://leetcode.com/problems/task-scheduler-ii/description/,facebookFreq,
+825,Friends Of Appropriate Ages,Medium,High,"More Solution, No Idea At First","2pt, Array, BS_todo, Sort",https://leetcode.com/problems/friends-of-appropriate-ages/description/,facebookFreq,
+398,Random Pick Index,Medium,Medium,More Solution,"Hash, Math, Random, ReservoirSampling",https://leetcode.com/problems/random-pick-index/description/,facebookFreq,
+1541,Minimum Insertions to Balance a Parentheses String,Medium,High,"HardToImplement, No Idea At First","Greedy, stack, string",https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/description/,facebookFreq,
+1868,Product of Two Run-Length Encoded Arrays,Medium,Medium,,"2pt, Array",https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/,facebookFreq,
+1358,Number of Substrings Containing All Three Characters,Medium,High,"HardToImplement, No Idea At First","2pt_SameDir_minWin_chkValidAftR, Hash, string",https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/,facebookFreq,
+1123,Lowest Common Ancestor of Deepest Leaves,Medium,Medium,More Solution,"BFS, DFS, Hash, Tree",https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/,facebookFreq,
+1522,Diameter of N-Ary Tree,Medium,Medium,HardToImplement,"DFS, Tree",https://leetcode.com/problems/diameter-of-n-ary-tree/description/,facebookFreq,
+1344,Angle Between Hands of a Clock,Medium,Low,,Math,https://leetcode.com/problems/angle-between-hands-of-a-clock/description/,facebookFreq,
+958,Check Completeness of a Binary Tree,Medium,High,"More Solution, No Idea At First","BFS, DFS, Tree",https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/,facebookFreq,
+424,Longest Repeating Character Replacement,Medium,Medium,No Idea At First,"2pt_SameDir_maxWin_chkValidBfrR, Hash, string",https://leetcode.com/problems/longest-repeating-character-replacement/description/,facebookFreq,
+2597,The Number of Beautiful Subsets,Medium,High,"HardToImplement, More Solution, No Idea At First, toRevisit, toSummarize","Array, BackTracking, DP",https://leetcode.com/problems/the-number-of-beautiful-subsets/description/,facebookFreq,
+545,Boundary of Binary Tree,Medium,Medium,,"DFS, Tree",https://leetcode.com/problems/boundary-of-binary-tree/description/,facebookFreq,
+310,Minimum Height Trees,Medium,High,"No Idea At First, toSummarize","Graph, TopSorting, Tree",https://leetcode.com/problems/minimum-height-trees/description/,facebookFreq,
+223,Rectangle Area,Medium,Low,,"Geometry, Math",https://leetcode.com/problems/rectangle-area/description/,facebookFreq,
+529,Minesweeper,Medium,Low,,"BFS, DFS, Matrix",https://leetcode.com/problems/minesweeper/description/,facebookFreq,
+2235,Add Two Integers,Easy,Pass,,Math,https://leetcode.com/problems/add-two-integers/description/,microsoftFreq,
+1189,Maximum Number of Balloons,Easy,Pass,,"Counting, Hash, string",https://leetcode.com/problems/maximum-number-of-balloons/description/,microsoftFreq,
+697,Degree of an Array,Easy,Low,,"Array, Hash",https://leetcode.com/problems/degree-of-an-array/description/,walmartFreq,
+716,Max Stack,Hard,Medium,HardToImplement,"Design, LinkedList, OrderMap, stack",https://leetcode.com/problems/max-stack/,walmartFreq,
+2472,Maximum Number of Non-overlapping Palindrome Substrings,Hard,High,"Dig More, HardToImplement, More Solution, No Idea At First","DP, string",https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/description/,walmartFreq,
+1260,Shift 2D Grid,Easy,Low,,"Math, Matrix",https://leetcode.com/problems/shift-2d-grid/description/,microsoftFreq,
+1971,Find if Path Exists in Graph,Medium,Low,More Solution,"BFS, DFS, Graph, Union Find",https://leetcode.com/problems/find-if-path-exists-in-graph/description/,microsoftFreq,
+2236,Root Equals Sum of Children,Easy,Pass,,Tree,https://leetcode.com/problems/root-equals-sum-of-children/description/,microsoftFreq,
+974,Subarray Sums Divisible by K,Medium,Low,,"Array, Hash, Prefix",https://leetcode.com/problems/subarray-sums-divisible-by-k/submissions/1118757245/,microsoftFreq,
+402,Remove K Digits,Medium,High,"No Idea At First, toSummarize","Greedy, monotonic, stack, string",https://leetcode.com/problems/remove-k-digits/description/,microsoftFreq,
+456,132 Pattern,Medium,High,"Dig More, No Idea At First, toSummarize","Array, BS_todo, OrderSet, SegmentTree_todo, monotonic, stack",https://leetcode.com/problems/132-pattern/description/,microsoftFreq,
+473,Matchsticks to Square,Medium,High,"More Solution, No Idea At First, toSummarize","Array, BackTracking, Bit Manipulation, BitMask, DP",https://leetcode.com/problems/matchsticks-to-square/description/,microsoftFreq,
+1405,Longest Happy String,Medium,High,"More Solution, No Idea At First, toRevisit","Greedy, PQ, recursion, string",https://leetcode.com/problems/longest-happy-string/description/,microsoftFreq,
+2384,Largest Palindromic Number,Medium,Low,,"Greedy, Hash, string",https://leetcode.com/problems/largest-palindromic-number/description/,microsoftFreq,0
+2850,Minimum Moves to Spread Stones Over Grid,Medium,High,"More Solution, No Idea At First","BFS, BackTracking, DFS, DP, Matrix, recursion",https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/description/,microsoftFreq,
+2007,Find Original Array From Doubled Array,Medium,Medium,More Solution,"Array, Greedy, Hash, OrderMap, OrderSet, Sort",https://leetcode.com/problems/find-original-array-from-doubled-array/description/,microsoftFreq,
+2028,https://leetcode.com/problems/find-missing-observations/,Medium,Low,,"Array, Math, simulation",https://leetcode.com/problems/find-missing-observations/description/,microsoftFreq,
+2251,Number of Flowers in Full Bloom,Hard,Medium,More Solution,"Array, BS_lower_upper_bound, Hash, OrderSet, Prefix, Sort",https://leetcode.com/problems/number-of-flowers-in-full-bloom/description/,microsoftFreq,
+1120,Maximum Average Subtree,Medium,Pass,,"DFS, Tree",https://leetcode.com/problems/maximum-average-subtree/description/,leetcode_daily,
+1360,Number of Days Between Two Dates,Easy,Medium,HardToImplement,"Math, string",https://leetcode.com/problems/number-of-days-between-two-dates/,googleFreq,
+2345,Finding the Number of Visible Mountains,Medium,Medium,"HardToImplement, More Solution","Array, Sort, monotonic, stack",https://leetcode.com/problems/finding-the-number-of-visible-mountains/,googleFreq,
+2458,Height of Binary Tree After Subtree Removal Queries,Hard,High,"HardToImplement, No Idea At First, checkBetterSolution","Array, BFS, DFS, Tree",https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/description/,googleFreq,
+2437,Number of Valid Clock Times,Easy,Pass,,"simulation, string",https://leetcode.com/problems/number-of-valid-clock-times/description/,googleFreq,
+1136,Parallel Courses,Medium,Low,,"Graph, TopSorting",https://leetcode.com/problems/parallel-courses/description/,googleFreq,
+2965,Find Missing and Repeated Values,Easy,Low,More Solution,"Hash, Matrix, circle",https://leetcode.com/problems/find-missing-and-repeated-values/description/,LC_Contests,
+2966,Divide Array Into Arrays With Max Difference,Medium,Low,,"Array, Sliding Window, Sort",https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/,LC_Contests,
+2967,Minimum Cost to Make Array Equalindromic,Medium,High,HardToImplement,"Sort, median",https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic/description/,LC_Contests,
+2968,Apply Operations to Maximize Frequency Score,Hard,High,HardToImplement,"Sliding Window, Sort, median",https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic/description/,LC_Contests,
+2404,Meeting Rooms III,Hard,High,"CalcuComplexity, HardToImplement, checkBetterSolution","Array, PQ, Sort, queue, simulation",https://leetcode.com/problems/meeting-rooms-iii/,googleFreq,
+1494,Parallel Courses II,Hard,High,"HardToImplement, No Idea At First, toSummarize","Bit Manipulation, BitMask, DP, Graph",https://leetcode.com/problems/parallel-courses-ii/description/,googleFreq,
+2035,Partition Array Into Two Arrays to Minimize Sum Difference,Hard,High,"Dig More, HardToImplement, No Idea At First, out of scope, toSummarize, todo","2pt, Array, BS_todo, Bit Manipulation, BitMask, DP, OrderSet",https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/description/,googleFreq,
+564,Find the Closest Palindrome,Hard,Medium,checkBetterSolution,"Math, string",https://leetcode.com/problems/find-the-closest-palindrome/description/,googleFreq,
+493,Reverse Pairs,Hard,High,"out of scope, toSummarize, todo","Array, BS_todo, BinaryIndexedTree, Divide and Conquer, MergeSort, OrderSet, SegmentTree_todo",https://leetcode.com/problems/reverse-pairs/description/,googleFreq,
+1036,Escape a Large Maze,Hard,Medium,No Idea At First,"Array, BFS, Brainteaser, DFS, Hash",https://leetcode.com/problems/escape-a-large-maze/,googleFreq,
+1074,Number of Submatrices That Sum to Target,Hard,Medium,,"Hash, Matrix, Prefix",https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/,googleFreq,
+834,Sum of Distances in Tree,Hard,High,"Dig More, No Idea At First, toRevisit","DFS, DP, Graph, ReRoot, Tree",https://leetcode.com/problems/sum-of-distances-in-tree/description/,googleFreq,
+2088,Count Fertile Pyramids in a Land,Hard,Medium,"No Idea At First, checkBetterSolution","Array, DP, Matrix",https://leetcode.com/problems/count-fertile-pyramids-in-a-land/,googleFreq,
+939,Minimum Area Rectangle,Medium,Medium,"More Solution, No Idea At First","Array, Geometry, Hash, Math, Sort",https://leetcode.com/problems/minimum-area-rectangle/description/,googleFreq,
+365,Water and Jug Problem,Medium,High,"More Solution, No Idea At First","BFS, DFS, Math",https://leetcode.com/problems/water-and-jug-problem/description/,googleFreq,
+2116,Check if a Parentheses String Can Be Valid,Medium,High,No Idea At First,"Greedy, stack, string",https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/,googleFreq,
+556,Next Greater Element III,Medium,Medium,,"2pt, Math, monotonic, string",https://leetcode.com/problems/next-greater-element-iii/description/,googleFreq,
+949,Largest Time for Given Digits,Medium,Medium,"More Solution, No Idea At First, toSummarize","Permutation, simulation, string",https://leetcode.com/problems/largest-time-for-given-digits/description/,googleFreq,
+1834,Single-Threaded CPU,Medium,Medium,"Dig More, HardToImplement","Array, PQ, Sort",https://leetcode.com/problems/single-threaded-cpu/description/,googleFreq,
+1386,Cinema Seat Allocation,Medium,Medium,HardToImplement,"Array, Bit Manipulation, Greedy, Hash",https://leetcode.com/problems/cinema-seat-allocation/description/,googleFreq,
+904,Fruit Into Baskets,Medium,Medium,toSummarize,2pt_SameDir_maxWin_chkValidAftR,https://leetcode.com/problems/fruit-into-baskets/description/,googleFreq,
+1401,Circle and Rectangle Overlapping,Medium,Medium,No Idea At First,"Geometry, Math",https://leetcode.com/problems/circle-and-rectangle-overlapping/description/,googleFreq,
+1007,Minimum Domino Rotations For Equal Row,Medium,Medium,"More Solution, checkBetterSolution","Array, Greedy",https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/description/,googleFreq,
+2131,Longest Palindrome by Concatenating Two Letter Words,Medium,Medium,"HardToImplement, More Solution","Array, Counting, Greedy, Hash, string",https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/description/,googleFreq,
+247,Strobogrammatic Number II,Medium,Medium,toSummarize,"Array, BackTracking, recursion, string",https://leetcode.com/problems/strobogrammatic-number-ii/description/,googleFreq,
+1062,Longest Repeating Substring,Medium,High,"More Solution, No Idea At First, checkBetterSolution","BS_todo, DP, Hash, Prefix, RollingHash, string",https://leetcode.com/problems/longest-repeating-substring/description/,googleFreq,
+2863,Maximum Length of Semi-Decreasing Subarrays,Medium,High,"No Idea At First, toSummarize","Array, Hash, Sort",https://leetcode.com/problems/maximum-length-of-semi-decreasing-subarrays/description/,googleFreq,
+1509,Minimum Difference Between Largest and Smallest Value in Three Moves,Medium,Low,,"Array, Greedy, Sort",https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/,googleFreq,
+413,Arithmetic Slices,Medium,Low,More Solution,"Array, DP",https://leetcode.com/problems/arithmetic-slices/description/,googleFreq,
+1254,Number of Closed Islands,Medium,Pass,,"BFS, DFS, Matrix, Union Find",https://leetcode.com/problems/number-of-closed-islands/description/,googleFreq,
+2091,Removing Minimum and Maximum From Array,Medium,Low,,"Array, Greedy",https://leetcode.com/problems/removing-minimum-and-maximum-from-array/description/,googleFreq,
+362,Design Hit Counter,Medium,Low,More Solution,"Array, BS_todo, Design, Hash, queue",https://leetcode.com/problems/design-hit-counter/description/,googleFreq,
+833,https://leetcode.com/problems/find-and-replace-in-string/,Medium,Low,More Solution,"Array, Hash, Sort, string",https://leetcode.com/problems/find-and-replace-in-string/description/,googleFreq,
+1929,Concatenation of Array,Easy,Pass,,Array,https://leetcode.com/problems/concatenation-of-array/description/,googleFreq,
+1572,Matrix Diagonal Sum,Easy,Pass,,Matrix,https://leetcode.com/problems/matrix-diagonal-sum/,googleFreq,
+1512,Number of Good Pairs,Easy,Pass,,"Array, Counting, Hash, Math",https://leetcode.com/problems/number-of-good-pairs/description/,googleFreq,
+1480,1480. Running Sum of 1d Array,Easy,Pass,,"Array, Prefix",https://leetcode.com/problems/running-sum-of-1d-array/description/,googleFreq,
+1365,How Many Numbers Are Smaller Than the Current Number,Easy,Pass,,"Array, Counting, Hash, Sort",https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/,googleFreq,
+441,Arranging Coins,Easy,Pass,,"BS_Val, Math",https://leetcode.com/problems/arranging-coins/description/,googleFreq,
+485,Max Consecutive Ones,Easy,Low,,"Array, Contribution",https://leetcode.com/problems/max-consecutive-ones/description/,googleFreq,
+896,Monotonic Array,Easy,Pass,,Array,https://leetcode.com/problems/monotonic-array/description/,googleFreq,
+832,Flipping an Image,Easy,Pass,,"2pt, Array, Bit Manipulation, Matrix, simulation",https://leetcode.com/problems/flipping-an-image/,googleFreq,
+897,Increasing Order Search Tree,Easy,Low,,"BFS, DFS, Tree, stack",https://leetcode.com/problems/increasing-order-search-tree/description/,googleFreq,
+1313,Decompress Run-Length Encoded List,Easy,Pass,,Array,https://leetcode.com/problems/decompress-run-length-encoded-list/description/,googleFreq,
+496,Next Greater Element I,Easy,Low,,"Array, Hash, monotonic, stack",https://leetcode.com/problems/next-greater-element-i/description/,googleFreq,
+2973,Find Number of Coins to Place in Tree Nodes,Hard,Medium,HardToImplement,"DFS, Graph, Tree, recursion",https://leetcode.com/problems/find-number-of-coins-to-place-in-tree-nodes/,googleFreq,
+2977,Minimum Cost to Convert String II,Hard,High,"CalcuComplexity, HardToImplement, No Idea At First, out of scope","Floyd, Graph, Trie, dp-TimeSeqFromLastX, string",https://leetcode.com/problems/minimum-cost-to-convert-string-ii/description/,leetcode_daily,
+2976,Minimum Cost to Convert String I,Medium,Medium,,"Floyd, Graph, string",https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/,leetcode_daily,

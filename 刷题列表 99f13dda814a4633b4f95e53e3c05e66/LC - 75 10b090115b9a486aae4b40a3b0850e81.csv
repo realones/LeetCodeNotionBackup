@@ -1,0 +1,38 @@
+﻿#,Name,Difficult,Priority,Status,Tags,link,source,practicedTimes
+1768,Merge Strings Alternately,Easy,Pass,,"2pt, string",https://leetcode.com/problems/merge-strings-alternately,LC_75,
+1071,Greatest Common Divisor of Strings,Easy,High,"More Solution, No Idea At First","Math, string",https://leetcode.com/problems/greatest-common-divisor-of-strings/description/,LC_75,
+1431,Kids With the Greatest Number of Candies,Easy,Pass,,Array,https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/,"AmazonFreq, LC_75",1
+605,Can Place Flowers,Easy,High,HardToImplement,"Array, Greedy",https://leetcode.com/problems/can-place-flowers,LC_75,
+345,Reverse Vowels of a String,Easy,Medium,,"2pt_DiffDir, Partition, string",https://leetcode.com/problems/reverse-vowels-of-a-string,LC_75,
+151,Reverse Words in a String,Medium,High,More Solution,"2pt, 3 Step Rotate, string",https://leetcode.com/problems/reverse-words-in-a-string/,"LC_75, LC_Top_Interview_150",
+238,Product of Array Except Self,Medium,Medium,"More Solution, No Idea At First","Array, Prefix",https://leetcode.com/problems/product-of-array-except-self/,"LC_75, LC_Top_Interview_150, ticktokFreq",1
+334,Increasing Triplet Subsequence,Medium,High,"More Solution, No Idea At First","Array, Greedy, Prefix",https://leetcode.com/problems/increasing-triplet-subsequence/,"HuaHua, LC_75",
+443,String Compression,Medium,High,"Dig More, HardToImplement, More Solution","2pt, string",https://leetcode.com/problems/string-compression,LC_75,
+435,Non-overlapping Intervals,Medium,Medium,More Solution,"Array, DP, Greedy, Interval, Sort",https://leetcode.com/problems/non-overlapping-intervals/,LC_75,
+72,Edit Distance,Hard,High,,"DP, Matrix, StringMatchToMatrix, dp-TwoSeq, string",https://leetcode.com/problems/edit-distance/,"HuaHua, LC_75, LC_Top_Interview_150, jiuzhang, wp动归套路, 算高DP上, 算高DP下",1
+198,House Robber,Medium,Pass,,"Array, DP, dp-TimeSeqFromLastOne-Power, stateMachine",https://leetcode.com/problems/house-robber/,"HuaHua, LC_75, LC_Top_Interview_150, jiuzhang, wp动归套路, 算高DP上",1
+283,Move Zeroes,Easy,High,,"2pt_SameDir_diffSpeed, Array, swap_put_keep_sequence",https://leetcode.com/problems/move-zeroes/,"HuaHua, LC_75, jiuzhang, wisdompeak, 算初TwoPointers",1
+11,Container With Most Water,Medium,High,"No Idea At First, toSummarize","2pt, Array, Greedy",https://leetcode.com/problems/container-with-most-water/,"HuaHua, LC_75, LC_Top_Interview_150, wisdompeak",
+2542,Maximum Subsequence Score,Medium,High,,"Array, Greedy, PQ, Sort",https://leetcode.com/problems/maximum-subsequence-score/,"LC_75, leetcode_daily",
+739,Daily Temperatures,Medium,Medium,,"Array, monotonic, stack",https://leetcode.com/problems/daily-temperatures/,LC_75,
+2300,Successful Pairs of Spells and Potions,Medium,Medium,"HardToImplement, More Solution","2pt, Array, BS_lower_upper_bound, Sort",https://leetcode.com/problems/successful-pairs-of-spells-and-potions,LC_75,
+875,Koko Eating Bananas,Medium,Low,,"Array, BS_Val",https://leetcode.com/problems/koko-eating-bananas,"HuaHua, LC_75",
+649,Dota2 Senate,Medium,High,"More Solution, No Idea At First, toSummarize","Greedy, queue, string",https://leetcode.com/problems/dota2-senate/,LC_75,
+2390,Removing Stars From a String,Medium,Pass,,"simulation, stack, string",https://leetcode.com/problems/removing-stars-from-a-string,LC_75,
+1657,Determine if Two Strings Are Close,Medium,Low,More Solution,"Hash, Sort, string",https://leetcode.com/problems/determine-if-two-strings-are-close,LC_75,
+1456,Maximum Number of Vowels in a Substring of Given Length,Medium,Pass,,"Sliding Window, string",https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length,LC_75,
+1493,Longest Subarray of 1's After Deleting One Element,Medium,Medium,More Solution,"Array, Sliding Window, dp-TimeSeqFromLastOne-Power, stateMachine",https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element,"HuaHua, LC_75, leetcode_daily",
+1004,Max Consecutive Ones III,Medium,High,No Idea At First,"Array, BS_Val, Prefix, Sliding Window",https://leetcode.com/problems/max-consecutive-ones-iii,LC_75,
+2215,Find the Difference of Two Arrays,Easy,Pass,,"Array, Hash",https://leetcode.com/problems/find-the-difference-of-two-arrays,LC_75,
+643,Maximum Average Subarray I,Easy,Low,,"Array, Sliding Window",https://leetcode.com/problems/maximum-average-subarray-i,LC_75,
+1207,Unique Number of Occurrences,Easy,Pass,,"Array, Hash",https://leetcode.com/problems/unique-number-of-occurrences,LC_75,
+1679,Max Number of K-Sum Pairs,Medium,Low,More Solution,"2pt, Array, Hash, Sort",https://leetcode.com/problems/max-number-of-k-sum-pairs,LC_75,
+216,Combination Sum III,Medium,Low,,"Array, BackTracking, search",https://leetcode.com/problems/combination-sum-iii,"HuaHua, LC_75",
+1353,Maximum Number of Events That Can Be Attended,Medium,High,No Idea At First,"Array, Greedy, PQ, Sort",https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended,"HuaHua, LC_75",
+735,Asteroid Collision,Medium,Low,checkBetterSolution,"Array, simulation, stack",https://leetcode.com/problems/asteroid-collision,"HuaHua, LC_75",
+746,Min Cost Climbing Stairs,Easy,Medium,More Solution,"Array, dp-TimeSeqFromLastOne-Power",https://leetcode.com/problems/min-cost-climbing-stairs,"HuaHua, LC_75",
+2462,Total Cost to Hire K Workers,Medium,Medium,HardToImplement,"2pt, Array, PQ, simulation",https://leetcode.com/problems/total-cost-to-hire-k-workers/description/,"LC_75, leetcode_daily",
+714,Best Time to Buy and Sell Stock with Transaction Fee,Medium,High,No Idea At First,"Array, DP, Greedy, dp-TimeSeqFromLastOne-Power, stateMachine",https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/,"HuaHua, LC_75, leetcode_daily",
+1732,Find the Highest Altitude,Easy,Pass,,"Array, Prefix",https://leetcode.com/problems/find-the-highest-altitude,"LC_75, leetcode_daily",
+452,Minimum Number of Arrows to Burst Balloons,Medium,High,No Idea At First,"Array, Geometry, Greedy, Interval, Sort",https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/,"HuaHua, LC_75, LC_Top_Interview_150",
+392,Is Subsequence,Easy,Medium,"More Solution, toSummarize","2pt, DP, string",https://leetcode.com/problems/is-subsequence/,"LC_75, LC_Top_Interview_150",

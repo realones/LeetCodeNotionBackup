@@ -1,0 +1,4 @@
+﻿Name,#,Created time,Difficult,Last edited time,Priority,Status,Tags,link,practicedTimes,related,source
+Maximum Number of People That Can Be Caught in Tag,1989,"May 12, 2023 2:43 AM",,"October 12, 2023 8:00 PM",,new,2pt,,,,"wisdompeak, wp-2pt"
+Number of Excellent Pairs,2354,"May 12, 2023 2:44 AM",Hard,"October 14, 2023 12:34 AM",High,"Dig More, More Solution","2pt_DiffDir, Array, BS_todo, Bit Manipulation, Hash, Math",https://leetcode.com/problems/number-of-excellent-pairs/,1,,"wisdompeak, wp-2pt"
+Merge Operations to Turn Array Into a Palindrome,2422,"May 12, 2023 2:44 AM",Medium,"November 17, 2023 1:26 AM",Medium,checkBetterSolution,"2pt, Array, Greedy",https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome,1,,"AmazonFreq, wisdompeak, wp-2pt"
